@@ -1,4 +1,4 @@
-# Votaciones Diputados Argentina
+# Votaciones de Diputados Argentina de forma sistematizada
 
 Este repositorio contiene la información sistematizada y normalizada de las votaciones en la Cámara de Diputados desde el año 1993 a la actualidad.
 
