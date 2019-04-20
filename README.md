@@ -15,3 +15,9 @@ Teniendo la información de las leyes y las votaciones correspondientes, se proc
 ## ¿Por qué?
 
 Por diversión y porque me interesa realizar minería de datos respecto de cómo vota cada legislador/a, los bloques, entre otras ideas. Sé que existen muchos blogs, analistas, consultoras, pero tenía ganas de poder responder a mis propias preguntas y sacar conclusiones a través del cruce de datos que me habilita tener toda esta información sistematizada.
+
+# nahuelhds
+
+Segui mi actividad en:
+- Medium: [@nahuelhds](http://medium.com/@nahuelhds)
+- Twitter: [@nahuelhds](https://twitter.com/nahuelhds)
