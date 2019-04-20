@@ -1,8 +1,16 @@
 # Votaciones Diputados Argentina
 
-Este repositorio contiene la información normalizada, generada con un bot que permitió la sistematización de las votaciones realizadas en la Cámara de Diputados de Argentina desde el año 1993 a la actualidad.
+Este repositorio contiene la información sistematizada y normalizada de las votaciones en la Cámara de Diputados desde el año 1993 a la actualidad.
 
 Se proveen los archivos en distintos formatos para habilitar su uso por la comunidad. Así como yo tuve la inquietud y no encontré nada por el estilo, estimo que quizás hayan otras personas que les interese contar con esta información en estos formatos.
+
+## Pedidos y sugerencias
+
+Por cualquier pedido o sugerencia, [crear un issue en este mismo repositorio](https://github.com/nahuelhds/votaciones-diputados-argentina/issues/new).
+
+## Para colaborar
+
+El repositorio está abierto a recibir colaboraciones. Por ejemplo, subir esta misma información en otro formato de utilidad. Lo ideal sería hacerlo a través de un PR (Pull Request), aunque se pueden contactar conmigo para ver otras formas de recibir sus colaboraciones.
 
 ## ¿Cómo se hizo?
 
