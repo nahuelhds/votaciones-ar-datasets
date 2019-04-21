@@ -4,14 +4,6 @@ Este repositorio contiene la información sistematizada y normalizada de las vot
 
 Se proveen los archivos en distintos formatos para habilitar su uso por la comunidad. Así como yo tuve la inquietud y no encontré nada por el estilo, estimo que quizás hayan otras personas que les interese contar con esta información en estos formatos.
 
-## Pedidos y sugerencias
-
-Por cualquier pedido o sugerencia, [crear un issue en este mismo repositorio](https://github.com/nahuelhds/votaciones-diputados-argentina/issues/new).
-
-## Para colaborar
-
-El repositorio está abierto a recibir colaboraciones. Por ejemplo, subir esta misma información en otro formato de utilidad. Lo ideal sería hacerlo a través de un PR (Pull Request), aunque se pueden contactar conmigo para ver otras formas de recibir sus colaboraciones.
-
 ## ¿Cómo se hizo?
 
 Se codificó un bot con la librería [Puppeteer](https://pptr.dev/) el cual ingresa a la página oficial de la HCDN: https://votaciones.hcdn.gob.ar/.
@@ -22,7 +14,15 @@ Teniendo la información de las leyes y las votaciones correspondientes, se proc
 
 ## ¿Por qué?
 
-Por diversión y porque me interesa realizar minería de datos respecto de cómo vota cada legislador/a, los bloques, entre otras ideas. Sé que existen muchos blogs, analistas, consultoras, pero tenía ganas de poder responder a mis propias preguntas y sacar conclusiones a través del cruce de datos que me habilita tener toda esta información sistematizada.
+Por diversión, porque sí a los [Datos Abiertos](https://es.wikipedia.org/wiki/Datos_abiertos) y porque me interesa realizar minería de datos respecto de cómo vota cada legislador/a, los bloques, entre otras ideas. Sé que existen muchos blogs, analistas, consultoras, pero tenía ganas de poder responder a mis propias preguntas y sacar conclusiones a través del cruce de datos que me habilita tener toda esta información sistematizada.
+
+## Pedidos y sugerencias
+
+Por cualquier pedido o sugerencia, [crear un issue en este mismo repositorio](https://github.com/nahuelhds/votaciones-diputados-argentina/issues/new).
+
+## Colaboraciones
+
+Si te interesa colaborar (por ejemplo, subiendo esta misma información en otro formato de utilidad) idealmente podés hacerlo a través de un PR (Pull Request). Si no, contactate conmigo para ver otras formas de recibir sus colaboraciones. 
 
 # nahuelhds
 
