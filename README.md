@@ -17,6 +17,7 @@ Teniendo la información de las leyes y las votaciones correspondientes, se proc
 Por diversión, porque sí a los [Datos Abiertos](https://es.wikipedia.org/wiki/Datos_abiertos) y porque me interesa realizar minería de datos respecto de cómo vota cada legislador/a, los bloques, entre otras ideas. Sé que existen muchos blogs, analistas, consultoras, pero tenía ganas de poder responder a mis propias preguntas y sacar conclusiones a través del cruce de datos que me habilita tener toda esta información sistematizada.
 
 ## Jugar con los datos localmente
+
 Para poder jugar un poco con los datos de manera local se provee un docker-compose. Para poder hacer uso del mismo se necesita tener instalado [docker](https://docs.docker.com/install/) y [docker-compose](https://docs.docker.com/compose/install/).
 Con estos requerimientos instalados solo es necesario correr el siguiente comando:
 
@@ -35,10 +36,16 @@ Por cualquier pedido o sugerencia, [crear un issue en este mismo repositorio](ht
 
 ## Colaboraciones
 
-Si te interesa colaborar (por ejemplo, subiendo esta misma información en otro formato de utilidad) idealmente podés hacerlo a través de un PR (Pull Request). Si no, contactate conmigo para ver otras formas de recibir sus colaboraciones. 
+Si te interesa colaborar (por ejemplo, subiendo esta misma información en otro formato de utilidad) idealmente podés hacerlo a través de un PR (Pull Request). Si no, contactate conmigo para ver otras formas de recibir sus colaboraciones.
 
 # nahuelhds
 
 Segui mi actividad en:
+
 - Medium: [@nahuelhds](http://medium.com/@nahuelhds)
 - Twitter: [@nahuelhds](https://twitter.com/nahuelhds)
+
+Si te gusta lo que hago y querés darme una mano:
+
+- Podés [invitarme un café en Ko-Fi](https://ko-fi.com/nahuelhds)
+- O también [dándome apoyo en Patreon](https://www.patreon.com/nahuelhds)
