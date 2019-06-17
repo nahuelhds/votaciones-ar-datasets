@@ -6,12 +6,12 @@ Se proveen los archivos en distintos formatos para habilitar su uso por la comun
 
 ## Datasets
 
-### Senadores
+### Senadores (2010-2019)
 
 - [CSV](data/senadores/csv)
 - [JSON](data/senadores/json)
 
-### Diputados
+### Diputados (1993-2018)
 
 - [CSV](data/unificado/csv)
 - [JSON](data/unificado/json)
