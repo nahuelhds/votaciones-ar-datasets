@@ -20,11 +20,11 @@ Se proveen los archivos en distintos formatos para habilitar su uso por la comun
 
 ## Cómo se hizo
 
-Se codificó un bot con la librería [Puppeteer](https://pptr.dev/) el cual ingresa a la página oficial de la HCDN: https://votaciones.hcdn.gob.ar/.
+> Podés ver el detalle de lo realizado en [el proyecto Scrapper](https://github.com/nahuelhds/votaciones-ar-scrapper) que también está subido a GitHub.
 
-Dicho bot, ingresa a cada uno de los años disponibles y crea un registro por cada ley disponible en dicha página. Luego, ingresa en el detalle de cada una de esas leyes y descarga dicha información.
+Se codificó un bot con la librería [Puppeteer](https://pptr.dev/) el cual ingresa a las páginas oficiales de cada cámara, tanto de diputados como de senadores. Dicho bot, ingresa a cada uno de los años disponibles y crea un registro por cada ley disponible en dicha página. Luego, ingresa en el detalle de cada una de esas leyes y descarga dicha información.
 
-Teniendo la información de las leyes y las votaciones correspondientes, se procedió a generar una base de datos SQL para sistematizar, normalizar y relacionar toda la información suministrada.
+Finalmente, y teniendo la información de las leyes y las votaciones correspondientes, se procedió a generar una base de datos SQL para sistematizar, normalizar y relacionar toda la información suministrada.
 
 ## Motivación
 
