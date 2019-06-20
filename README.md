@@ -6,12 +6,21 @@ Se proveen los archivos en distintos formatos para habilitar su uso por la comun
 
 ## Datasets
 
+### Diputados (1993-2019)
+
+- [CSV](data/diputados/csv)
+- [JSON](data/diputados/json)
+
 ### Senadores (2010-2019)
 
 - [CSV](data/senadores/csv)
 - [JSON](data/senadores/json)
 
-### Diputados (1993-2018)
+### Unificados
+
+En esta carpeta se encuentra la misma información pero bajo una misma estructura normalizada, pensando en la conformación futura de un API centralizado.
+
+> **Atención** Trabajo en proceso. Por ahora sólo contiene lo de diputados. Este fue el primer trabajo compartido en la v0.1.
 
 - [CSV](data/unificado/csv)
 - [JSON](data/unificado/json)
