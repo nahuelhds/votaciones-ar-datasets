@@ -1,0 +1,1298 @@
+[
+  {
+    "id": 3584,
+    "date": "1995-12-28 00:08:00",
+    "title": "Moción del Diputado Flores de que vuelva a Comisión los Exp. 5216-D-96, Reforma Tributaria y Exp. 0091-S-95, Reforma del Estado",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113EE01_02_R48.pdf",
+    "detailsUrl": "/votacion/3584",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 48,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 83,
+    "negativeCount": 115,
+    "abstentionCount": 2,
+    "absentCount": 56
+  },
+  {
+    "id": 3583,
+    "date": "1995-12-27 23:50:00",
+    "title": "Fondo Fiduciario para el Desarrollo Provincial (Decreto 286/95) - En General y Particular",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113EE01_01_R48.pdf",
+    "detailsUrl": "/votacion/3583",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "747-PE-1995",
+        "title": "Fondo Fiduciario para el Desarrollo Provincial (Decreto 286/95) - En General y Particular",
+        "votingId": 3583
+      }
+    ],
+    "period": 113,
+    "meeting": 48,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 127,
+    "negativeCount": 75,
+    "abstentionCount": 1,
+    "absentCount": 53
+  },
+  {
+    "id": 3592,
+    "date": "1995-12-08 08:14:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 33°",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_08_R47.pdf",
+    "detailsUrl": "/votacion/3592",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 33°",
+        "votingId": 3592
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 8,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 41,
+    "negativeCount": 86,
+    "abstentionCount": 5,
+    "absentCount": 124
+  },
+  {
+    "id": 3591,
+    "date": "1995-12-08 07:26:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 23",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_07_R47.pdf",
+    "detailsUrl": "/votacion/3591",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 23",
+        "votingId": 3591
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 7,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 83,
+    "negativeCount": 53,
+    "abstentionCount": 3,
+    "absentCount": 117
+  },
+  {
+    "id": 3590,
+    "date": "1995-12-08 07:25:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 22°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_06_R47.pdf",
+    "detailsUrl": "/votacion/3590",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 22°",
+        "votingId": 3590
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 6,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 82,
+    "negativeCount": 54,
+    "abstentionCount": 4,
+    "absentCount": 116
+  },
+  {
+    "id": 3589,
+    "date": "1995-12-08 07:22:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 21°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_05_R47.pdf",
+    "detailsUrl": "/votacion/3589",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 21°",
+        "votingId": 3589
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 5,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 77,
+    "negativeCount": 49,
+    "abstentionCount": 12,
+    "absentCount": 118
+  },
+  {
+    "id": 3588,
+    "date": "1995-12-08 07:20:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 20°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_04_R47.pdf",
+    "detailsUrl": "/votacion/3588",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 20°",
+        "votingId": 3588
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 4,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 74,
+    "negativeCount": 54,
+    "abstentionCount": 11,
+    "absentCount": 117
+  },
+  {
+    "id": 3587,
+    "date": "1995-12-08 07:16:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 19°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_03_R47.pdf",
+    "detailsUrl": "/votacion/3587",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 19°",
+        "votingId": 3587
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 80,
+    "negativeCount": 52,
+    "abstentionCount": 4,
+    "absentCount": 120
+  },
+  {
+    "id": 3586,
+    "date": "1995-12-08 07:07:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 10°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_02_R47.pdf",
+    "detailsUrl": "/votacion/3586",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - Artículo 10°",
+        "votingId": 3586
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 77,
+    "negativeCount": 53,
+    "abstentionCount": 1,
+    "absentCount": 125
+  },
+  {
+    "id": 3585,
+    "date": "1995-12-08 06:54:00",
+    "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_01_R47.pdf",
+    "detailsUrl": "/votacion/3585",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-JGM-1995",
+        "title": "Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 1996 - En General",
+        "votingId": 3585
+      }
+    ],
+    "period": 113,
+    "meeting": 47,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 87,
+    "negativeCount": 51,
+    "abstentionCount": 3,
+    "absentCount": 115
+  },
+  {
+    "id": 3581,
+    "date": "1995-12-08 01:27:00",
+    "title": "Prorroga la vigencia de la Ley de Impuesto a las Ganancias (T.O 1986 y Modificatorias) hasta el 31/12/05",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113PO01_02_R46.pdf",
+    "detailsUrl": "/votacion/3581",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "41-PE-1995",
+        "title": "Prorroga la vigencia de la Ley de Impuesto a las Ganancias (T.O 1986 y Modificatorias) hasta el 31/12/05",
+        "votingId": 3581
+      }
+    ],
+    "period": 113,
+    "meeting": 46,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 141,
+    "negativeCount": 7,
+    "abstentionCount": 3,
+    "absentCount": 105
+  },
+  {
+    "id": 3580,
+    "date": "1995-11-15 22:08:00",
+    "title": "Nuevo Tipo Societario denominado \"Sociedad Anónima de Trabajadores\" (SAT), dentro del marco general de la Ley 19.550 (Sociedades Comerciales) - Artículo 21°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT12_02_R42.pdf",
+    "detailsUrl": "/votacion/3580",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "83-PE-1994",
+        "title": "Nuevo Tipo Societario denominado \"Sociedad Anónima de Trabajadores\" (SAT), dentro del marco general de la Ley 19.550 (Sociedades Comerciales) - Artículo 21°",
+        "votingId": 3580
+      }
+    ],
+    "period": 113,
+    "meeting": 42,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 122,
+    "negativeCount": 16,
+    "abstentionCount": 2,
+    "absentCount": 116
+  },
+  {
+    "id": 3579,
+    "date": "1995-11-01 21:02:00",
+    "title": "Designación de un Auditor General de la Nación",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT12_01_R39.pdf",
+    "detailsUrl": "/votacion/3579",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "4607-D-1995",
+        "title": "Designación de un Auditor General de la Nación",
+        "votingId": 3579
+      }
+    ],
+    "period": 113,
+    "meeting": 39,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 132,
+    "negativeCount": 1,
+    "abstentionCount": 17,
+    "absentCount": 106
+  },
+  {
+    "id": 3578,
+    "date": "1995-09-14 00:41:00",
+    "title": "Moción del Diputado Montiel de tratamiento sobre Tabla del Exp. 3931-D-95 - OD 1820 - Dictamen de la Comisión de Asuntos Constitucionales de la HCDN del 07/09/95, por el cual se solicita la suspensión del Señor Diputado Eduardo Varela CID",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT09_04_R31.pdf",
+    "detailsUrl": "/votacion/3578",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 31,
+    "record": 4,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 77,
+    "negativeCount": 56,
+    "abstentionCount": 0,
+    "absentCount": 123
+  },
+  {
+    "id": 3577,
+    "date": "1995-09-13 23:37:00",
+    "title": "Moción del Diputado Flores solicitando la vuelta a Comisión del Exp. 0059-PE-94 venido en revisión sobre Régimen de Accidentes de Trabajo",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT09_02_R31.pdf",
+    "detailsUrl": "/votacion/3577",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 31,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 68,
+    "negativeCount": 79,
+    "abstentionCount": 2,
+    "absentCount": 107
+  },
+  {
+    "id": 3576,
+    "date": "1995-09-13 22:22:00",
+    "title": "Moción del Diputado Moreau de Apartamiento del Reglamento para tratar sobre Tabla el Exp. 3669-D-95 sobre Creación de una Comisión Bicameral Investigadora de actos violatorios a los intereses del Estado",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT09_01_R31.pdf",
+    "detailsUrl": "/votacion/3576",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 31,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 81,
+    "negativeCount": 86,
+    "abstentionCount": 10,
+    "absentCount": 79
+  },
+  {
+    "id": 3575,
+    "date": "1995-08-16 21:43:00",
+    "title": "Moción del Diputado Albamonte de reconsideración de la votación sobre el tratamiento sobre Tabla del Exp. 0074-S-95 - OD 1732 - Modificación a la Ley 24.481 de Patentes e Invención y Modelos de Utilidad",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT08_02_R24.pdf",
+    "detailsUrl": "/votacion/3575",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 24,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 65,
+    "negativeCount": 96,
+    "abstentionCount": 5,
+    "absentCount": 90
+  },
+  {
+    "id": 3574,
+    "date": "1995-08-09 19:49:00",
+    "title": "Régimen de inscripción e identificación del recién nacido - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT07_01_R23.pdf",
+    "detailsUrl": "/votacion/3574",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "152-D-1993",
+        "title": "Régimen de inscripción e identificación del recién nacido - En General",
+        "votingId": 3574
+      }
+    ],
+    "period": 113,
+    "meeting": 23,
+    "record": 1,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 148,
+    "negativeCount": 2,
+    "abstentionCount": 3,
+    "absentCount": 103
+  },
+  {
+    "id": 3573,
+    "date": "1995-07-20 19:05:00",
+    "title": "Insistencia de la HCDN, en el proyecto de Ley Nº 24.485, Modificación de la Carta Orgánica del Banco Central de la República Argentina observada parcialmente por el PEN Decreto 538/95",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_02_R21.pdf",
+    "detailsUrl": "/votacion/3573",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "53-S-1995",
+        "title": "Insistencia de la HCDN, en el proyecto de Ley Nº 24.485, Modificación de la Carta Orgánica del Banco Central de la República Argentina observada parcialmente por el PEN Decreto 538/95",
+        "votingId": 3573
+      }
+    ],
+    "period": 113,
+    "meeting": 21,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 146,
+    "negativeCount": 1,
+    "abstentionCount": 4,
+    "absentCount": 105
+  },
+  {
+    "id": 3572,
+    "date": "1995-07-20 18:04:00",
+    "title": "Ley de Concursos y Quiebras: Derogación de la Ley 19.551. Modificada por las Leyes 22.917 y 22.885 - En Particular",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_01_R21.pdf",
+    "detailsUrl": "/votacion/3572",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "27-PE-1994",
+        "title": "Ley de Concursos y Quiebras: Derogación de la Ley 19.551. Modificada por las Leyes 22.917 y 22.885 - En Particular",
+        "votingId": 3572
+      }
+    ],
+    "period": 113,
+    "meeting": 21,
+    "record": 1,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 88,
+    "negativeCount": 58,
+    "abstentionCount": 2,
+    "absentCount": 108
+  },
+  {
+    "id": 3571,
+    "date": "1995-07-20 03:58:00",
+    "title": "Ley de Concursos y Quiebras: Derogación de la Ley 19.551. Modificada por las Leyes 22.917 y 22.885 - En General dictamen de la mayoría",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_02_R20.pdf",
+    "detailsUrl": "/votacion/3571",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "27-PE-1994",
+        "title": "Ley de Concursos y Quiebras: Derogación de la Ley 19.551. Modificada por las Leyes 22.917 y 22.885 - En General dictamen de la mayoría",
+        "votingId": 3571
+      }
+    ],
+    "period": 113,
+    "meeting": 20,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 84,
+    "negativeCount": 54,
+    "abstentionCount": 0,
+    "absentCount": 118
+  },
+  {
+    "id": 3570,
+    "date": "1995-07-12 21:19:00",
+    "title": "Régimen de Mediación y Conciliación en Juicios - Artículo 18",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_03_R18.pdf",
+    "detailsUrl": "/votacion/3570",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "447-PE-1994",
+        "title": "Régimen de Mediación y Conciliación en Juicios - Artículo 18",
+        "votingId": 3570
+      }
+    ],
+    "period": 113,
+    "meeting": 18,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 122,
+    "negativeCount": 5,
+    "abstentionCount": 22,
+    "absentCount": 107
+  },
+  {
+    "id": 3569,
+    "date": "1995-07-12 21:18:00",
+    "title": "Régimen de Mediación y Conciliación en Juicios - Texto del Artículo 16º propuesto por el Diputado Pichetto",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_02_R18.pdf",
+    "detailsUrl": "/votacion/3569",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "447-PE-1994",
+        "title": "Régimen de Mediación y Conciliación en Juicios - Texto del Artículo 16º propuesto por el Diputado Pichetto",
+        "votingId": 3569
+      }
+    ],
+    "period": 113,
+    "meeting": 18,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 100,
+    "negativeCount": 52,
+    "abstentionCount": 2,
+    "absentCount": 102
+  },
+  {
+    "id": 3568,
+    "date": "1995-07-12 21:17:00",
+    "title": "Régimen de Mediación y Conciliación en Juicios - Artículo 16º del proyecto aprobado en general",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_01_R18.pdf",
+    "detailsUrl": "/votacion/3568",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "447-PE-1994",
+        "title": "Régimen de Mediación y Conciliación en Juicios - Artículo 16º del proyecto aprobado en general",
+        "votingId": 3568
+      }
+    ],
+    "period": 113,
+    "meeting": 18,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 51,
+    "negativeCount": 100,
+    "abstentionCount": 3,
+    "absentCount": 102
+  },
+  {
+    "id": 3567,
+    "date": "1995-07-06 01:57:00",
+    "title": "Régimen de Mediación y Conciliación en Juicios - Artículos del 4º al 14º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_03_R17.pdf",
+    "detailsUrl": "/votacion/3567",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "447-PE-1994",
+        "title": "Régimen de Mediación y Conciliación en Juicios - Artículos del 4º al 14º",
+        "votingId": 3567
+      }
+    ],
+    "period": 113,
+    "meeting": 17,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 124,
+    "negativeCount": 5,
+    "abstentionCount": 1,
+    "absentCount": 126
+  },
+  {
+    "id": 3566,
+    "date": "1995-07-05 22:32:00",
+    "title": "Moción de la Diputada Troyano de tratamiento sobre Tabla del Exp. 2678-D-95 - OD 1650, que trata de Encomendar a la Auditoria General de la Nación analizar e Informar sobre el control de Gestión efectuado por la Intervención normalizadora del Instituto de Servicios Sociales para Jubilados y Pensionados con respecto a la prestadora de servicios UTE para la Regional Salta de PAMI",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT06_01_R17.pdf",
+    "detailsUrl": "/votacion/3566",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 17,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 78,
+    "negativeCount": 58,
+    "abstentionCount": 6,
+    "absentCount": 114
+  },
+  {
+    "id": 3565,
+    "date": "1995-06-28 21:31:00",
+    "title": "Moción del Diputado Ceballos de tratamiento sobre Tabla del Exp. 2512-D-95, Modificación a la Ley 24.468 de impuestos a los Bienes Personales No incorporados al proceso Económico",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT05_03_R16.pdf",
+    "detailsUrl": "/votacion/3565",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 16,
+    "record": 3,
+    "president": "SORIA, Carlos Ernesto",
+    "affirmativeCount": 72,
+    "negativeCount": 75,
+    "abstentionCount": 2,
+    "absentCount": 107
+  },
+  {
+    "id": 3564,
+    "date": "1995-06-28 21:13:00",
+    "title": "Moción del Diputado Rodríguez de tratamiento sobre Tabla del Exp. 2510-D-95, Creación de una Comisión Especial para las Relaciones Económico Financieras entre la Nación, las Provincias y la Ciudad de Buenos Aires",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT05_02_R16.pdf",
+    "detailsUrl": "/votacion/3564",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 16,
+    "record": 2,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 81,
+    "negativeCount": 76,
+    "abstentionCount": 1,
+    "absentCount": 98
+  },
+  {
+    "id": 3563,
+    "date": "1995-06-22 00:16:00",
+    "title": "Régimen de Accidentes de Trabajo, Regulación de la Prevención de los riesgos y la reparación de los Daños Derivados del Trabajo - Artículo 39º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT04_01_R15.pdf",
+    "detailsUrl": "/votacion/3563",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "59-PE-1994",
+        "title": "Régimen de Accidentes de Trabajo, Regulación de la Prevención de los riesgos y la reparación de los Daños Derivados del Trabajo - Artículo 39º",
+        "votingId": 3563
+      }
+    ],
+    "period": 113,
+    "meeting": 15,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 89,
+    "negativeCount": 69,
+    "abstentionCount": 6,
+    "absentCount": 92
+  },
+  {
+    "id": 3562,
+    "date": "1995-06-15 02:32:00",
+    "title": "Régimen de Accidentes de Trabajo, Regulación de la Prevención de los riesgos y la reparación de los Daños Derivados del Trabajo - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT04_02_R14.pdf",
+    "detailsUrl": "/votacion/3562",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "59-PE-1994",
+        "title": "Régimen de Accidentes de Trabajo, Regulación de la Prevención de los riesgos y la reparación de los Daños Derivados del Trabajo - En General",
+        "votingId": 3562
+      }
+    ],
+    "period": 113,
+    "meeting": 14,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 96,
+    "negativeCount": 62,
+    "abstentionCount": 1,
+    "absentCount": 97
+  },
+  {
+    "id": 3561,
+    "date": "1995-06-14 22:07:00",
+    "title": "Promoción de Juicio Político al Señor Juez de la Sala IV de la Cámara de Apelaciones del Trabajo, Doctor Eduardo Perugini",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT04_01_R14.pdf",
+    "detailsUrl": "/votacion/3561",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "256-D-1994",
+        "title": "Promoción de Juicio Político al Señor Juez de la Sala IV de la Cámara de Apelaciones del Trabajo, Doctor Eduardo Perugini",
+        "votingId": 3561
+      }
+    ],
+    "period": 113,
+    "meeting": 14,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 143,
+    "negativeCount": 0,
+    "abstentionCount": 2,
+    "absentCount": 111
+  },
+  {
+    "id": 3560,
+    "date": "1995-06-07 23:19:00",
+    "title": "Régimen para el Conjunto de las Instituciones de Educación Superior y en particular para las Universidades Nacionales, Privadas y Provinciales - En General dictamen de la mayoría",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE03_01_R13.pdf",
+    "detailsUrl": "/votacion/3560",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6-PE-1994",
+        "title": "Régimen para el Conjunto de las Instituciones de Educación Superior y en particular para las Universidades Nacionales, Privadas y Provinciales - En General dictamen de la mayoría",
+        "votingId": 3560
+      }
+    ],
+    "period": 113,
+    "meeting": 13,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 114,
+    "negativeCount": 16,
+    "abstentionCount": 0,
+    "absentCount": 126
+  },
+  {
+    "id": 3559,
+    "date": "1995-05-24 01:31:00",
+    "title": "Insistencia de la HCDN en la sanción original del proyecto de ley que trata el Régimen de Normalización para los Trabajadores Autónomos; Derogación del Decreto 2104/93 (Moratoria Previsional), observado por el PEN por Decreto 536/95, Mensaje 0537",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE03_04_R11.pdf",
+    "detailsUrl": "/votacion/3559",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "8-PE-1995",
+        "title": "Insistencia de la HCDN en la sanción original del proyecto de ley que trata el Régimen de Normalización para los Trabajadores Autónomos; Derogación del Decreto 2104/93 (Moratoria Previsional), observado por el PEN por Decreto 536/95, Mensaje 0537",
+        "votingId": 3559
+      }
+    ],
+    "period": 113,
+    "meeting": 11,
+    "record": 4,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 141,
+    "negativeCount": 1,
+    "abstentionCount": 1,
+    "absentCount": 113
+  },
+  {
+    "id": 3558,
+    "date": "1995-05-24 01:23:00",
+    "title": "Insistencia de la HCDN en la sanción original de la Ley de Régimen de Patentes y Modelos de Utilidad observado por el PEN por Decreto 548/95, Mensaje 0544/95",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE03_03_R11.pdf",
+    "detailsUrl": "/votacion/3558",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "24-S-1995",
+        "title": "Insistencia de la HCDN en la sanción original de la Ley de Régimen de Patentes y Modelos de Utilidad observado por el PEN por Decreto 548/95, Mensaje 0544/95",
+        "votingId": 3558
+      }
+    ],
+    "period": 113,
+    "meeting": 11,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 138,
+    "negativeCount": 2,
+    "abstentionCount": 8,
+    "absentCount": 108
+  },
+  {
+    "id": 3557,
+    "date": "1995-05-23 21:51:00",
+    "title": "Insistencia de la HCDN en la sanción original de la Ley de Solidaridad Previsional Observada por el PEN por Decreto 417/95, Mensaje 0418",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE03_02_R11.pdf",
+    "detailsUrl": "/votacion/3557",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "3-PE-1995",
+        "title": "Insistencia de la HCDN en la sanción original de la Ley de Solidaridad Previsional Observada por el PEN por Decreto 417/95, Mensaje 0418",
+        "votingId": 3557
+      }
+    ],
+    "period": 113,
+    "meeting": 11,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 151,
+    "negativeCount": 6,
+    "abstentionCount": 4,
+    "absentCount": 95
+  },
+  {
+    "id": 3556,
+    "date": "1995-05-23 21:44:00",
+    "title": "Insistencia de la HCDN, en la sanción original del Proyecto que Prorroga por 180 días la entrada en vigencia del Libro I de la Ley 24.241 (Sistema Integrado de Jubilaciones y Pensiones), según lo dispuesto por el Decreto 806/94, modificado por el Decreto 1362/94, en lo referente al personal en relación de dependencia o Autónomo comprendido en los Convenios de corresponsabilidad gremial - Vetado por el PEN por Decreto 580/95",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE03_01_R11.pdf",
+    "detailsUrl": "/votacion/3556",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "12-PE-1995",
+        "title": "Insistencia de la HCDN, en la sanción original del Proyecto que Prorroga por 180 días la entrada en vigencia del Libro I de la Ley 24.241 (Sistema Integrado de Jubilaciones y Pensiones), según lo dispuesto por el Decreto 806/94, modificado por el Decreto 1362/94, en lo referente al personal en relación de dependencia o Autónomo comprendido en los Convenios de corresponsabilidad gremial - Vetado por el PEN por Decreto 580/95",
+        "votingId": 3556
+      }
+    ],
+    "period": 113,
+    "meeting": 11,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 161,
+    "negativeCount": 6,
+    "abstentionCount": 1,
+    "absentCount": 88
+  },
+  {
+    "id": 3555,
+    "date": "1995-03-30 06:31:00",
+    "title": "Régimen de Patentes y Modelos de Utilidad - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT02_01_R09.pdf",
+    "detailsUrl": "/votacion/3555",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "53-PE-1993",
+        "title": "Régimen de Patentes y Modelos de Utilidad - En General",
+        "votingId": 3555
+      }
+    ],
+    "period": 113,
+    "meeting": 9,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 126,
+    "negativeCount": 5,
+    "abstentionCount": 4,
+    "absentCount": 121
+  },
+  {
+    "id": 3554,
+    "date": "1995-03-23 01:53:00",
+    "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - Artículo 4º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT02_06_R08.pdf",
+    "detailsUrl": "/votacion/3554",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1-PE-1995",
+        "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - Artículo 4º",
+        "votingId": 3554
+      }
+    ],
+    "period": 113,
+    "meeting": 8,
+    "record": 6,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 107,
+    "negativeCount": 52,
+    "abstentionCount": 3,
+    "absentCount": 94
+  },
+  {
+    "id": 3553,
+    "date": "1995-03-23 01:52:00",
+    "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - Artículo 3°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT02_05_R08.pdf",
+    "detailsUrl": "/votacion/3553",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1-PE-1995",
+        "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - Artículo 3°",
+        "votingId": 3553
+      }
+    ],
+    "period": 113,
+    "meeting": 8,
+    "record": 5,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 107,
+    "negativeCount": 47,
+    "abstentionCount": 6,
+    "absentCount": 96
+  },
+  {
+    "id": 3552,
+    "date": "1995-03-23 01:51:00",
+    "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - Artículo 2º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT02_04_R08.pdf",
+    "detailsUrl": "/votacion/3552",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1-PE-1995",
+        "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - Artículo 2º",
+        "votingId": 3552
+      }
+    ],
+    "period": 113,
+    "meeting": 8,
+    "record": 4,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 109,
+    "negativeCount": 51,
+    "abstentionCount": 1,
+    "absentCount": 95
+  },
+  {
+    "id": 3551,
+    "date": "1995-03-23 01:51:00",
+    "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT02_03_R08.pdf",
+    "detailsUrl": "/votacion/3551",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1-PE-1995",
+        "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - En General",
+        "votingId": 3551
+      }
+    ],
+    "period": 113,
+    "meeting": 8,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 108,
+    "negativeCount": 50,
+    "abstentionCount": 2,
+    "absentCount": 96
+  },
+  {
+    "id": 3550,
+    "date": "1995-03-23 01:48:00",
+    "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT02_02_R08.pdf",
+    "detailsUrl": "/votacion/3550",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1-PE-1995",
+        "title": "Autorización al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.145 - En General",
+        "votingId": 3550
+      }
+    ],
+    "period": 113,
+    "meeting": 8,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 103,
+    "negativeCount": 51,
+    "abstentionCount": 5,
+    "absentCount": 97
+  },
+  {
+    "id": 3549,
+    "date": "1995-03-23 01:47:00",
+    "title": "Moción del Diputado Parajón solicitando la vuelta a Comisión del Exp. 0001-PE-95 - OD 1250 que Autoriza al Poder Ejecutivo Nacional a conservar solo una acción de la Clase \"A\" de YPF S.A, disminuyendo la participación accionaria del Estado Nacional por debajo de lo Previsto por el Artículo 8º de la Ley 24.115",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OT02_01_R08.pdf",
+    "detailsUrl": "/votacion/3549",
+    "videoUrl": null,
+    "records": [],
+    "period": 113,
+    "meeting": 8,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 45,
+    "negativeCount": 109,
+    "abstentionCount": 1,
+    "absentCount": 101
+  },
+  {
+    "id": 3548,
+    "date": "1995-03-16 01:55:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 5º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_08_R07.pdf",
+    "detailsUrl": "/votacion/3548",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 5º",
+        "votingId": 3548
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 8,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 132,
+    "negativeCount": 62,
+    "abstentionCount": 7,
+    "absentCount": 55
+  },
+  {
+    "id": 3547,
+    "date": "1995-03-16 01:51:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 4º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_07_R07.pdf",
+    "detailsUrl": "/votacion/3547",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 4º",
+        "votingId": 3547
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 7,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 137,
+    "negativeCount": 60,
+    "abstentionCount": 4,
+    "absentCount": 55
+  },
+  {
+    "id": 3546,
+    "date": "1995-03-16 01:11:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 3º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_06_R07.pdf",
+    "detailsUrl": "/votacion/3546",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 3º",
+        "votingId": 3546
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 6,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 136,
+    "negativeCount": 68,
+    "abstentionCount": 1,
+    "absentCount": 51
+  },
+  {
+    "id": 3535,
+    "date": "1995-03-16 00:31:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Rectificación de la votación del Artículo 3º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_05_R07.pdf",
+    "detailsUrl": "/votacion/3535",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Rectificación de la votación del Artículo 3º",
+        "votingId": 3535
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 5,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 126,
+    "negativeCount": 68,
+    "abstentionCount": 10,
+    "absentCount": 52
+  },
+  {
+    "id": 3534,
+    "date": "1995-03-16 00:30:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 3º",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_04_R07.pdf",
+    "detailsUrl": "/votacion/3534",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 3º",
+        "votingId": 3534
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 4,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 128,
+    "negativeCount": 71,
+    "abstentionCount": 6,
+    "absentCount": 51
+  },
+  {
+    "id": 3533,
+    "date": "1995-03-16 00:21:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 2º Nominal",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_03_R07.pdf",
+    "detailsUrl": "/votacion/3533",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 2º Nominal",
+        "votingId": 3533
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 136,
+    "negativeCount": 66,
+    "abstentionCount": 1,
+    "absentCount": 53
+  },
+  {
+    "id": 3532,
+    "date": "1995-03-16 00:20:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 1º con modificaciones",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_02_R07.pdf",
+    "detailsUrl": "/votacion/3532",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - Artículo 1º con modificaciones",
+        "votingId": 3532
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 136,
+    "negativeCount": 63,
+    "abstentionCount": 4,
+    "absentCount": 53
+  },
+  {
+    "id": 3531,
+    "date": "1995-03-15 23:56:00",
+    "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1995/113OE01_01_R07.pdf",
+    "detailsUrl": "/votacion/3531",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "65-PE-1993",
+        "title": "Modificación a la Ley 23.966, Impuestos sobre los Bienes Personales no incorporados al Proceso Económico - En General",
+        "votingId": 3531
+      }
+    ],
+    "period": 113,
+    "meeting": 7,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 134,
+    "negativeCount": 47,
+    "abstentionCount": 2,
+    "absentCount": 73
+  },
+  {
+    "id": 3621,
+    "date": "1995-02-15 21:24:00",
+    "title": "Régimen de Solidaridad Previsional y Reformas al Sistema Integrado de Jubilaciones y Pensiones - Artículo 3°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO04_02_R46.pdf",
+    "detailsUrl": "/votacion/3621",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "55-PE-1994",
+        "title": "Régimen de Solidaridad Previsional y Reformas al Sistema Integrado de Jubilaciones y Pensiones - Artículo 3°",
+        "votingId": 3621
+      }
+    ],
+    "period": 112,
+    "meeting": 46,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 110,
+    "negativeCount": 73,
+    "abstentionCount": 3,
+    "absentCount": 70
+  },
+  {
+    "id": 3620,
+    "date": "1995-02-15 21:09:00",
+    "title": "Régimen de Solidaridad Previsional y Reformas al Sistema Integrado de Jubilaciones y Pensiones - Artículo 2°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO04_01_R46.pdf",
+    "detailsUrl": "/votacion/3620",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "55-PE-1994",
+        "title": "Régimen de Solidaridad Previsional y Reformas al Sistema Integrado de Jubilaciones y Pensiones - Artículo 2°",
+        "votingId": 3620
+      }
+    ],
+    "period": 112,
+    "meeting": 46,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 109,
+    "negativeCount": 82,
+    "abstentionCount": 5,
+    "absentCount": 60
+  },
+  {
+    "id": 3619,
+    "date": "1995-02-09 02:33:00",
+    "title": "Insistencia de la HCDN en la sanción del proyecto de Ley registrado con el N° 24.416, Creación del Fondo de Emergencia Agropecuaria, observado totalmente por el PEN por decreto 2272/94",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO03_03_R44.pdf",
+    "detailsUrl": "/votacion/3619",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "68-PE-1994",
+        "title": "Insistencia de la HCDN en la sanción del proyecto de Ley registrado con el N° 24.416, Creación del Fondo de Emergencia Agropecuaria, observado totalmente por el PEN por decreto 2272/94",
+        "votingId": 3619
+      }
+    ],
+    "period": 112,
+    "meeting": 44,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 115,
+    "negativeCount": 3,
+    "abstentionCount": 9,
+    "absentCount": 129
+  }
+]

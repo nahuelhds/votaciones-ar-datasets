@@ -1,0 +1,2572 @@
+[
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ABASTO, Angel Leonidas",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ABIHAGGLE, Carlos Enrique",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G230.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ACEÑOLAZA, Florencio G.",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G14.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ACHEM, Antonio",
+    "party": "Cruzada Renovadora",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G125.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ADAIME, Felipe Teófilo",
+    "party": "Autonomista de Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G61.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALBAMONTE, Alberto Gustavo",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G127.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALBERTI, Juan Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G64.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALCALA, Nestor Ricardo",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G15.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALENDE, Oscar Eduardo",
+    "party": "Partido Intransigente",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G65.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALGABA, Ernesto Pedro",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G66.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALSOGARAY, Albaro Carlos",
+    "party": "Unión Centro Democrático",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G59.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALVAREZ ECHAGUE, Raul A.",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G130.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALVAREZ GARCIA, Normando",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G67.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALVAREZ, Carlos Alberto",
+    "party": "Frente Grande",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G128.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ALVAREZ, Carlos Raúl",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G233.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "AMADEO, Eduardo Pablo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4812.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ANTELO, José María",
+    "party": "Demócrata Progresista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G229.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ARAGONES de JUAREZ, Mercedes",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G231.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ARANDA, Saturnino Dantti",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G16.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ARGÜELLO, Jorge",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4317.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ARIAS, Cesar",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G17.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ARMENDARIZ, Alejandro",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G131.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ARRECHEA, José Salvador",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G132.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "AYALA, Susana Beatriz",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G292.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "AYETZ, Liliana",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G232.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BALESTRA, René Helvecio",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1792.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BALESTRINI, Alberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4437.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BALESTRINI, Miguel Alberto",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G133.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BALTER, Carlos Mario",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A21.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BARBERA, Eliseo",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G19.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BARBOTTI, Atilio",
+    "party": "Acción Chaqueña",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G134.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BARRIONUEVO, Eduardo Ernesto",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G293.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BAUM, Daniel",
+    "party": "Justicialista",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G135.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BECERRA, Carlos Armando",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G136.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BECERRA, Nicolas Eduardo",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G69.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BENEDETTI, Jorge Enrique",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G70.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BENZI, María Cristina",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G234.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BERHONGARAY, Antonio Tomás",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G137.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BERMUDEZ, María del Pilar",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G21.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BISCHOF, Enrique",
+    "party": "Movimiento Popular Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G139.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BONINO, Miguel Angel",
+    "party": "Unión Cívica Radical",
+    "region": "San Luis",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3475.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BONOMI, Silvia Mónica",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G235.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BORDA, Osvaldo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G22.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BRACCHI, Osvaldo Américo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G23.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BRANDA, Carlos Ernesto",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G142.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BRAVO, Alfredo Pedro",
+    "party": "AL. H. T. E. (Socialista)",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A87.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BRESER, Adalberto Edgardo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G236.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BRUNELLI, Naldo Raul Adalberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G237.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BRUZZO, Omar Obdulio",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G73.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BULLRICH, Patricia",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4665.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "BUSSI, Antonio Domingo",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G238.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CABIRON, Juan Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G239.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CAIMMI, Fernando Enrique",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G228.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CALLABA, Anibal",
+    "party": "Autonomista de Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G240.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CAMARA, Mario Miguel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G241.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CAMAÑO, Eduardo Oscar",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A31.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CAMPERO, Rodolfo Martín",
+    "party": "Unión Cívica Radical",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G242.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CARCA, Elisa Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CASARI de ALARCIA, Leonor",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G149.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CASTILLO, José Luis",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G150.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CASTILLO, Oscar Anibal",
+    "party": "Unión Cívica Radical",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G75.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CASTRO, Carlos José",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G243.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CEBALLOS, Walter Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "San Luis",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G77.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CERDERA, Rogelio Rafael",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G245.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CLOSS, Ramón Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G244.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CORCHUELO BLASCO, José Manuel",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3790.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "CROSTELLI, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G25.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "D'ALESSANDRO, Miguel H.",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G153.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "D'AMBROSIO, Angel Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G78.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "D'ELIA, Roberto Antonio",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G246.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DAUD, Jorge Carlos",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4086.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DEL FABRO, Lilian del Carmen",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G247.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DELLEPIANE, Carlos Francisco",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4338.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DI TULIO, Hector Horacio",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G80.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DIAZ MARTINEZ, Jorge Raúl",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G248.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DIGON, Roberto",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G401.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DRISALDI, María Rita",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3736.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DUMON, José Gabriel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A943.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DURAÑONA y VEDIA, Francisco",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G27.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "DURRIEU, Marcela Margarita",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G28.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ESCOBAR, Jorge Alberto",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2044.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ESTEVEZ BOERO, Guillermo E.",
+    "party": "AL. H. T. E. (Socialista)",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G157.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FABRISSIN, Carlos Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G250.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FALLETI, Julio Cesar José",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G158.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FAYAD, Victor Manuel Federico",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A16.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FELGUERAS, Ricardo Ernesto",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G159.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FERNANDEZ GILL, Guillermo",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G85.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FERNANDEZ MEIJIDE, Graciela",
+    "party": "Frente Grande",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G251.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FIGUEROA, Pedro Octavio",
+    "party": "Movimiento Popular Jujeño",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G164.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FLORES, Rafael Horacio",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2797.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FOLLONI, Jorge Oscar",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3797.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FRAGOSO, Francisco Ulises",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G252.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "FUNES, Carlos Delcio",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G253.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GALANTE, Pedro Jorge Roque",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G254.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GALLO, Orlando Juan",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G168.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GALVAN, Raul Alfredo",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G169.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GARAY, Nicolás Alfredo",
+    "party": "Liberal de Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G171.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GARCIA MORENO, Miguel Angel",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G255.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GAUNA, Juan Octavio",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G87.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GAZIA, Rodolfo Mauricio",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G256.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GIMENEZ, Delfor Abel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G257.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GIMENEZ, Ramón Francisco",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G258.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GIOJA, José Luis",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50989.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GOLPE MONTIEL, Nestor Lino",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G88.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GOLPE, Carlos Horacio",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G259.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GOMEZ CENTURION, Carlos E.",
+    "party": "Bloquista de San Juan",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G175.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GONZALEZ CABAÑAS, Tomás W.",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G34.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GONZALEZ GAVIOLA, Juan Horacio",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G91.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GONZALEZ, Antonio Erman",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G260.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GRANADOS, Dulce",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3458.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GREEN, Gustavo Adolfo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G35.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GUERRERO, Luis Serafín",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G60.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "GUZMAN, María Cristina",
+    "party": "Movimiento Popular Jujeño",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G92.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "HARDY, Anibal Osvaldo",
+    "party": "Mov. Integ. y Desarrollo",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G177.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "HERNANDEZ, Antonio María",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G93.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "HERRERA ARIAS, Manuel H.",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G180.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "HERRERA, Bernardo Eligio",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G37.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "HUMADA, Raul",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G181.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "IBARBIA, José María",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G182.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "IBARRECHE, Julio Cesar",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G94.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ITURRE, Cesar Eusebio",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G39.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "JAUNARENA, José Horacio",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G10.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "JUNCOSA, Rodolfo Aldo",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G261.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "KAEHLER, Ernesto Rolando",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G262.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "KAMMERATH, Germán Luis",
+    "party": "Unión Centro Democrático",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G263.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "KELLY, Elsa Diana Rosa",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G184.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "KESSLER, Ana Raquel",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G264.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "KOTH, Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G185.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LAFALLA, Arturo Pedro",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2384.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LAHOZ, José Fernando",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G265.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LAMBERTO, Oscar Santiago",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1317.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LARRABURU, Damaso",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2858.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LECONTE, Ricardo Guillermo",
+    "party": "Liberal de Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G95.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LEGUIZAMON, María Laura",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4695.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LLOPIS, Enrique Raúl",
+    "party": "AL. H. T. E. (Socialista)",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G266.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LOPEZ ARIAS, Marcelo Eduardo",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A156.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LOPEZ, Alcides Humberto",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G96.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LOPEZ, José Augusto",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G267.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LOSADA, Luis Enrique",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G187.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "LYNCH, Carlos Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Formosa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G188.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MACEDO, Horacio Antonio",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G269.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MACHADO, Oscar Alfredo",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G189.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MAIDANA, Elsa H.",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G270.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MANFREDOTTI, Carlos",
+    "party": "Justicialista",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G191.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MAQUEDA, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G41.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MARCOLLI, Miguel",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G42.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MARCOS, Ricardo Ernesto",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G194.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MARTINEZ GARBINO, Emilio Raúl",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4498.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MARTINEZ, Esteban",
+    "party": "Justicialista",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G271.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MARTINEZ, Manuel Luis",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3461.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MARTINEZ, Silvia Virginia",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1474.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MATHOV, Enrique José",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G272.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MATZKIN, Jorge Rubén",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3047.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MENDOZA, Claudio Ramiro",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G195.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MENDOZA, Martín",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G196.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MENEGHINI, Javier Revnaldo",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G98.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MENEM, Carlos Omar",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G276.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MERCADER, Martha Evelina",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G277.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MERCADO LUNA, Ricardo Gastón",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G273.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MICHELLI, Marco Aurelio",
+    "party": "Conservador Popular",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G99.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MICHITTE, Salomón Antonio",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G43.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MIGLIOZZI, Julio Alberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G274.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MIRALLES de ROMERO, Norma",
+    "party": "Justicialista",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2120.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MOLARDO, Elvio Francisco",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G197.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MOLINAS, Ricardo Francisco",
+    "party": "AL. H. T. E. (Socialista)",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G100.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MONTIEL, Sergio Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G275.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MOREAU, Leopoldo Raúl Guido",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51098.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MORELLO, Emilio Pedro",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G268.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MULLER, Mabel Hilda",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MUNIAGURRIA, Marcelo Julio",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G200.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MURIEL, Nestor Jorge",
+    "party": "Movimiento Popular Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G278.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "MUÑOZ, Marcelo Bernardo",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G201.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "NACUL, Miguel Camel",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G44.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "NATALE, Alberto Adolfo",
+    "party": "Demócrata Progresista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1186.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "NEDER, Jorge Humberto",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G279.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "NEGRI, Mario Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50713.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "NIEVA, Alejandro Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3791.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "NIÑO, Jorge",
+    "party": "Justicialista",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G203.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "NOVAU, Pedro José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G101.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "OLIVERA, Enrique José",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G102.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ORGAZ, Alfredo",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G204.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ORQUIN, Leopoldo Manuel",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G103.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ORTIZ MALDONADO, Gastón H.",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G104.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PARADA, Alberto",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G206.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PARAJON, José María",
+    "party": "Unión Cívica Radical",
+    "region": "Formosa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G294.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PAROLA, José María",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G207.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PASCUAL, Rafael Manuel",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A114.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PATTERSON, Ricardo Ancell",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4280.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PELAEZ, Victor",
+    "party": "Unión Cívica Radical",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4011.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PELLIN, Osvaldo Francisco",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G280.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PEPE, Lorenzo Antonio",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A22.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PERALTA, Anibal Pedro",
+    "party": "Unión Cívica Radical",
+    "region": "Chubut",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G208.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PEREZ, Jorge Telmo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A30.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PERNASETTI, Horacio Francisco",
+    "party": "Unión Cívica Radical",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A81.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PERRINI, Gioconda Eulalia",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G281.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PESCE, Felix",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G106.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PICCININI, Ana Ida",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G209.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PICHETTO, Miguel Angel",
+    "party": "Justicialista",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A188.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PIERRI, Alberto Reinaldo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3656.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PINTO, Guillermo",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G107.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PIOTTI, Alberto Daniel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G46.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "POLINO, Hector Teodoro",
+    "party": "U. Socialista",
+    "region": "Capital Federal",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1328.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "POLO, Luis Nicolas",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G290.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "PRAT, Alfredo Ernesto",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G108.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RE, Ricardo Horacio",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G47.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RICO, Aldo",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G291.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RODRIGO, Esteban Joaquin",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G111.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RODRIGUEZ SAÑUDO, Hugo B.",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G48.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RODRIGUEZ, Jesus",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A20.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RODRIGUEZ, José",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G212.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RODRIGUEZ, Mabel E.",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G282.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ROGGERO, Humberto Jesus",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1698.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ROIG, Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G113.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ROJO, Rubén Dario",
+    "party": "Justicialista",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G283.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ROMERO, Carlos Alberto",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G0.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ROMERO, Humberto Antonio",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G213.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ROY, Irma",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4141.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RUBINI, Mirta Elsa",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4142.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "RUIZ PALACIOS, José David",
+    "party": "Acción Chaqueña",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G284.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SAADI, Ramón Eduardo",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4006.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SALINO, María Antonia",
+    "party": "Justicialista",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G285.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SAMPIETRO, Darci",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G295.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SANCHEZ GALDEANO, Roque",
+    "party": "Movimiento Popular Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G116.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SANTIN, Eduardo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50690.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SARQUIZ, José Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G296.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SCELZI, Carlos José",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G218.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SCHIARETTI, Juan",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50826.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SEBASTIANI, Claudio Augusto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2174.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SOBRINO, Margarita María",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G286.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SOLANAS, Fernando Ezequiel",
+    "party": "Frente Grande",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4818.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SORIA, Carlos Ernesto",
+    "party": "Justicialista",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2692.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SPINOZA, Augusto Juan",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G118.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "STORANI, Federico Teobaldo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4394.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SUCARIA, Nevef",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G51.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "SUEIRO, Carlos Adolfo",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G52.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TENEV, Carlos",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G287.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TEODOSIU, Jorge Nicolas",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G288.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TERRAGNO, Rodolfo Héctor",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G298.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TOGNI de VELY, Adriana Leonor",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G289.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TOMA, Miguel Angel",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A565.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TOPA, Raúl Roque",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G121.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TOTO, Francisco Patricio",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G54.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TRETTEL MEYER, Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G299.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "TROYANO, Silvia Elena",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G220.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "USANDIZAGA, Horacio Daniel",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G1.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VALCARCEL, Juan Manuel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G221.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VARELA CID, Eduardo",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G56.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VARELA, Nestor Angel",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G222.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VAZQUEZ, Roberto",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G223.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VAZQUEZ, Silvia Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A89.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VENESIA, Gualberto Edgardo",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G57.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VICCHI, Raúl Horacio",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G123.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VIGLIONE, Atilio Oscar",
+    "party": "Unión Cívica Radical",
+    "region": "Chubut",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G300.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "VITAR, Jose Alberto",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3091.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ZAVALIA, José Luis",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G301.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ZICARELLI, Orlando",
+    "party": "Demócrata Cristiano",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G58.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1994-04-20 23:14:00",
+    "votingId": 3653,
+    "legislator": "ZUCCARDI de FLAMARIQUE, María",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G297.jpg",
+    "videoUrl": null
+  }
+]

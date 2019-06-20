@@ -1,0 +1,2572 @@
+[
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ABDALA DE MATARAZZO, Norma Amanda",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4759.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ABRAHAM, Alejandro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50842.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ACERENZA, Samanta María Celeste",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50902.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ALBORNOZ, Gabriela Romina",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51010.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ALEGRE, Gilberto Oscar",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50782.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ALFONSÍN, Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4775.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ALONSO, Horacio Fernando",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51002.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ÁLVAREZ RODRIGUEZ, María Cristina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50892.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "AMADEO, Eduardo Pablo",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4812.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ARENAS, Berta Hortensia",
+    "party": "Compromiso Federal",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50859.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ARGUMEDO, Alcira Susana",
+    "party": "Proyecto Sur",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4808.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ARRIETA, Gustavo Héctor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50986.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "AUSTIN, Brenda Lis",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51025.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BALBO, Elva Susana",
+    "party": "Unión PRO",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50951.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BALDASSI, Héctor Walter",
+    "party": "Unión PRO",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50820.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BANFI, Karina Verónica",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50906.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BARDEGGIA, Luis María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50851.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BARLETTA, Mario Domingo",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50864.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BARRETO, Jorge Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50832.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BASTERRA, Luis Eugenio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50726.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BAZZE, Miguel Ángel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50687.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BERMEJO, Sixto Osvaldo",
+    "party": "Trabajo y Dignidad",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51006.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BERNABEY, Ramón Ernesto",
+    "party": "BG Juan B. Bustos",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50883.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BESADA, Alicia Irma",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51009.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BEVILACQUA, Gustavo",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50914.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BIANCHI, Ivana María",
+    "party": "Compromiso Federal",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4585.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BINNER, Hermes Juan",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50865.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BORSANI, Luis Gustavo",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50953.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BOSSIO, Diego Luis",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50909.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BREGMAN, Myriam",
+    "party": "PTS - Frente de Izquierda",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50889.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BREZZO, María Eugenia",
+    "party": "Unidos por una Nueva Argentina",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51011.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BRITEZ, María Cristina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50955.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BRIZUELA DEL MORAL, Eduardo Segundo",
+    "party": "Fte. Cívico y Social de Catamarca",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50805.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BRÜGGE, Juan Fernando",
+    "party": "Unidos por una Nueva Argentina",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51013.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BUIL, Sergio Omar",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50908.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "BURGOS, María Gabriela",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50836.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CABANDIÉ, Juan",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50809.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CÁCERES, Eduardo Augusto",
+    "party": "Unión PRO",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50857.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CALLERI, Agustín Santiago",
+    "party": "Unidos por una Nueva Argentina",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50987.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CAMAÑO, Graciela",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CARLOTTO, Remo Gerardo",
+    "party": "Peronismo para la Victoria",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4438.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CARMONA, Guillermo Ramón",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50734.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CAROL, Analuz Ailén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50979.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CARRIÓ, Elisa María Avelina",
+    "party": "Coalición Cívica",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3815.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CARRIZO, Ana Carla",
+    "party": "Unión Cívica Radical",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50810.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CARRIZO, Nilda Mabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50879.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CARRIZO, Soledad",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50821.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CASAÑAS, Juan Francisco",
+    "party": "Del Bicentenario",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4747.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CASELLES, Graciela María",
+    "party": "Partido Bloquista de San Juan",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4633.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CASTAGNETO, Carlos Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50896.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CASTRO, Sandra Daniela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50858.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CAVIGLIA, Franco Agustín",
+    "party": "Juntos por Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51024.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CIAMPINI, José Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50740.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CICILIANI, Alicia Mabel",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4756.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CIGOGNA, Luis Francisco Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4162.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CLERI, Marcos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50754.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CLOSS, Maurice Fabian",
+    "party": "Frente de la Concordia Misionero",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50954.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CONESA, Eduardo Raúl",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50998.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CONTI, Diana Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4440.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "COPES, Ana Isabel",
+    "party": "Partido Demócrata Progresista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51019.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "COSTA, Eduardo Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4755.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "COUSINET, Graciela",
+    "party": "Libres del Sur",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50985.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "CREMER DE BUSTI, María Cristina",
+    "party": "Unión por Entre Ríos",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4600.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "D'AGOSTINO, Jorge Marcelo",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50835.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DAER, Héctor Ricardo",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50784.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DAVID, Javier",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50962.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DE MENDIGUREN, José Ignacio",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50785.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DE PEDRO, Eduardo Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50675.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DE PONTI, Lucila María",
+    "party": "Peronismo para la Victoria",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50970.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DE VIDO, Julio (Suspendido Art 70 C.N.)",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50894.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DEPETRI, Edgardo Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4569.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DI STÉFANO, Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50957.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "di TULLIO, Juliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4443.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DIAZ ROIG, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4500.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DINDART, Julián",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50941.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DONDA PÉREZ, Victoria Analía",
+    "party": "Libres del Sur",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4657.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DOÑATE, Claudio Martín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50959.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DURAND CORNEJO, Guillermo Mario",
+    "party": "Unión PRO",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50854.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "DURÉ, Lucila Beatriz",
+    "party": "Partido Socialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51001.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ECHEGARAY, Alejandro Carlos Augusto",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50904.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "EHCOSOR, María Azucena",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50786.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ESTEVEZ, Gabriela Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50936.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "FABIANI, Eduardo Alberto",
+    "party": "Juntos por Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50788.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "FERNÁNDEZ MENDÍA, Gustavo Rodolfo",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50839.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "FERREYRA, Araceli Susana Del Rosario",
+    "party": "Peronismo para la Victoria",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50719.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "FRANA, Silvina Patricia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50968.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "FRANCO, Jorge Daniel",
+    "party": "Frente de la Concordia Misionero",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50956.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "FURLAN, Francisco Abel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50893.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GAILLARD, Ana Carolina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50833.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GALLARDO, Miriam Graciela del Valle",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4778.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GARCÍA, María Teresa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4447.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GARRÉ, Nilda Celia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50922.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GARRETÓN, Facundo",
+    "party": "Unión PRO",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50980.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GAYOL, Yanina Celeste",
+    "party": "Unión PRO",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50943.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GERVASONI, Lautaro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50834.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GIMÉNEZ, Patricia Viviana",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50845.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GIOJA, José Luis",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50989.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GIUSTOZZI, Rubén Darío",
+    "party": "Juntos por Argentina",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50791.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GOICOECHEA, Horacio",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50926.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GOMEZ BULL, Mauricio Ricardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50862.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GONZÁLEZ, Álvaro Gustavo",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50919.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GONZÁLEZ, Gladys Esther",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4771.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GONZÁLEZ, Josefina Victoria",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50866.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GRANA, Adrián Eduardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50903.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GRANADOS, Dulce",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3458.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GRANDINETTI, Alejandro Ariel",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50974.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GROSSO, Leonardo",
+    "party": "Peronismo para la Victoria",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50683.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GUERIN, María Isabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51004.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GUTIERREZ, Héctor María",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50793.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GUZMÁN, Andrés Ernesto",
+    "party": "Peronismo para la Victoria",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51005.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "GUZMÁN, Sandro Adrián",
+    "party": "Juntos por Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50794.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HELLER, Carlos Salomón",
+    "party": "Solidario SI",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4763.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HERNÁNDEZ, Martín Osvaldo",
+    "party": "Unión Cívica Radical",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50944.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HERRERA, José Alberto",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4595.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HERRERA, Luis Beder",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50950.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HERS CABRAL, Anabella Ruth",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51000.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HORNE, Silvia Renee",
+    "party": "Peronismo para la Victoria",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50960.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HUCZAK, Stella Maris",
+    "party": "Unión PRO",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51012.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "HUSS, Juan  Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51003.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "IGON, Santiago Nicolás",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50928.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "INCICCO, Lucas Ciriaco",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50972.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ISA, Evita Nélida",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50855.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "JUÁREZ, Manuel Humberto",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50872.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "JUÁREZ, Myrian del Valle",
+    "party": "Fte. Cívico y Social de Catamarca",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50806.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "KICILLOF, Axel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50921.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "KIRCHNER, Máximo Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50966.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "KOSINER, Pablo Francisco Juan",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50741.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "KRONEBERGER, Daniel Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "KUNKEL, Carlos Miguel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4446.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LAGORIA, Elia Nelly",
+    "party": "Trabajo y Dignidad",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50819.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LARROQUE, Andrés",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50704.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LASPINA, Luciano Andrés",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50884.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LAVAGNA, Marco",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50923.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LIPOVETZKY, Daniel Andrés",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50907.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LITZA, Mónica Edith",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51022.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LLANOS MASSA, Ana María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50930.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LOPARDO, María Paula",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51021.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LÓPEZ KOENIG, Leandro Gastón",
+    "party": "Unión PRO",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50958.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LÓPEZ, Pablo Sebastián",
+    "party": "Fte. de Izquierda y de los Trabajadores",
+    "region": "Salta",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50856.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LOSPENNATO, Silvia Gabriela",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50900.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LOTTO, Inés Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50725.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "LUSQUIÑOS, Luis Bernardo",
+    "party": "Compromiso Federal",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51016.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MACÍAS, Oscar Alberto",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50940.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MADERA, Teresita",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50841.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MAQUIEYRA, Martín",
+    "party": "Unión PRO",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51017.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARCUCCI, Hugo María",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50976.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARTÍNEZ CAMPOS, Gustavo José",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50815.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARTÍNEZ VILLADA, Leonor María",
+    "party": "Coalición Cívica",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50933.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARTÍNEZ, Ana Laura",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50971.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARTÍNEZ, Darío",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Neuquén",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51008.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARTÍNEZ, Oscar Anselmo",
+    "party": "Movimiento Solidario Popular",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50875.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARTÍNEZ, Silvia Alejandra",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50945.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MARTÍNEZ, Soledad",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4805.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MASIN, María Lucila",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50925.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MASSA, Sergio Tomás",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50797.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MASSETANI, Vanesa Laura",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50975.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MASSO, Federico Augusto",
+    "party": "Libres del Sur",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50994.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MASSOT, Nicolás María",
+    "party": "Unión PRO",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50934.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MAZURE, Liliana Amalia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50812.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MENDOZA, Mayra Soledad",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50679.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MENDOZA, Sandra Marcela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4801.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MERCADO, Verónica Elizabeth",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50916.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MESTRE, Diego Matías",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50824.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MIRANDA, Pedro Rubén",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50952.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MOLINA, Karina Alejandra",
+    "party": "Unión PRO",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50949.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MONFORT, Marcelo Alejandro",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50942.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MONZÓ, Emilio",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50901.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MORALES, Mariana Elizabet",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51007.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MOREAU, Cecilia",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50898.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MORENO, Carlos Julio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4448.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "MOYANO, Juan Facundo",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50677.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "NANNI, Miguel",
+    "party": "Unión Cívica Radical",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50963.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "NAVARRO, Graciela",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50705.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "NAZARIO, Adriana Mónica",
+    "party": "Unidos por una Nueva Argentina",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50937.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "NEGRI, Mario Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50713.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "NUÑEZ, José Carlos",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50973.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "OLIVA, Cristian Rodolfo",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4540.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "OLIVARES, Héctor Enrique",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50882.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "OLMEDO, Alfredo Horacio",
+    "party": "Salta Somos Todos",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4825.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ORELLANA, José Fernando",
+    "party": "Primero Tucumán",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50982.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PASSO, Marcela Fabiana",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50912.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PASTORI, Luis Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50847.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PASTORIZA, Mirta Ameliana",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4618.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PATIÑO, José Luis",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50990.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PEDRINI, Juan Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50816.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PEREYRA, Juan Manuel",
+    "party": "Concertación FORJA",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50938.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PÉREZ, Martín Alejandro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50876.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PÉREZ, Raúl Joaquín",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50915.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PETRI, Luis Alfonso",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50846.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PEÑALOZA MARIANETTI, María Florencia",
+    "party": "Compromiso con San Juan",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51026.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PITIOT, Carla Betina",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50924.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PITROLA, Néstor Antonio",
+    "party": "Fte. de Izquierda y de los Trabajadores",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50799.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PLAINI, Francisco Omar",
+    "party": "Cultura, Educación y Trabajo",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4764.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "POGGI, Claudio Javier",
+    "party": "Avanzar San Luis",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50965.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "PRETTO, Pedro Javier",
+    "party": "Unión PRO",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50931.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "QUINTAR, Amado",
+    "party": "Fte. Cívico y Social de Catamarca",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50917.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RACH QUIROGA, Analía Alexandra",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50927.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RAFFO, Julio César",
+    "party": "Diálogo y Trabajo",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51023.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RAMOS, Alejandro Ariel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50969.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RAVERTA, María Fernanda",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50891.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RECALDE, Héctor Pedro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4451.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RICCARDO, José Luis",
+    "party": "Unión Cívica Radical",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50860.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RISKO, Silvia Lucrecia",
+    "party": "Frente de la Concordia Misionero",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4783.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RISTA, Olga María",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50932.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ROBERTI, Alberto Oscar",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50689.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RODRIGUEZ, Matías David",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50978.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RODRIGUEZ, Rodrigo Martín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50895.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ROMA, Carlos Gastón",
+    "party": "Unión PRO",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50996.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ROMERO, Oscar Alberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50800.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ROQUEL, Héctor Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50967.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ROSSI, Blanca Araceli",
+    "party": "Unidos por una Nueva Argentina",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50825.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RUBÍN, Carlos Gustavo",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50829.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RUCCI, Claudia Mónica",
+    "party": "Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4786.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "RUIZ ARAGÓN, José Arnaldo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50939.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SAN MARTÍN, Adrián",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50849.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SÁNCHEZ, Fernando",
+    "party": "Coalición Cívica",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50813.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SANTILLÁN, Walter Marcelo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50766.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SCAGLIA, Gisela",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50869.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SCHMIDT LIERMANN, Cornelia",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50708.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SCHWINDT, María Liliana",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50801.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SELVA, Carlos Américo",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50913.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SEMHAN, María de las Mercedes",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50830.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SEMINARA, Eduardo Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50881.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SNOPEK, Alejandro",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50946.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SNOPEK, Guillermo",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50947.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SOLÁ, Felipe Carlos",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4697.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SOLANAS, Julio Rodolfo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50721.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SORAIRE, Mirta Alicia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50983.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SORGENTE, Marcelo Adolfo",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51014.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SORIA, María Emilia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50852.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SOSA, Soledad",
+    "party": "Fte. de Izquierda y de los Trabajadores",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50988.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "SPINOZZI, Ricardo Adrián",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50870.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "STOLBIZER, Margarita Rosa",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1460.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TABOADA, Jorge",
+    "party": "Chubut Somos Todos",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50929.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TAILHADE, Luis Rodolfo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50897.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TENTOR, Héctor Olindo",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50837.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TERADA, Alicia",
+    "party": "Coalición Cívica",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TOLEDO, Susana María",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50863.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TOMAS, Héctor Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4802.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TOMASSI, Néstor Nicolás",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50807.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TONELLI, Pablo Gabriel",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50707.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TORELLO, Pablo",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50911.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TORROBA, Francisco Javier",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50840.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TROIANO, Gabriela Alejandra",
+    "party": "Partido Socialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50802.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "TUNDIS, Mirta",
+    "party": "Federal Unidos por una Nueva Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50803.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "URROZ, Paula",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50905.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "VALDÉS, Gustavo Adolfo",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50831.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "VEGA, María Clara del Valle",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51020.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "VILLALONGA, Juan Carlos",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50920.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "VILLAR MOLINA, María Inés",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50850.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "VILLAVICENCIO, María Teresita",
+    "party": "Del Bicentenario",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50981.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "VOLNOVICH, Luana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50899.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "WECHSLER, Marcelo Germán",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50918.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "WISKY, Sergio Javier",
+    "party": "Unión PRO",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50961.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "WOLFF, Waldo Ezequiel",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50910.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ZIEGLER, Alex Roberto",
+    "party": "Libertad, Valores y Cambios",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4781.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2016-10-20 07:23:32",
+    "votingId": 3081,
+    "legislator": "ZILIOTTO, Sergio Raúl",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50948.jpg",
+    "videoUrl": null
+  }
+]

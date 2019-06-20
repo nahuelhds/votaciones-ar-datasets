@@ -1,0 +1,2572 @@
+[
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ABDALA, Germán Darío",
+    "party": "Mov. Peronista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G13.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ACEÑOLAZA, Florencio G.",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G14.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ACHEM, Antonio",
+    "party": "Cruzada Renovadora",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G125.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ADAIME, Felipe Teófilo",
+    "party": "Autonomista de Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G61.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "AGUADO, Jorge Ruben",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G126.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "AGUNDEZ, Jorge Alfreso",
+    "party": "Unión Cívica Radical",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G62.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALABI, Ernesto",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G63.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALBAMONTE, Alberto Gustavo",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G127.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALBERTI, Juan Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G64.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALCALA, Nestor Ricardo",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G15.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALENDE, Oscar Eduardo",
+    "party": "Partido Intransigente",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G65.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALGABA, Ernesto Pedro",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G66.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALSOGARAY, Albaro Carlos",
+    "party": "Unión Centro Democrático",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G59.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALVAREZ ECHAGUE, Raul A.",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G130.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALVAREZ GARCIA, Normando",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G67.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALVAREZ, Carlos Alberto",
+    "party": "Mov. Peronista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G128.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ALVAREZ, Hector Claudio",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G129.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "AMADEO, Eduardo Pablo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4812.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ANTELO, José María",
+    "party": "Demócrata Progresista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G229.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ARANDA, Saturnino Dantti",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G16.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ARGÜELLO, Jorge",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4317.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ARIAS, Cesar",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G17.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ARMENDARIZ, Alejandro",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G131.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ARRECHEA, José Salvador",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G132.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "AYALA, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A35.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BAGLINI, Raúl Eduardo",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4009.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BALESTRA, René Helvecio",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1792.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BALESTRINI, Alberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4437.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BALESTRINI, Miguel Alberto",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G133.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BARBERA, Eliseo",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G19.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BARBOTTI, Atilio",
+    "party": "Alianza Acción Chaqueña",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G134.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BASSANI, Angel Marcelo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G68.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BAUM, Daniel",
+    "party": "Justicialista",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G135.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BAYLAC, Juan Pablo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2076.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BECERRA, Carlos Armando",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G136.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BECERRA, Nicolas Eduardo",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G69.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BELTRAN, Carlos Roberto",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G20.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BENEDETTI, Jorge Enrique",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G70.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BERHONGARAY, Antonio Tomás",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G137.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BERICUA, Jorge",
+    "party": "Unión Cívica Radical",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G138.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BERMUDEZ, María del Pilar",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G21.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BISCHOF, Enrique",
+    "party": "Movimiento Popular Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G139.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BISCIOTTI, Victorio Osvaldo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G71.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BLANCO, Oscar Alberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G140.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BORDA, Osvaldo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G22.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BORDIN CAROSIO, Hugo Antonio",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G141.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BRACCHI, Osvaldo Américo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G23.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BRANDA, Carlos Ernesto",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G142.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BRAVO, Alfredo Pedro",
+    "party": "AL. H. T. E. (Socialista)",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A87.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BREARD, Noel Eugenio",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4167.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BROOK, Mario Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G72.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BRUNATI, Luis Pedro",
+    "party": "Mov. Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G143.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "BRUZZO, Omar Obdulio",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G73.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CABRERA, Gerardo",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G144.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CAFIERO, Juan Pablo",
+    "party": "Mov. Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A123.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CAIMMI, Fernando Enrique",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G228.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CALLEJAS, Ovidio Amilcar",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G146.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CAMAÑO, Dante Alberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4562.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CAMAÑO, Eduardo Oscar",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A31.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CAMAÑO, Graciela",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CANATA, José Domingo",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G147.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CAPUTO, Dante Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G148.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CARRERAS, Porfirio Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G74.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CASARI de ALARCIA, Leonor",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G149.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CASTILLO, José Luis",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G150.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CASTILLO, Oscar Anibal",
+    "party": "Unión Cívica Radical",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G75.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CAVALLARI, Juan José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G76.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CEBALLOS, Walter Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G77.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CICARE, Miguel Angel",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G24.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CORCHUELO BLASCO, José Manuel",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3790.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "COSSOS PEREZ, Juan Nicolás",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G151.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CRAMARO, Hugo Arnaldo",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G152.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CROSTELLI, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G25.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "CRUZ, Washington Jesus",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G26.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "D'ALESSANDRO, Miguel H.",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G153.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "D'AMBROSIO, Angel Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G78.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "DAUD, Jorge Carlos",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4086.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "DE MARTINO, Victor Amador",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G79.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "DI TULIO, Hector Horacio",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G80.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "DURAÑONA y VEDIA, Francisco",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G27.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "DURRIEU, Marcela Margarita",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G28.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "DUSSOL, Ramón Adolfo",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G154.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ECHEVARRIA, Luis María",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G155.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ELIAS, Angel Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G81.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ESPECHE, Alberto Luis",
+    "party": "Unión Cívica Radical",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G156.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ESTEVEZ BOERO, Guillermo E.",
+    "party": "AL. H. T. E. (Socialista)",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G157.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FAJARDO, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G84.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FALLETI, Julio Cesar José",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G158.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FELGUERAS, Ricardo Ernesto",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G159.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FELLNER, Eduardo Alfredo",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4674.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FERNANDEZ GILL, Guillermo",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G85.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FERNANDEZ, Roberto Carlos",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G160.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FERNANDEZ, Roberto Enrique",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G161.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FERRADAS, Miguel Enrique",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G162.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FERREYRA, Eduardo Mario",
+    "party": "Afirmación Peronista",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G163.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FESCINA, Andrés Julian",
+    "party": "Partido Federal",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G86.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FIGUEROA, Pedro Octavio",
+    "party": "Movimiento Popular Jujeño",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G164.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FLORES, Rafael Horacio",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2797.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FOLLONI, Jorge Oscar",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3797.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FONTELA, Moises Eduardo",
+    "party": "Mov. Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G165.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FORNERON, Lino",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G166.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "FRIGERIO, Octavio",
+    "party": "Desarrollista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G167.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GALLO, Orlando Juan",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G168.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GALVAN, Raul Alfredo",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G169.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GAN, Fernando",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G170.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GARAY, Nicolás Alfredo",
+    "party": "Liberal de Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G171.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GARCIA CUEVA, Ignacio S.",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G29.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GARCIA de NOVELLI, María",
+    "party": "Unión Cívica Radical",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G173.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GARCIA, Pedro Alberto",
+    "party": "Intransigente",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G172.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GARGIULO, Pablo",
+    "party": "Cruzada Renovadora",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G30.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GATTI, Héctor Angel",
+    "party": "Demócrata Cristiano",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G31.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GAUNA, Juan Octavio",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G87.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GERMANO, Alberto Raul",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G174.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GIOJA, José Luis",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50989.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GOLPE MONTIEL, Nestor Lino",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G88.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GOMEZ CENTURION, Carlos E.",
+    "party": "Bloquista de San Juan",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G175.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GOMEZ, José Ernesto",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G32.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GOMEZ, Roque Julio Cesar",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G33.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GONZALEZ CABAÑAS, Tomás W.",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G34.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GONZALEZ GASS, Gabriela Marta",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G89.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GONZALEZ GAVIOLA, Juan Horacio",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G91.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GONZALEZ, Alberto Ignacio",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G176.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GONZALEZ, Luis Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G90.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GREEN, Gustavo Adolfo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G35.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GUERRERO, Antonio Isaac",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G36.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GUERRERO, Luis Serafín",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G60.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "GUZMAN, María Cristina",
+    "party": "Movimiento Popular Jujeño",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G92.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "HARDY, Anibal Osvaldo",
+    "party": "Mov. Integ. y Desarrollo",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G177.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "HERNANDEZ, Antonio María",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G93.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "HERNANDEZ, Santos Abel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G178.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "HERRERA ARIAS, Manuel H.",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G180.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "HERRERA, Bernardo Eligio",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G37.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "HERRERA, Luis Fernando",
+    "party": "Unión Centro Democrático",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G179.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "HUMADA, Raul",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G181.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "IBARBIA, José María",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G182.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "IBARRECHE, Julio Cesar",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G94.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "IGLESIAS, Evaristo Constantino",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G183.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "IRIBARNE, Alberto Juan",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G38.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ITURRE, Cesar Eusebio",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G39.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "JALIL, Luis Julián",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4109.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "KELLY, Elsa Diana Rosa",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G184.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "KOTH, Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G185.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LAMBERTO, Oscar Santiago",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1317.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LARRABURU, Damaso",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2858.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LECONTE, Ricardo Guillermo",
+    "party": "Liberal de Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G95.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LOPEZ ARIAS, Marcelo Eduardo",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A156.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LOPEZ de ZAVALIA, Fernando J.",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G186.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LOPEZ, Alcides Humberto",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G96.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LOSADA, Luis Enrique",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G187.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LOUTAIF, Julio César",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4104.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "LYNCH, Carlos Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Formosa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G188.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MACHADO, Oscar Alfredo",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G189.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MACHICOTE, Jorge Raul",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G190.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MAGGI, Juan Alberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G40.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MANFREDOTTI, Carlos",
+    "party": "Justicialista",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G191.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MANNY, José Juan",
+    "party": "Unión Centro Democrático",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G192.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MAQUEDA, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G41.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MARCO, Jorge Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G193.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MARCOLLI, Miguel",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G42.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MARCOS, Ricardo Ernesto",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G194.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MARELLI, Mabel",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2840.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MARTIN de DE NARDO, Marta",
+    "party": "Afirmación Peronista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G97.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MARTINEZ RAYMONDA, Rafael",
+    "party": "Demócrata Progresista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4288.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MARTINEZ, Luis Alberto",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G2.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MATZKIN, Jorge Rubén",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3047.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MENDOZA, Claudio Ramiro",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G195.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MENDOZA, Martín",
+    "party": "MODIN",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G196.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MENEGHINI, Javier Revnaldo",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G98.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MICHELLI, Marco Aurelio",
+    "party": "Conservador Popular",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G99.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MICHITTE, Salomón Antonio",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G43.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MOLARDO, Elvio Francisco",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G197.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MOLINAS, Ricardo Francisco",
+    "party": "AL. H. T. E. (Socialista)",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G100.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MONTEVERDE, Carlos Roberto",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G198.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MOREAU, Leopoldo Raúl Guido",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51098.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MOURE, Juan Manuel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G199.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MUNIAGURRIA, Marcelo Julio",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G200.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "MUÑOZ, Marcelo Bernardo",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G201.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "NACUL, Miguel Camel",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G44.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "NATALE, Alberto Adolfo",
+    "party": "Demócrata Progresista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1186.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "NICKISCH, Hugo Victor",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G202.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "NIÑO, Jorge",
+    "party": "Justicialista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G203.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "NOVAU, Pedro José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G101.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "OLIVERA, Enrique José",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G102.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ORGAZ, Alfredo",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G204.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ORQUIN, Leopoldo Manuel",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G103.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ORTIZ MALDONADO, Gastón H.",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G104.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ORTIZ PELLEGRINI, Miguel A.",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G205.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PARADA, Alberto",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G206.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PARENTE, Rodolfo Miguel",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G105.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PAROLA, José María",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G207.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PARRILLI, Oscar Isidro José",
+    "party": "Justicialista",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G45.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PEPE, Lorenzo Antonio",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A22.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PERALTA, Anibal Pedro",
+    "party": "Unión Cívica Radical",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G208.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PESCE, Felix",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G106.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PICCININI, Ana Ida",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G209.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PIERRI, Alberto Reinaldo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3656.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PINTO, Guillermo",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G107.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PIOTTI, Alberto Daniel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G46.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PRAT, Alfredo Ernesto",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G108.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PROFILI, Gerardo Pedro",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G210.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PRONE, Alberto Josue",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G109.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "PURICELLI, Arturo Antonio",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G211.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "QUEZADA, Rodolfo H.",
+    "party": "Unión Cívica Radical",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G110.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RAIMUNDI, Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RE, Ricardo Horacio",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G47.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RODRIGO, Esteban Joaquin",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G111.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RODRIGUEZ SAÑUDO, Hugo B.",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G48.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RODRIGUEZ, José",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G212.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RODRIGUEZ, Raul Eduardo",
+    "party": "Afirmación Peronista",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G112.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ROIG, Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G113.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ROMERO, Carlos Alberto",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G0.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ROMERO, Humberto Antonio",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G213.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ROY, Irma",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4141.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RUCKAUF, Carlos Federico",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4390.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "RUIZ, Angel",
+    "party": "Justicialista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G214.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SAADI, Luis Alberto",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G215.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SAADI, Ramón Eduardo",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4006.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SABIO, Juan Carlos",
+    "party": "Partido Blanco",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G114.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SACKS, Ruben Rodolfo",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G216.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SALUSSO, Horacio Ramón",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G49.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SALVADOR, Daniel Marcelo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G115.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SAMID, Manuel Julio",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G217.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SANCHEZ GALDEANO, Roque",
+    "party": "Movimiento Popular Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G116.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SANTIN, Eduardo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50690.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SCELZI, Carlos José",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G218.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SEGUI, Hector Miguel",
+    "party": "Unión Cívica Radical",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G117.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SODERO NIEVAS, Victor Hugo",
+    "party": "Justicialista",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G219.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SORIA ARCH, José María",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G50.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SORIA, Carlos Ernesto",
+    "party": "Justicialista",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2692.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SPINOZA, Augusto Juan",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G118.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "STORANI, Conrado Hugo",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G119.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SUCARIA, Nevef",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G51.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SUEIRO, Carlos Adolfo",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G52.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "SUREDA, Angela Geronima",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G120.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "TACTA de ROMERO, Emma Andrea",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G53.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "TOMA, Miguel Angel",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A565.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "TOPA, Raúl Roque",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G121.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "TOTO, Francisco Patricio",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G54.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "TROYANO, Silvia Elena",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G220.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "URIONDO, Luis Enrique Ramón",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G55.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VALCARCEL, Juan Manuel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G221.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VANOSSI, Jorge",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4397.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VARELA BARRIOS, Juan Carlos",
+    "party": "Demócrata Progresista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G122.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VARELA CID, Eduardo",
+    "party": "Justicialista",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G56.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VARELA, Nestor Angel",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G222.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VAZQUEZ, Ricardo Hector",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3699.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VAZQUEZ, Roberto",
+    "party": "Unión Cívica Radical",
+    "region": "Capital Federal",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G223.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VENESIA, Gualberto Edgardo",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G57.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VICCHI, Raúl Horacio",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G123.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "VIQUEIRA, Horacio",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G224.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "YOMA, Jorge Raul",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4793.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ZABALA, Gilberto Antonio",
+    "party": "Justicialista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G225.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ZAMBIANCHI, Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G124.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ZAMORA, Federico",
+    "party": "Unión Centro Democrático",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G226.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ZAMORA, Luis Fernando",
+    "party": "Mov. Soc. Trabajadores",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4148.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ZARACHO, Evelio Argentino",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G227.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "1993-06-30 23:24:00",
+    "votingId": 3625,
+    "legislator": "ZICARELLI, Orlando",
+    "party": "Demócrata Cristiano",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/G58.jpg",
+    "videoUrl": null
+  }
+]

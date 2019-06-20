@@ -1,0 +1,2572 @@
+[
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ABDALA, Josefina",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4313.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ACCASTELLO, Eduardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4484.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ACUÑA KUNZ, Juan Erwin",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4529.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ACUÑA, Hugo Rodolfo",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4568.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "AGUAD, Oscar Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4491.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "AGUERO, Elda Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4285.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ALARCON, María del Carmen",
+    "party": "Movimiento Pampa Sur",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2096.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ALCHOURON, Guillermo Eduardo",
+    "party": "Acción por la República",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2515.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ALONSO, Gumersindo Federico",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4315.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ÁLVAREZ RODRIGUEZ, María Cristina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50892.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ALVAREZ, Juan José",
+    "party": "Justicialista Nacional",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4316.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ANAUATE, Carlos Alfredo",
+    "party": "Mov. de Bases Independientes",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4579.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ARDID, Mario Rolando",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4576.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ARNOLD, Eduardo Ariel",
+    "party": "No Integra Bloque",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4318.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ARRIAGA, Julio Esteban",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4518.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ATANASOF, Alfredo Néstor",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1795.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "AUGSBURGER, Silvia",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4531.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "AZCOITI, Pedro José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4461.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BAIGORRI, Guillermo Francisco",
+    "party": "Vida y Compromiso",
+    "region": "San Juan",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4320.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BALADRON, Manuel Justo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3059.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BALESTRINI, Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4437.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BARAGIOLA, Vilma Rosana",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4545.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BARRIONUEVO, José Luis",
+    "party": "Peronista Federal",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4476.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BAYONZO, Liliana Amelia",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4058.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BECCANI, Alberto Juan",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4321.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BEJARANO, Mario Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4322.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BERRAUTE, Ana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4534.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BERTOL, Paula María",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4469.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BERTONE, Rosana Andrea",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4080.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BEVERAGGI, Margarita Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4584.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BIANCHI SILVESTRE, Marcela Alejandra",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4163.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BIANCO, Lía Fabiola",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4512.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BIELSA, Rafael",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4466.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BINNER, Hermes Juan",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50865.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BISUTTI, Delia Beatriz",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4464.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BONACORSI, Juan Carlos",
+    "party": "Partido Unidad Federalista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4323.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BONASSO, Miguel Luis",
+    "party": "Convergencia",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4324.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BORSANI, Luis Gustavo",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50953.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BOSCH, Irene Miriam",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4326.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BRILLO, José Ricardo",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4516.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BRUE, Daniel Agustín",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4539.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BULLRICH, Esteban  José",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4471.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "BURZACO, Eugenio",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4459.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CAMAÑO, Dante Alberto",
+    "party": "Nacional Sindical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4562.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CAMAÑO, Eduardo Oscar",
+    "party": "Justicialista Nacional",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A31.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CAMAÑO, Graciela",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CAMBARERI, Fortunato Rafael",
+    "party": "Unión Cívica Radical",
+    "region": "Chubut",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A110.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CANELA, Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50853.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CANEVAROLO, Dante Omar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4158.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CANTERO GUTIERREZ, Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4485.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CANTEROS, Gustavo Jesús Adolfo",
+    "party": "Proyecto Corrientes",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4414.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CANTOS, José María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4327.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CARLOTTO, Remo Gerardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4438.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CARMONA, María Araceli",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4493.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CASERIO, Carlos Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50822.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CASSESE, Marina",
+    "party": "Justicialista Nacional",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4311.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CAVADINI, Eduardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4550.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CECCO, Carlos Jaime",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4407.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CESAR, Nora Noemí",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4439.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CHIACCHIO, Nora Alicia",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3170.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CHIRONI, Fernando Gustavo",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4329.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CIGOGNA, Luis Francisco Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4162.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CITTADINI, Stella",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4330.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "COIRINI, Adriana Elsa",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4551.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "COLLANTES, Genaro Aurelio",
+    "party": "Frente Cívico Social",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4475.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "COLOMBI, Ricardo",
+    "party": "Frente de Todos",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3562.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "COMELLI, Alicia Marcela",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4331.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CONTI, Diana Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4440.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CORDOBA, José Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4527.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CORDOBA, Stella Maris",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4095.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CORNEJO, Alfredo Victor",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4510.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "COSCIA, Jorge Edmundo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4467.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "COSTA, Roberto Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4332.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "CUEVAS, Hugo Oscar",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4519.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DAHER, Zulema Beatríz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3467.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DALLA FONTANA, Ariel  Raúl Armando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4535.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DAUD, Jorge Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4086.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DAZA, Héctor Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4333.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DE BERNARDI, Eduardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4400.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DE BRASI, Marta Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4334.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DE LA BARRERA, Guillermo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4335.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DE LA ROSA, Maria Graciela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4336.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DE MARCHI, Omar Bruno",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4507.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DE NARVAEZ, Francisco",
+    "party": "Justicialista Nacional",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4441.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DELICH, Francisco José",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4488.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DELLEPIANE, Carlos Francisco",
+    "party": "Frente Popular Bonaerense",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4338.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DEPETRI, Edgardo Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4569.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DI LANDRO, Oscar Jorge",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4339.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DI POLLINA, Eduardo Alfredo",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4340.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "di TULLIO, Juliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4443.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DIAZ BANCALARI, José María",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A19.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DIAZ ROIG, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4500.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DIAZ, Susana Eladia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4341.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DOGA, María Nélida",
+    "party": "Justicialista Nacional",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4342.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "DOVENA, Miguel Dante",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4444.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FABRIS, Luciano Rafael",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4480.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FADEL, Patricia Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4344.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FERNANDEZ, Alfredo Cesar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4347.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FERRA DE BARTOL, Margarita",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4524.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FERRI, Gustavo Enrique",
+    "party": "Justicialista Nacional",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4419.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FERRIGNO, Santiago",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4349.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FERRO, Francisco José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4463.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FIGUEROA,  José Oscar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3490.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FIOL, Paulina Esther",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4350.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "FRANCO, Hugo Alberto",
+    "party": "Frente Popular Bonaerense",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4351.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GALANTINI, Eduardo Leonel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4494.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GALLO, Daniel Oscar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4411.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GALVALISI, Luis Alberto",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4557.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GARCIA de MORENO, Eva",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4482.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GARCIA MENDEZ, Emilio Arturo",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4465.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GARCÍA, María Teresa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4447.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GARCIA, Susana Rosa",
+    "party": "A.R.I",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4352.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GARIN de TULA, Lucia",
+    "party": "Unión Cívica Radical",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4353.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GARRIDO ARCEO, Jorge Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4385.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GENEM, Amanda Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4547.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GINZBURG, Nora Raquel",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4472.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GIOJA, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4354.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GIORGETTI, Jorge Raúl",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4355.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GIUBERGIA, Miguel Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3682.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GIUDICI, Silvana Myriam",
+    "party": "Unión Cívica Radical",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4356.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GODOY, Juan Carlos",
+    "party": "Concertación Entrerriana",
+    "region": "Entre Ríos",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4406.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GODOY, Ruperto Eduardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4357.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GONZALEZ, Jorge Pedro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4358.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GONZALEZ, María América",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1549.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GONZALEZ, Nancy Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4571.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GORBACZ, Leonardo Ariel",
+    "party": "A.R.I",
+    "region": "Tierra del Fuego",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4541.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GUTIERREZ, Francisco Virgilio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4105.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "GUTIERREZ, Graciela Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4528.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "HEREDIA, Arturo Miguel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4486.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "HERNANDEZ, Cinthya Gabriela",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4359.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "HERRERA, Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3814.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "HERRERA, Griselda Noemí",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50732.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "IGLESIAS, Roberto Raul",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4360.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ILARREGUI, Luis Alfredo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4445.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "INGRAM, Roddy Ernesto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4401.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "IRRAZABAL, Juan Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4361.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ITURRIETA, Miguel Angel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4513.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "JANO, Ricardo Javier",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4362.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "JEREZ, Esteban Eduardo",
+    "party": "Propuesta Republicana",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4363.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "JEREZ, Eusebia Antonia",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4364.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "KAKUBUR, Emilio",
+    "party": "No Integra Bloque",
+    "region": "Misiones",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4514.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "KRONEBERGER, Daniel Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "KUNKEL, Carlos Miguel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4446.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LAMBERTO, Oscar Santiago",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1317.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LANDAU, Jorge Alberto",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A116.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LAURITTO, José Eduardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4496.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LEGUIZAMON, Anibal Ernesto",
+    "party": "Peronismo Peronista",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4580.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LEMME, María Alicia",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4408.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LEMOS, Silvia Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4511.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LEYBA de MARTI, Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3546.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LIX KLETT, Roberto Ignacio",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3543.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LOPEZ, Amelia de los Milagros",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4558.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LORENZO BOROCOTO, Eduardo",
+    "party": "Movimiento Independiente",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4470.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LOVAGLIO SARAVIA, Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4416.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LOZANO, Claudio Raúl",
+    "party": "Frente Norte",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4365.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "LUSQUIÑOS, Luis Bernardo",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51016.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MACALUSE, Eduardo Gabriel",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A874.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MACCHI, Carlos Guillermo",
+    "party": "Partido Nuevo",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4413.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MAFFEI, Marta Olinda",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4366.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MANSUR, Nélida Mabel",
+    "party": "Partido Unidad Federalista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4367.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARCO DEL PONT, Mercedes",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4468.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARCONATO, Gustavo Angel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4368.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARINO, Adriana del Cármen",
+    "party": "Frente Producción y Trabajo",
+    "region": "San Juan",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4522.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARINO, Juliana Isabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4369.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARTINEZ GARBINO, Emilio Raúl",
+    "party": "Concertación Entrerriana",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4498.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARTINEZ RAYMONDA, Rafael",
+    "party": "Demócrata Progresista",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4288.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARTINEZ, Julio César",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4370.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MARTINI, Hugo",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4371.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MASSEI, Oscar Ermelindo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4515.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MEDIZA, Heriberto Eloy",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4372.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MENDEZ de FERREYRA, Araceli Estela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4165.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MENEM, Eduardo Adrián",
+    "party": "Justicialista Nacional",
+    "region": "La Rioja",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2186.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MERINO, Raul Guillermo",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4373.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MOISÉS, María Carolina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51105.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MONAYAR, Ana María Cármen",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4432.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MONGELO, José Ricardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50697.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MONTENEGRO, Olinda",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4375.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MONTI, Lucrecia Etelvina",
+    "party": "Justicialista Nacional",
+    "region": "C.A.B.A.",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4376.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MORANDINI, Norma Elena",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4490.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MORENO, Carlos Julio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4448.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MORINI, Pedro Juan",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4548.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "MULLER, Mabel Hilda",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "NAIM, Lidia Lucía",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4567.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "NEGRI, Mario Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50713.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "NEMIROVSCI, Osvaldo Mario",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4378.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "NIEVA, Alejandro Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3791.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "OBIGLIO, Julián Martín",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4582.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "OLIVA, Cristian Rodolfo",
+    "party": "Unión Cívica Radical",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4540.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "OLMOS, Graciela Hortencia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4379.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "OSORIO, Marta Lucía",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4067.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "OSUNA, Blanca Inés",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4038.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "OVIEDO, Alejandra Beatriz",
+    "party": "Justicialista Nacional",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PANZONI, Patricia Ester",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4380.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PASTORIZA, Eduardo Antonio",
+    "party": "Bloque por la Verdad",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4477.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PEREZ, Alberto Cesar",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4381.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PEREZ, José Adrián",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50798.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PEREZ, Mirta",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4337.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PERIE, Hugo Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4403.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PESO, Stella Marys",
+    "party": "Justicialista Nacional",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4383.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PINEDO, Federico",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4384.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "POGGI, Claudio Javier",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50965.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "PORTO, Héctor Norberto",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4450.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "QUIROZ, Elsa Siria",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A103.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RAIMUNDI, Carlos",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RECALDE, Héctor Pedro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4451.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RICHTER, Ana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4386.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RICO, María del Carmen Cecilia",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4137.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RIOS, María Fabiana",
+    "party": "A.R.I",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4412.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RITONDO, Cristian",
+    "party": "Propuesta Peronista",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4387.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RODRIGUEZ, Marcela Virginia",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4139.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RODRIGUEZ, Oscar Ernesto R.",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4388.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ROJKES de ALPEROVICH, Beatriz Liliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4543.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ROMAN, Carmen",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4563.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ROMERO, Rosario",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4405.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ROQUEL, Rodolfo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4389.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ROSSI, Agustín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4536.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ROSSO, Graciela Zulema",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4452.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "RUCKAUF, Carlos Federico",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4390.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SALIM, Juan Arturo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4544.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SALUM, Osvaldo Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4521.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SÁNCHEZ, Fernando",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50813.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SANTANDER, Mario Armando",
+    "party": "Peronista Federal",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4505.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SARGHINI, Jorge Emilio",
+    "party": "Justicialista Nacional",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4453.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SARTORI, Diego Horacio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4392.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SESMA, Laura Judith",
+    "party": "Partido Socialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4492.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SLUGA, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4393.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SNOPEK, Carlos Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3218.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SOLANAS, Raúl Patricio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4497.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SOSA, Carlos Alberto",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4417.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SOTO, Gladys Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50698.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SPATOLA, Paola Rosana",
+    "party": "Guardia Peronista",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4460.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "STELLA, Anibal Jesus",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4431.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "STORANI, Federico Teobaldo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4394.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "STORERO, Hugo",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4027.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "SYLVESTRE BEGNIS, Juan Héctor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4537.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TATE, Alicia Ester",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4395.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "THOMAS, Enrique Luis",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4508.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TINNIRELLO, Carlos Alberto",
+    "party": "Red de Encuentro Social",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4396.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TOLEDO, Hugo David",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2110.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TOMAZ, Adriana Elisa",
+    "party": "Partido Unidad Federalista",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TONELLI, Pablo Gabriel",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50707.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TORINO, Héctor Omar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4552.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TORRONTEGUI, María Angélica",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4144.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "TULIO, Rosa Ester",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3014.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "URTUBEY, Juan Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "UÑAC, José Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50746.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "VACA NARVAJA, Patricia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4487.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "VANOSSI, Jorge",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4397.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "VARGAS AIGNASSE, Gerónimo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4398.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "VARISCO, Sergio Fausto",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4499.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "VELARDE, Marta Sylvia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4538.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "VILLAVERDE, Jorge Antonio",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4145.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "WEST, Mariano Federíco",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4455.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "WILDER, Ricardo",
+    "party": "Frente de Unidad Provincial",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4410.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ZANCADA, Pablo Ventura",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4533.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ZIMMERMANN, Víctor",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4399.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2007-08-08 23:47:59",
+    "votingId": 2275,
+    "legislator": "ZOTTOS, Miguel Andrés Costas",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51101.jpg",
+    "videoUrl": null
+  }
+]

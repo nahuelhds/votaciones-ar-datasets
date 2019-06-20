@@ -1,0 +1,1984 @@
+[
+  {
+    "id": 2808,
+    "date": "2005-12-22 18:10:00",
+    "title": "Expediente 248 - S - 05 - Votación en General. Proyecto de ley venido en revisión del Honorable Senado por el cual se faculta al Poder Ejecutivo Nacional a adoptar las medidas necesarias tendientes a lograr una salida ordenada de la situación de emergencia pública.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123EE02_01_R42.pdf",
+    "detailsUrl": "/votacion/2808",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "248-S-2005",
+        "title": "PRORROGA HASTA EL 31 DE DICIEMBRE DE 2006 LA VIGENCIA DE LA LEY 25561 (EMERGENCIA ECONÓMICA) Y SUS MODIFICATORIAS.",
+        "votingId": 2808
+      }
+    ],
+    "period": 123,
+    "meeting": 42,
+    "record": 1,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 121,
+    "negativeCount": 6,
+    "abstentionCount": 2,
+    "absentCount": 127
+  },
+  {
+    "id": 2863,
+    "date": "2005-12-22 05:22:00",
+    "title": "Expediente 247-S-05 - Votación en General. Proyecto de Ley en revisión del Senado por el cual se ratifica el decreto 1599/05",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_50_R41.pdf",
+    "detailsUrl": "/votacion/2863",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "247-S-2005",
+        "title": "COMUNICACIÓN DEL DECRETO 1599/2005 MODIFICATORIO DE LOS ARTÍCULOS 4, 5 Y 6 DE LA LEY 23928 SOBRE AFECTACIÓN DE LAS RESERVAS DE ORO Y DIVISAS EXTRANJERAS DEL BANCO CENTRAL DE LA REPÚBLICA ARGENTINA.",
+        "votingId": 2863
+      }
+    ],
+    "period": 123,
+    "meeting": 41,
+    "record": 50,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 130,
+    "negativeCount": 65,
+    "abstentionCount": 20,
+    "absentCount": 41
+  },
+  {
+    "id": 2862,
+    "date": "2005-12-21 22:40:00",
+    "title": "Moción de Apartamiento del Reglamento - Dip. ROSSI Agustín",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_49_R41.pdf",
+    "detailsUrl": "/votacion/2862",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "145-S-5",
+        "title": "APROBACION DEL TRATADO DE EXTRADICION CON LA REPUBLICA DE PERU, SUSCRIPTO EN BUENOS AIRES EL 11 DE JUNIO DE 2004.",
+        "votingId": 2862
+      },
+      {
+        "id": "25-S-5",
+        "title": "APROBACION DEL PROTOCOLO PARA LA ADHESION DEL MERCADO COMUN DEL SUR (MERCOSUR) AL ACUERDO SOBRE EL SISTEMA GLOBAL DE PREFERENCIAS COMERCIALES ENTRE PAISES EN DESARROLLO (SGPC), SUSCRIPTO EN GINEBRA, CONFEDERACION SUIZA, EL 28 DE NOVIEMBRE DE 1997.",
+        "votingId": 2862
+      }
+    ],
+    "period": 123,
+    "meeting": 41,
+    "record": 49,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 214,
+    "negativeCount": 17,
+    "abstentionCount": 2,
+    "absentCount": 23
+  },
+  {
+    "id": 2861,
+    "date": "2005-12-21 22:37:00",
+    "title": "Moción de Apartamiento del Reglamento - Dip. ROSSI Agustín para el tratamiento del Expediente 165-S-05",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_48_R41.pdf",
+    "detailsUrl": "/votacion/2861",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "165-S-5",
+        "title": "CREACION DE LA EMPRESA ARGENTINA DE SOLUCIONES SATELITALES SOCIEDAD ANONIMA AR - SAT.",
+        "votingId": 2861
+      }
+    ],
+    "period": 123,
+    "meeting": 41,
+    "record": 48,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 151,
+    "negativeCount": 79,
+    "abstentionCount": 4,
+    "absentCount": 22
+  },
+  {
+    "id": 2860,
+    "date": "2005-12-21 22:20:00",
+    "title": "Moción de Apartamiento del Reglamento - Dip. ROSSI Agustín para el tratamiento del Expediente 247-S-05",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_47_R41.pdf",
+    "detailsUrl": "/votacion/2860",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "247-S-5",
+        "title": "COMUNICACION DEL DECRETO 1599/2005 MODIFICATORIO DE LOS ARTICULOS 4, 5 Y 6 DE LA LEY 23928 SOBRE AFECTACION DE LAS RESERVAS DE ORO Y DIVISAS EXTRANJERAS DEL BANCO CENTRAL DE LA REPUBLICA ARGENTINA.",
+        "votingId": 2860
+      }
+    ],
+    "period": 123,
+    "meeting": 41,
+    "record": 47,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 208,
+    "negativeCount": 23,
+    "abstentionCount": 4,
+    "absentCount": 21
+  },
+  {
+    "id": 2859,
+    "date": "2005-12-21 21:58:00",
+    "title": "Expediente 236-S-05 - Artículo 7. Proyecto de Ley en revisión por el cual se aumenta la inversión en educación, ciencia y tecnología, para el período 2006 - 2010. Modificación del Artículo 1 de la ley 25.919, FONDO NACIONAL DE INCENTIVO DOCENTE.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_46_R41.pdf",
+    "detailsUrl": "/votacion/2859",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "236-S-2005",
+        "title": "FINANCIAMIENTO EDUCATIVO: MODIFICACIÓN DE LA LEY 24195, LEY FEDERAL DE EDUCACIÓN.",
+        "votingId": 2859
+      }
+    ],
+    "period": 123,
+    "meeting": 41,
+    "record": 46,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 159,
+    "negativeCount": 77,
+    "abstentionCount": 2,
+    "absentCount": 18
+  },
+  {
+    "id": 2858,
+    "date": "2005-12-21 21:43:00",
+    "title": "Expediente 236-S-05 - Votación en General. Proyecto de Ley en revisión por el cual se aumenta la inversión en educación, ciencia y tecnología. Modificación al Artículo 1 de la Ley 25.919, FONDO NACIONAL DE INCENTIVO DOCENTE.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_45_R41.pdf",
+    "detailsUrl": "/votacion/2858",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "236-S-2005",
+        "title": "FINANCIAMIENTO EDUCATIVO: MODIFICACIÓN DE LA LEY 24195, LEY FEDERAL DE EDUCACIÓN.",
+        "votingId": 2858
+      }
+    ],
+    "period": 123,
+    "meeting": 41,
+    "record": 45,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 204,
+    "negativeCount": 37,
+    "abstentionCount": 0,
+    "absentCount": 15
+  },
+  {
+    "id": 2857,
+    "date": "2005-12-21 16:01:00",
+    "title": "Expediente 6694 -D-05 - Votación en General. Importación de gasoil y venta en el mercado interno. Eximición de tributos.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_44_R41.pdf",
+    "detailsUrl": "/votacion/2857",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6694-D-2005",
+        "title": "EXIMICIÓN DE IMPUESTOS A LA IMPORTACIÓN DE GAS OIL Y VENTA EN EL MERCADO INTERNO.",
+        "votingId": 2857
+      }
+    ],
+    "period": 123,
+    "meeting": 41,
+    "record": 44,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 160,
+    "negativeCount": 41,
+    "abstentionCount": 2,
+    "absentCount": 53
+  },
+  {
+    "id": 2856,
+    "date": "2005-12-16 01:31:00",
+    "title": "Exp. 10-JGM-05 - Título 2 Art. 76 y Título 3 Art. 77-78. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_43_R40.pdf",
+    "detailsUrl": "/votacion/2856",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2856
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 43,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 153,
+    "negativeCount": 28,
+    "abstentionCount": 6,
+    "absentCount": 69
+  },
+  {
+    "id": 2855,
+    "date": "2005-12-16 01:29:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 10 Art. 75. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_42_R40.pdf",
+    "detailsUrl": "/votacion/2855",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2855
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 42,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 153,
+    "negativeCount": 21,
+    "abstentionCount": 13,
+    "absentCount": 69
+  },
+  {
+    "id": 2854,
+    "date": "2005-12-16 01:27:00",
+    "title": "Exp 10-JGM-05 - Cap. 9. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006. Moción del Diputado SNOPEK, Carlos para el agregado de un nuevo artículo.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_40_R40.pdf",
+    "detailsUrl": "/votacion/2854",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2854
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 40,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 142,
+    "negativeCount": 42,
+    "abstentionCount": 5,
+    "absentCount": 67
+  },
+  {
+    "id": 2853,
+    "date": "2005-12-16 01:25:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 9 Art. 68. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_39_R40.pdf",
+    "detailsUrl": "/votacion/2853",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2853
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 39,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 123,
+    "negativeCount": 54,
+    "abstentionCount": 10,
+    "absentCount": 69
+  },
+  {
+    "id": 2852,
+    "date": "2005-12-16 01:24:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 9 Art. 61. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_38_R40.pdf",
+    "detailsUrl": "/votacion/2852",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2852
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 38,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 151,
+    "negativeCount": 19,
+    "abstentionCount": 18,
+    "absentCount": 68
+  },
+  {
+    "id": 2851,
+    "date": "2005-12-16 01:23:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 9 Art. 50. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_37_R40.pdf",
+    "detailsUrl": "/votacion/2851",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2851
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 37,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 134,
+    "negativeCount": 47,
+    "abstentionCount": 7,
+    "absentCount": 68
+  },
+  {
+    "id": 2850,
+    "date": "2005-12-16 01:21:00",
+    "title": "Exp. 10-JGM-05 - Cap. 9 Art. 51 al 60,62 al 67,69 al 74. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_36_R40.pdf",
+    "detailsUrl": "/votacion/2850",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2850
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 36,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 151,
+    "negativeCount": 15,
+    "abstentionCount": 20,
+    "absentCount": 70
+  },
+  {
+    "id": 2849,
+    "date": "2005-12-16 00:29:00",
+    "title": "Expediente 10-JGM- 05 - Capítulo 8 Art. 39 al 49. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_35_R40.pdf",
+    "detailsUrl": "/votacion/2849",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2006",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2849
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 35,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 119,
+    "negativeCount": 60,
+    "abstentionCount": 9,
+    "absentCount": 68
+  },
+  {
+    "id": 2848,
+    "date": "2005-12-16 00:02:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 7 Art. 36 al 38. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_34_R40.pdf",
+    "detailsUrl": "/votacion/2848",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2848
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 34,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 187,
+    "negativeCount": 5,
+    "abstentionCount": 4,
+    "absentCount": 60
+  },
+  {
+    "id": 2847,
+    "date": "2005-12-15 23:51:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 6 Art. 35. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_33_R40.pdf",
+    "detailsUrl": "/votacion/2847",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2847
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 33,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 132,
+    "negativeCount": 62,
+    "abstentionCount": 3,
+    "absentCount": 59
+  },
+  {
+    "id": 2846,
+    "date": "2005-12-15 23:50:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 6 Art. 27 al 34. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_32_R40.pdf",
+    "detailsUrl": "/votacion/2846",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2846
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 32,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 188,
+    "negativeCount": 5,
+    "abstentionCount": 4,
+    "absentCount": 59
+  },
+  {
+    "id": 2845,
+    "date": "2005-12-15 23:44:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 5 Art. 25 al 26. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_31_R40.pdf",
+    "detailsUrl": "/votacion/2845",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACION PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2845
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 31,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 153,
+    "negativeCount": 40,
+    "abstentionCount": 4,
+    "absentCount": 59
+  },
+  {
+    "id": 2844,
+    "date": "2005-12-15 23:42:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 4 Art. 20 al 23. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_29_R40.pdf",
+    "detailsUrl": "/votacion/2844",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2844
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 29,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 160,
+    "negativeCount": 30,
+    "abstentionCount": 4,
+    "absentCount": 62
+  },
+  {
+    "id": 2843,
+    "date": "2005-12-15 23:21:00",
+    "title": "Expediente 10-JGM-05 -- Capítulo 3 Art. 12 y de 14 al 19. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_28_R40.pdf",
+    "detailsUrl": "/votacion/2843",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2843
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 28,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 170,
+    "negativeCount": 23,
+    "abstentionCount": 5,
+    "absentCount": 58
+  },
+  {
+    "id": 2842,
+    "date": "2005-12-15 23:20:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 3 Art. 13. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_27_R40.pdf",
+    "detailsUrl": "/votacion/2842",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "MODIFICACIÓN DE LA LEY 24937 DE CONSEJO DE LA MAGISTRATURA.",
+        "votingId": 2842
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 27,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 168,
+    "negativeCount": 25,
+    "abstentionCount": 3,
+    "absentCount": 60
+  },
+  {
+    "id": 2841,
+    "date": "2005-12-15 21:54:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 2 Art. 8 al 11. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_26_R40.pdf",
+    "detailsUrl": "/votacion/2841",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "11-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PÚBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2841
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 26,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 126,
+    "negativeCount": 95,
+    "abstentionCount": 1,
+    "absentCount": 34
+  },
+  {
+    "id": 2840,
+    "date": "2005-12-15 21:31:00",
+    "title": "Expediente 10-JGM-05 - Capítulo 1 Art. 1 al 7. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_25_R40.pdf",
+    "detailsUrl": "/votacion/2840",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2840
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 25,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 150,
+    "negativeCount": 60,
+    "abstentionCount": 7,
+    "absentCount": 39
+  },
+  {
+    "id": 2839,
+    "date": "2005-12-15 21:27:00",
+    "title": "Expediente 10-JGM-05 - Votación en General. Orden del día 1. Presupuesto general de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_24_R40.pdf",
+    "detailsUrl": "/votacion/2839",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2839
+      }
+    ],
+    "period": 123,
+    "meeting": 40,
+    "record": 24,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 162,
+    "negativeCount": 53,
+    "abstentionCount": 3,
+    "absentCount": 38
+  },
+  {
+    "id": 2838,
+    "date": "2005-12-15 03:34:00",
+    "title": "Exp. 49-PE-05 - Orden del día Nro. 3 - Título 6 Art. 6.  Ley de Impuesto a las Ganancias, sobre los bienes personales, del gravamen de emergencia a los premios de determinados juegos de sorteo y concursos deportivos, de contribución especial sobre el capital de cooperativas y del régimen simplificado para pequeños contribuyentes. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_23_R39.pdf",
+    "detailsUrl": "/votacion/2838",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2838
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 23,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 156,
+    "negativeCount": 59,
+    "abstentionCount": 14,
+    "absentCount": 27
+  },
+  {
+    "id": 2837,
+    "date": "2005-12-15 03:32:00",
+    "title": "Exp. 49-PE-05 - Orden del día Nro. 3 - Título 5 Art. 5.Ley de Impuesto a las Ganancias, sobre los bienes personales, del gravamen de emergencia a los premios de determinados juegos de sorteo y concursos deportivos, de contribución especial sobre el capital de cooperativas y del régimen simplificado para pequeños contribuyentes. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_22_R39.pdf",
+    "detailsUrl": "/votacion/2837",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2837
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 22,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 157,
+    "negativeCount": 63,
+    "abstentionCount": 9,
+    "absentCount": 27
+  },
+  {
+    "id": 2836,
+    "date": "2005-12-15 03:32:00",
+    "title": "Exp. 49-PE-05 - Orden del día Nro. 3 - Título 4 Art. 4.  Ley de Impuesto a las Ganancias, sobre los bienes personales, del gravamen de emergencia a los premios de determinados juegos de sorteo y concursos deportivos, de contribución especial sobre el capital de cooperativas y del régimen simplificado para pequeños contribuyentes. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_21_R39.pdf",
+    "detailsUrl": "/votacion/2836",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2836
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 21,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 147,
+    "negativeCount": 79,
+    "abstentionCount": 2,
+    "absentCount": 28
+  },
+  {
+    "id": 2835,
+    "date": "2005-12-15 03:22:00",
+    "title": "Exp. 49-PE-05 - Orden del día Nro. 3 - Título 3 Art. 3.Ley de Impuesto a las Ganancias, sobre los bienes personales, del gravamen de emergencia a los premios de determinados juegos de sorteo y concursos deportivos, de contribución especial sobre el capital de cooperativas y del régimen simplificado para pequeños contribuyentes. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_20_R39.pdf",
+    "detailsUrl": "/votacion/2835",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2835
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 20,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 133,
+    "negativeCount": 95,
+    "abstentionCount": 5,
+    "absentCount": 23
+  },
+  {
+    "id": 2834,
+    "date": "2005-12-15 03:08:00",
+    "title": "Exp. 49-PE-05 - Orden del día Nro. 3 - Título 2 Art. 2.Ley de Impuesto a las Ganancias, sobre los bienes personales, del gravamen de emergencia a los premios de determinados juegos de sorteo y concursos deportivos, de contribución especial sobre el capital de cooperativas y del régimen simplificado para pequeños contribuyentes. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_19_R39.pdf",
+    "detailsUrl": "/votacion/2834",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2834
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 19,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 128,
+    "negativeCount": 103,
+    "abstentionCount": 2,
+    "absentCount": 23
+  },
+  {
+    "id": 2833,
+    "date": "2005-12-15 03:00:00",
+    "title": "Exp. 49-PE-05 - Orden del día Nro. 3 - Título 1 Art. 1.Ley de Impuesto a las Ganancias, sobre los bienes personales, del gravamen de emergencia a los premios de determinados juegos de sorteo y concursos deportivos, de contribución especial sobre el capital de cooperativas y del régimen simplificado para pequeños contribuyentes. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_18_R39.pdf",
+    "detailsUrl": "/votacion/2833",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2833
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 18,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 128,
+    "negativeCount": 106,
+    "abstentionCount": 1,
+    "absentCount": 21
+  },
+  {
+    "id": 2832,
+    "date": "2005-12-15 02:35:00",
+    "title": "Exp. 49-PE-05 - Orden del día Nro. 3 - Votación en General .Ley de Impuesto a las Ganancias, sobre los bienes personales, del gravamen de emergencia a los premios de determinados juegos de sorteo y concursos deportivos, de contribución especial sobre el capital de cooperativas y del régimen simplificado para pequeños contribuyentes. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_17_R39.pdf",
+    "detailsUrl": "/votacion/2832",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2832
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 17,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 129,
+    "negativeCount": 106,
+    "abstentionCount": 2,
+    "absentCount": 19
+  },
+  {
+    "id": 2831,
+    "date": "2005-12-14 22:44:00",
+    "title": "Exp. 48-PE-05 - Orden del día Nro. 2 - Título 5 Art. 5. Ley de Impuesto a las Ganancias. Texto ordenado en 1997 y sus modificatorias, normas de los impuestos sobre los créditos y débitos en cuentas bancarias y otras operatorias, ley 25.413 y sus modificatorias; al valor agregado, texto ordenado en 1997 y sus modificatorias; y adicional de emergencia sobre el precio final de venta de cigarrillos, ley 24.625 y sus modificatorias. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_16_R39.pdf",
+    "detailsUrl": "/votacion/2831",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2006 LA SUSPENSIÓN DE LA EXENCIÓN PREVISTA EN EL ARTICULO 20, INCISO 1), DE LA LEY DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS) ASÍ COMO LAS NORMAS DE LOS IMPUESTOS SOBRE LOS CRÉDITOS Y DÉBITOS EN CUENTA BANCARIA Y OTRAS OPERATORIAS, LEY 25413 Y MODIFICATORIAS, AL VALOR AGREGADO (TO 1997 Y MODIFICATORIAS) Y ADICIONAL DE EMERGENCIA SOBRE EL PRECIO FINAL DE VENTA DE CIGARRILLOS, LEY 24625 Y MODIFICATORIAS.",
+        "votingId": 2831
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 16,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 171,
+    "negativeCount": 48,
+    "abstentionCount": 13,
+    "absentCount": 24
+  },
+  {
+    "id": 2830,
+    "date": "2005-12-14 22:43:00",
+    "title": "Exp. 48-PE-05 - Orden del día Nro. 2 - Título 4 Art. 4.  Ley de Impuesto a las Ganancias. Texto ordenado en 1997 y sus modificatorias, normas de los impuestos sobre los créditos y débitos en cuentas bancarias y otras operatorias, ley 25.413 y sus modificatorias; al valor agregado, texto ordenado en 1997 y sus modificatorias; y adicional de emergencia sobre el precio final de venta de cigarrillos, ley 24.625 y sus modificatorias. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_15_R39.pdf",
+    "detailsUrl": "/votacion/2830",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2006 LA SUSPENSIÓN DE LA EXENCIÓN PREVISTA EN EL ARTICULO 20, INCISO 1), DE LA LEY DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS) ASÍ COMO LAS NORMAS DE LOS IMPUESTOS SOBRE LOS CRÉDITOS Y DÉBITOS EN CUENTA BANCARIA Y OTRAS OPERATORIAS, LEY 25413 Y MODIFICATORIAS, AL VALOR AGREGADO (TO 1997 Y MODIFICATORIAS) Y ADICIONAL DE EMERGENCIA SOBRE EL PRECIO FINAL DE VENTA DE CIGARRILLOS, LEY 24625 Y MODIFICATORIAS.",
+        "votingId": 2830
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 15,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 179,
+    "negativeCount": 43,
+    "abstentionCount": 9,
+    "absentCount": 25
+  },
+  {
+    "id": 2829,
+    "date": "2005-12-14 22:42:00",
+    "title": "Exp. 48-PE-05 - Orden del día Nro. 2 - Título 3 Art. 3",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_14_R39.pdf",
+    "detailsUrl": "/votacion/2829",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-5",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2006 LA SUSPENSION DE LA EXENCION PREVISTA EN EL ARTICULO 20, INCISO 1), DE LA LEY DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS) ASI COMO LAS NORMAS DE LOS IMPUESTOS SOBRE LOS CREDITOS Y DEBITOS EN CUENTA BANCARIA Y OTRAS OPERATORIAS, LEY 25413 Y MODIFICATORIAS, AL VALOR AGREGADO (TO 1997 Y MODIFICATORIAS) Y ADICIONAL DE EMERGENCIA SOBRE EL PRECIO FINAL DE VENTA DE CIGARRILLOS, LEY 24625 Y MODIFICATORIAS.",
+        "votingId": 2829
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 14,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 181,
+    "negativeCount": 38,
+    "abstentionCount": 13,
+    "absentCount": 24
+  },
+  {
+    "id": 2828,
+    "date": "2005-12-14 22:41:00",
+    "title": "Exp. 48-PE-05 - Orden del día Nro. 2 - Título 2 Art. 2",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_13_R39.pdf",
+    "detailsUrl": "/votacion/2828",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-5",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2006 LA SUSPENSION DE LA EXENCION PREVISTA EN EL ARTICULO 20, INCISO 1), DE LA LEY DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS) ASI COMO LAS NORMAS DE LOS IMPUESTOS SOBRE LOS CREDITOS Y DEBITOS EN CUENTA BANCARIA Y OTRAS OPERATORIAS, LEY 25413 Y MODIFICATORIAS, AL VALOR AGREGADO (TO 1997 Y MODIFICATORIAS) Y ADICIONAL DE EMERGENCIA SOBRE EL PRECIO FINAL DE VENTA DE CIGARRILLOS, LEY 24625 Y MODIFICATORIAS.",
+        "votingId": 2828
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 13,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 153,
+    "negativeCount": 67,
+    "abstentionCount": 10,
+    "absentCount": 26
+  },
+  {
+    "id": 2827,
+    "date": "2005-12-14 21:47:00",
+    "title": "Exp. 48-PE-05 - Orden del día Nro. 2 - Título 1 Art. 1. Ley de Impuesto a las Ganancias. Texto ordenado en 1997 y sus modificatorias, normasde los impuestos sobre los créditos y débitos en cuentas bancarias y otras operatorias, ley 25.413 y sus modificatorias; al valor agregado, texto ordenado en 1997 y sus modificatorias; y adicional de emergencia sobre el precio final de venta de cigarrillos, ley 24.625 y sus modificatorias. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_11_R39.pdf",
+    "detailsUrl": "/votacion/2827",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-5",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2006 LA SUSPENSION DE LA EXENCION PREVISTA EN EL ARTICULO 20, INCISO 1), DE LA LEY DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS) ASI COMO LAS NORMAS DE LOS IMPUESTOS SOBRE LOS CREDITOS Y DEBITOS EN CUENTA BANCARIA Y OTRAS OPERATORIAS, LEY 25413 Y MODIFICATORIAS, AL VALOR AGREGADO (TO 1997 Y MODIFICATORIAS) Y ADICIONAL DE EMERGENCIA SOBRE EL PRECIO FINAL DE VENTA DE CIGARRILLOS, LEY 24625 Y MODIFICATORIAS.",
+        "votingId": 2827
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 11,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 179,
+    "negativeCount": 31,
+    "abstentionCount": 17,
+    "absentCount": 29
+  },
+  {
+    "id": 2826,
+    "date": "2005-12-14 21:45:00",
+    "title": "Exp 48-PE-05 - Orden del día Nro. 2 - Votación en General.Ley de Impuesto a las Ganancias. Texto ordenado en 1997 y sus modificatorias, normasde los impuestos sobre los créditos y débitos en cuentas bancarias y otras operatorias, ley 25.413 y sus modificatorias; al valor agregado, texto ordenado en 1997 y sus modificatorias; y adicional de emergencia sobre el precio final de venta de cigarrillos, ley 24.625 y sus modificatorias. Prorroga de la vigencia de las mismas.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_10_R39.pdf",
+    "detailsUrl": "/votacion/2826",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-5",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2006 LA SUSPENSION DE LA EXENCION PREVISTA EN EL ARTICULO 20, INCISO 1), DE LA LEY DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS) ASI COMO LAS NORMAS DE LOS IMPUESTOS SOBRE LOS CREDITOS Y DEBITOS EN CUENTA BANCARIA Y OTRAS OPERATORIAS, LEY 25413 Y MODIFICATORIAS, AL VALOR AGREGADO (TO 1997 Y MODIFICATORIAS) Y ADICIONAL DE EMERGENCIA SOBRE EL PRECIO FINAL DE VENTA DE CIGARRILLOS, LEY 24625 Y MODIFICATORIAS.",
+        "votingId": 2826
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 10,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 173,
+    "negativeCount": 47,
+    "abstentionCount": 7,
+    "absentCount": 29
+  },
+  {
+    "id": 2825,
+    "date": "2005-12-14 19:29:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 51 - PE - 05. De ley. Régimen especial de capitalización de las pequeñas y medianas empresas. Creación. Ex orden del día 3422",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_09_R39.pdf",
+    "detailsUrl": "/votacion/2825",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "51-PE-5",
+        "title": "CREACION DEL REGIMEN ESPECIAL DE CAPITALIZACION DE LAS PEQUEÑAS Y MEDIANAS EMPRESAS.",
+        "votingId": 2825
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 9,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 219,
+    "negativeCount": 3,
+    "abstentionCount": 10,
+    "absentCount": 24
+  },
+  {
+    "id": 2824,
+    "date": "2005-12-14 19:29:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 236 - S - 05 - Proyecto de ley en revisión por el cual se aumenta la inversión en educación, ciencia y tecnología para el período 2006 - 2010. Modificación del artículo 1 de la ley 25.919, fondo nacional de incentivo docente.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_08_R39.pdf",
+    "detailsUrl": "/votacion/2824",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "236-S-5",
+        "title": "FINANCIAMIENTO EDUCATIVO: MODIFICACION DE LA LEY 24195, LEY FEDERAL DE EDUCACION.",
+        "votingId": 2824
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 8,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 194,
+    "negativeCount": 30,
+    "abstentionCount": 7,
+    "absentCount": 25
+  },
+  {
+    "id": 2823,
+    "date": "2005-12-14 19:28:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 5978-D-05. De ley. Ley de Impuesto al Valor Agregado, texto ordenado en 1997 y sus modificaciones incorporadas por ley 26.049. Modificación del artículo 7 sobre gravamen de la explotación de congresos, ferias y exposiciones.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_07_R39.pdf",
+    "detailsUrl": "/votacion/2823",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5978-D-2005",
+        "title": "LEY DE IMPUESTO AL VALOR AGREGADO, (TO 1997): MODIFICA EL GRAVAMEN DE LA EXPLOTACIÓN DE CONGRESOS, FERIAS Y EXPOSICIONES.",
+        "votingId": 2823
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 7,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 210,
+    "negativeCount": 16,
+    "abstentionCount": 6,
+    "absentCount": 24
+  },
+  {
+    "id": 2822,
+    "date": "2005-12-14 19:27:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 6694-D-05. De ley. Importación de gasoil y venta en el mercado interno. Eximición de tributos.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_06_R39.pdf",
+    "detailsUrl": "/votacion/2822",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6694-D-2005",
+        "title": "EXIMICIÓN DE IMPUESTOS A LA IMPORTACIÓN DE GAS OIL Y VENTA EN EL MERCADO INTERNO.",
+        "votingId": 2822
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 6,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 161,
+    "negativeCount": 61,
+    "abstentionCount": 9,
+    "absentCount": 25
+  },
+  {
+    "id": 2821,
+    "date": "2005-12-14 19:26:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 74-PE-05. Proyecto de ley por el cual se prorroga hasta el 31/12/2006 el plazo para llevar a cabo la renegociación de los contratos de obras y servicios públicos dispuesto por el Artículo 9 de la ley 25.561 de emergencia económica.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_05_R39.pdf",
+    "detailsUrl": "/votacion/2821",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "74-PE-2005",
+        "title": "PRORROGA HASTA EL 31 DE DICIEMBRE DE 2006, DEL PLAZO PARA LLEVAR A CABO LA RE-NEGOCIACIÓN DE LOS CONTRATOS DE OBRAS Y SERVICIOS PÚBLICOS DISPUESTO POR EL ARTICULO 9 DE LA LEY 25561, DE EMERGENCIA ECONÓMICA.",
+        "votingId": 2821
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 5,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 154,
+    "negativeCount": 69,
+    "abstentionCount": 6,
+    "absentCount": 27
+  },
+  {
+    "id": 2820,
+    "date": "2005-12-14 19:25:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 10-JGM-05. Orden del día Nro. 1. Presupuesto General de la Administración Nacional para el ejercicio fiscal correspondiente al año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_04_R39.pdf",
+    "detailsUrl": "/votacion/2820",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "10-JGM-2005",
+        "title": "PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PUBLICA NACIONAL PARA EL EJERCICIO FISCAL CORRESPONDIENTE AL AÑO 2006.",
+        "votingId": 2820
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 4,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 175,
+    "negativeCount": 45,
+    "abstentionCount": 9,
+    "absentCount": 27
+  },
+  {
+    "id": 2819,
+    "date": "2005-12-14 19:24:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 49-PE-05. Orden del día Nro. 3. Ley de Impuesto a las Ganancias.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_03_R39.pdf",
+    "detailsUrl": "/votacion/2819",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "49-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2009 LA VIGENCIA DE LAS LEYES DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS), SOBRE LOS BIENES PERSONALES, DE EMERGENCIA A LOS PREMIOS DE DETERMINADOS JUEGOS DE SORTEO Y CONCURSOS DEPORTIVOS, CONTRIBUCIÓN ESPECIAL SOBRE EL CAPITAL DE LAS COOPERATIVAS Y RÉGIMEN SIMPLIFICADO PARA PEQUEÑOS CONTRIBUYENTES.",
+        "votingId": 2819
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 3,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 176,
+    "negativeCount": 42,
+    "abstentionCount": 9,
+    "absentCount": 29
+  },
+  {
+    "id": 2818,
+    "date": "2005-12-14 19:23:00",
+    "title": "Aprobación del tratamiento sobre tablas Exp. 48-PE-05. Ley de Impuesto a las Ganancias.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_02_R39.pdf",
+    "detailsUrl": "/votacion/2818",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-2005",
+        "title": "PRORROGAR HASTA EL 31 DE DICIEMBRE DE 2006 LA SUSPENSIÓN DE LA EXENCIÓN PREVISTA EN EL ARTICULO 20, INCISO 1), DE LA LEY DE IMPUESTO A LAS GANANCIAS (TO 1997 Y MODIFICATORIAS) ASÍ COMO LAS NORMAS DE LOS IMPUESTOS SOBRE LOS CRÉDITOS Y DÉBITOS EN CUENTA BANCARIA Y OTRAS OPERATORIAS, LEY 25413 Y MODIFICATORIAS, AL VALOR AGREGADO (TO 1997 Y MODIFICATORIAS) Y ADICIONAL DE EMERGENCIA SOBRE EL PRECIO FINAL DE VENTA DE CIGARRILLOS, LEY 24625 Y MODIFICATORIAS.",
+        "votingId": 2818
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 2,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 176,
+    "negativeCount": 43,
+    "abstentionCount": 9,
+    "absentCount": 28
+  },
+  {
+    "id": 2817,
+    "date": "2005-12-14 19:22:00",
+    "title": "Aprobación del tratamiento sobre tablas Exped. 61 - PE - 05. Proyecto de ley por el cual se acuerda autorización al Señor Presidente de la Nación para ausentarse del país durante el año 2006.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123ET01_01_R39.pdf",
+    "detailsUrl": "/votacion/2817",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "61-PE-2005",
+        "title": "AUTORIZACIÓN AL SEÑOR PRESIDENTE DE LA NACIÓN PARA AUSENTARSE DEL PAÍS DURANTE EL AÑO 2006.",
+        "votingId": 2817
+      }
+    ],
+    "period": 123,
+    "meeting": 39,
+    "record": 1,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 217,
+    "negativeCount": 1,
+    "abstentionCount": 8,
+    "absentCount": 30
+  },
+  {
+    "id": 2779,
+    "date": "2005-12-06 19:10:00",
+    "title": "Elección del Vice Presidente Segundo",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OP12_05_R38.pdf",
+    "detailsUrl": "/votacion/2779",
+    "videoUrl": null,
+    "records": [],
+    "period": 123,
+    "meeting": 38,
+    "record": 5,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 159,
+    "negativeCount": 0,
+    "abstentionCount": 44,
+    "absentCount": 53
+  },
+  {
+    "id": 2778,
+    "date": "2005-12-06 19:04:00",
+    "title": "Elección del Vice Presidente Primero de la H.C.D.N.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OP12_04_R38.pdf",
+    "detailsUrl": "/votacion/2778",
+    "videoUrl": null,
+    "records": [],
+    "period": 123,
+    "meeting": 38,
+    "record": 4,
+    "president": "BALESTRINI, Alberto",
+    "affirmativeCount": 180,
+    "negativeCount": 0,
+    "abstentionCount": 27,
+    "absentCount": 49
+  },
+  {
+    "id": 2777,
+    "date": "2005-12-06 18:41:00",
+    "title": "Elección del Presidente de la H.C.D.N.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OP12_03_R38.pdf",
+    "detailsUrl": "/votacion/2777",
+    "videoUrl": null,
+    "records": [],
+    "period": 123,
+    "meeting": 38,
+    "record": 3,
+    "president": "URTUBEY, Juan Manuel",
+    "affirmativeCount": 184,
+    "negativeCount": 2,
+    "abstentionCount": 43,
+    "absentCount": 27
+  },
+  {
+    "id": 2776,
+    "date": "2005-12-06 17:11:00",
+    "title": "Expediente 6640 - D - 05. Retiro y reserva del diploma del Diputado Electo Lorenzo Borocoto Eduardo y su pase a la comisión de Peticiones, Poderes y Reglamento.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OP12_02_R38.pdf",
+    "detailsUrl": "/votacion/2776",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6640-D-2005",
+        "title": "IMPUGNACIÓN AL DIPLOMA DE EDUARDO LORENZO BOROCOTO, ELECTO COMO DIPUTADO NACIONAL EN LOS COMICIOS DEL 23/10/2005.",
+        "votingId": 2776
+      }
+    ],
+    "period": 123,
+    "meeting": 38,
+    "record": 2,
+    "president": "URTUBEY, Juan Manuel",
+    "affirmativeCount": 102,
+    "negativeCount": 124,
+    "abstentionCount": 6,
+    "absentCount": 24
+  },
+  {
+    "id": 2775,
+    "date": "2005-12-06 16:16:00",
+    "title": "Expediente 6639 - D - 05 y otros. Retiro y reserva del diploma del Diputado Electo Patti Luis y su pase a la comisión de Peticiones, Poderes y Reglamento.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OP12_01_R38.pdf",
+    "detailsUrl": "/votacion/2775",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6639-D-2005",
+        "title": "IMPUGNACIÓN AL DIPLOMA DE LUIS ABELARDO PATTI, ELECTO DIPUTADO NACIONAL EN LOS COMICIOS DEL 23 DE OCTUBRE DE 2005.",
+        "votingId": 2775
+      },
+      {
+        "id": "6641-D-2005",
+        "title": "IMPUGNACIÓN AL DIPLOMA DEL DIPUTADO NACIONAL ELECTO LUIS ABELARDO PATTI, EN LOS COMICIOS DEL 23/10/05.",
+        "votingId": 2775
+      },
+      {
+        "id": "6645-D-2005",
+        "title": "IMPUGNACIÓN AL DIPLOMA DE LUIS ABELARDO PATTI, DIPUTADO NACIONAL ELECTO EL 23 DE OCTUBRE DE 2005.",
+        "votingId": 2775
+      },
+      {
+        "id": "6654-D-2005",
+        "title": "IMPUGNACIÓN AL DIPLOMA DE LUIS ABELARDO PATTI, DIPUTADO NACIONAL ELECTO EN LOS COMICIOS DEL 23 DE OCTUBRE DE 2005.",
+        "votingId": 2775
+      }
+    ],
+    "period": 123,
+    "meeting": 38,
+    "record": 1,
+    "president": "URTUBEY, Juan Manuel",
+    "affirmativeCount": 212,
+    "negativeCount": 8,
+    "abstentionCount": 9,
+    "absentCount": 27
+  },
+  {
+    "id": 2790,
+    "date": "2005-09-07 23:03:00",
+    "title": "Moción de apartamiento del reglamento.para ingresar el expediente 0105 - S - 05 ** Orden del Día  2851 ** por el cual se autoriza la entrada de tropas extranjeras al territorio nacional y la salida fuera de él de fuerzas nacionales, para que participen de los ejercicios que se realicen desde el 01/09/05 hasta el 31/08/06.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_31_R23.pdf",
+    "detailsUrl": "/votacion/2790",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "105-S-2005",
+        "title": "AUTORIZACIÓN DE LA ENTRADA DE TROPAS EXTRANJERAS AL TERRITORIO NACIONAL Y LA SALIDA FUERA DE EL DE FUERZAS NACIONALES, PARA QUE PARTICIPEN DEL PROGRAMA DE EJERCITACIONES COMBINADAS DESDE EL 01/09/2005 HASTA EL 31/08/2006.",
+        "votingId": 2790
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 31,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 139,
+    "negativeCount": 19,
+    "abstentionCount": 1,
+    "absentCount": 97
+  },
+  {
+    "id": 2789,
+    "date": "2005-09-07 22:52:00",
+    "title": "Exp. 60-PE-04 * Orden del Día 2696 * Nuevo Artículo. Proyecto de ley para disminuir la morosidad y la evasión en materia de seguridad social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_30_R23.pdf",
+    "detailsUrl": "/votacion/2789",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-2004",
+        "title": "NUEVAS HERRAMIENTAS PARA DISMINUIR LA MOROSIDAD Y LA EVASIÓN EN MATERIA DE SEGURIDAD SOCIAL.",
+        "votingId": 2789
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 30,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 95,
+    "negativeCount": 56,
+    "abstentionCount": 7,
+    "absentCount": 98
+  },
+  {
+    "id": 2788,
+    "date": "2005-09-07 22:37:00",
+    "title": "Exp. 60-PE-04 * Orden del Día 2696 * Artículo 13.Proyecto de ley para disminuir la morosidad y la evasión en materia de seguridad social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_29_R23.pdf",
+    "detailsUrl": "/votacion/2788",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-2004",
+        "title": "NUEVAS HERRAMIENTAS PARA DISMINUIR LA MOROSIDAD Y LA EVASIÓN EN MATERIA DE SEGURIDAD SOCIAL.",
+        "votingId": 2788
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 29,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 97,
+    "negativeCount": 49,
+    "abstentionCount": 9,
+    "absentCount": 101
+  },
+  {
+    "id": 2787,
+    "date": "2005-09-07 22:36:00",
+    "title": "Exp. 60-PE-04 * Orden del Día 2696 * Artículo 11. Proyecto de ley para disminuir la morosidad y la evasión en materia de seguridad social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_28_R23.pdf",
+    "detailsUrl": "/votacion/2787",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-2004",
+        "title": "NUEVAS HERRAMIENTAS PARA DISMINUIR LA MOROSIDAD Y LA EVASIÓN EN MATERIA DE SEGURIDAD SOCIAL.",
+        "votingId": 2787
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 28,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 100,
+    "negativeCount": 45,
+    "abstentionCount": 10,
+    "absentCount": 101
+  },
+  {
+    "id": 2786,
+    "date": "2005-09-07 22:22:00",
+    "title": "Exp. 60-PE-04 * Orden del Día 2696 * Artículo 8. Proyecto de ley para disminuir la morosidad y la evasión en materia de seguridad social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_27_R23.pdf",
+    "detailsUrl": "/votacion/2786",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-2004",
+        "title": "NUEVAS HERRAMIENTAS PARA DISMINUIR LA MOROSIDAD Y LA EVASION EN MATERIA DE SEGURIDAD SOCIAL.",
+        "votingId": 2786
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 27,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 94,
+    "negativeCount": 45,
+    "abstentionCount": 15,
+    "absentCount": 102
+  },
+  {
+    "id": 2785,
+    "date": "2005-09-07 22:12:00",
+    "title": "Exp. 60-PE-04 * Orden del Día 2696 * Artículo 5.Proyecto de ley para disminuir la morosidad y la evasión en materia de seguridad social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_26_R23.pdf",
+    "detailsUrl": "/votacion/2785",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-2004",
+        "title": "NUEVAS HERRAMIENTAS PARA DISMINUIR LA MOROSIDAD Y LA EVASIÓN EN MATERIA DE SEGURIDAD SOCIAL.",
+        "votingId": 2785
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 26,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 98,
+    "negativeCount": 43,
+    "abstentionCount": 7,
+    "absentCount": 108
+  },
+  {
+    "id": 2784,
+    "date": "2005-09-07 22:12:00",
+    "title": "Exp. 60-PE-04 * Orden del Día 2696 * Artículo 4. Proyecto de ley para disminuir la morosidad y la evasión en materia de seguridad social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_25_R23.pdf",
+    "detailsUrl": "/votacion/2784",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-2004",
+        "title": "NUEVAS HERRAMIENTAS PARA DISMINUIR LA MOROSIDAD Y LA EVASIÓN EN MATERIA DE SEGURIDAD SOCIAL.",
+        "votingId": 2784
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 25,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 99,
+    "negativeCount": 42,
+    "abstentionCount": 7,
+    "absentCount": 108
+  },
+  {
+    "id": 2783,
+    "date": "2005-09-07 21:00:00",
+    "title": "Moción de apartamiento del reglamento.para la inclusión en el plan de labor del expediente 1411-D-05.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_24_R23.pdf",
+    "detailsUrl": "/votacion/2783",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1411-D-2005",
+        "title": "SISTEMA DE EJECUCIÓN HIPOTECARIA, LEY 25798: SUSPENSIÓN POR CIENTO VEINTE DÍAS DE TODAS LAS EJECUCIONES DE SENTENCIA DE REMATE DE VIVIENDA ÚNICA Y FAMILIAR.",
+        "votingId": 2783
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 24,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 123,
+    "negativeCount": 56,
+    "abstentionCount": 2,
+    "absentCount": 75
+  },
+  {
+    "id": 2782,
+    "date": "2005-09-07 20:59:00",
+    "title": "Moción de reconsideración de la votación.sobre el pedido de apartamiento del reglamento solicitado para el tratamiento del expediente 1411-D-05.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_23_R23.pdf",
+    "detailsUrl": "/votacion/2782",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1411-D-2005",
+        "title": "SISTEMA DE EJECUCIÓN HIPOTECARIA, LEY 25798: SUSPENSIÓN POR CIENTO VEINTE DÍAS DE TODAS LAS EJECUCIONES DE SENTENCIA DE REMATE DE VIVIENDA ÚNICA Y FAMILIAR.",
+        "votingId": 2782
+      }
+    ],
+    "period": 123,
+    "meeting": 23,
+    "record": 23,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 123,
+    "negativeCount": 57,
+    "abstentionCount": 1,
+    "absentCount": 75
+  },
+  {
+    "id": 2781,
+    "date": "2005-09-01 01:28:00",
+    "title": "Moción de la Diputada Stolbizer, Margarita de apartamiento del reglamento para tratar el expediente 1411 - D - 05. Sistema de ejecución hipotecaria, ley 25.798, suspensión por ciento veinte días de todas las ejecuciones de sentencia de remate de vivienda.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_21_R22.pdf",
+    "detailsUrl": "/votacion/2781",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1411-D-2005",
+        "title": "SISTEMA DE EJECUCIÓN HIPOTECARIA, LEY 25798: SUSPENSIÓN POR CIENTO VEINTE DÍAS DE TODAS LAS EJECUCIONES DE SENTENCIA DE REMATE DE VIVIENDA ÚNICA Y FAMILIAR.",
+        "votingId": 2781
+      }
+    ],
+    "period": 123,
+    "meeting": 22,
+    "record": 21,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 96,
+    "negativeCount": 64,
+    "abstentionCount": 4,
+    "absentCount": 92
+  },
+  {
+    "id": 2780,
+    "date": "2005-09-01 01:15:00",
+    "title": "Expediente 60-PE-04 ** Orden del Día 2696 ** Vot. en General. Proyecto de ley para disminuir la morosidad y la evasión en materia de seguridad social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT09_20_R22.pdf",
+    "detailsUrl": "/votacion/2780",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-2004",
+        "title": "NUEVAS HERRAMIENTAS PARA DISMINUIR LA MOROSIDAD Y LA EVASIÓN EN MATERIA DE SEGURIDAD SOCIAL.",
+        "votingId": 2780
+      }
+    ],
+    "period": 123,
+    "meeting": 22,
+    "record": 20,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 98,
+    "negativeCount": 69,
+    "abstentionCount": 0,
+    "absentCount": 89
+  },
+  {
+    "id": 2801,
+    "date": "2005-05-19 00:57:00",
+    "title": "Expediente 58-PE-04  Orden del Día 1912  Votación en General .De ley. Modificación a la ley 24.193 de transplante de órganos y material anatómico humano.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT06_09_R13.pdf",
+    "detailsUrl": "/votacion/2801",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "58-PE-2004",
+        "title": "MODIFICACIÓN A LA LEY 24193 DE TRASPLANTES DE ÓRGANOS Y MATERIAL ANATÓMICO HUMANO.",
+        "votingId": 2801
+      }
+    ],
+    "period": 123,
+    "meeting": 13,
+    "record": 9,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 133,
+    "negativeCount": 45,
+    "abstentionCount": 4,
+    "absentCount": 74
+  },
+  {
+    "id": 2800,
+    "date": "2005-05-12 01:39:00",
+    "title": "Expediente 155-OV-05 ** Orden del Día 2206.Propuesta de renegociación contractual de la empresa EDELAP S.A. en cumplimiento del artículo 4º de la ley 25.790. La Diputada CHAYA, María Leila expresa su ABSTENCIÓN a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT06_08_R12.pdf",
+    "detailsUrl": "/votacion/2800",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "155-OV-2005",
+        "title": "APROBACIÓN DEL ACUERDO ALCANZADO ENTRE EL PODER EJECUTIVO NACIONAL Y LA EMPRESA DISTRIBUIDORA LA PLATA SOCIEDAD ANÓNIMA (EDELAP SA).",
+        "votingId": 2800
+      }
+    ],
+    "period": 123,
+    "meeting": 12,
+    "record": 8,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 119,
+    "negativeCount": 56,
+    "abstentionCount": 8,
+    "absentCount": 73
+  },
+  {
+    "id": 2798,
+    "date": "2005-05-04 22:30:15",
+    "title": "Solicitud de tratamiento sobre tablas Exped. 2503 - D - 05.Moción del Diputado Cafiero. Pedido de informe verbal al Canciller Bielsa por cuestiones vinculadas con la incorporación de las Islas Malvinas y el territorio Antártico a la Constitución de la Unión Europea.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT06_04_R11.pdf",
+    "detailsUrl": "/votacion/2798",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2503-D-2005",
+        "title": "PEDIDO DE INFORMES VERBALES AL MINISTRO DE RELACIONES EXTERIORES, COMERCIO INTERNACIONAL Y CULTO SOBRE CONSTITUCIÓN DE LA UNIÓN EUROPEA, INCLUSIÓN DE LAS ISLAS MALVINAS, SÁNDWICH Y GEORGIAS DEL SUR DENTRO DE LA MISMA.",
+        "votingId": 2798
+      }
+    ],
+    "period": 123,
+    "meeting": 11,
+    "record": 4,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 68,
+    "negativeCount": 106,
+    "abstentionCount": 4,
+    "absentCount": 78
+  },
+  {
+    "id": 2802,
+    "date": "2005-04-06 21:44:57",
+    "title": "Expediente 56-PE-03.Insistencia de la H.C.D.N. en su sanción original del proyecto de ley por el cual se establece un impuesto con afectación especifica al desarrollo de los proyectos de infraestructura y/o eliminación o reducción de los peajes existentes, aplicable hasta el 31 de Diciembre de 2010, sobre la transferencia a titulo gratuito y la importación de gasoil o cualquier otro combustible liquido que lo sustituya en el futuro.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT04_01_R09.pdf",
+    "detailsUrl": "/votacion/2802",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "56-PE-2003",
+        "title": "IMPUESTO CON AFECTACIÓN ESPECIFICA AL DESARROLLO DE LOS PROYECTOS DE INFRAESTRUCTURA Y/O A LA ELIMINACIÓN O REDUCCIÓN DE LOS PEAJES EXISTENTES, APLICABLE HASTA EL 31 DE DICIEMBRE DE 2010, SOBRE LA TRANSFERENCIA A TITULO ONEROSO O GRATUITO Y LA IMPORTACIÓN DE GAS OIL, O CUALQUIER OTRO COMBUSTIBLE LIQUIDO QUE LO SUSTITUYA EN EL FUTURO.",
+        "votingId": 2802
+      }
+    ],
+    "period": 123,
+    "meeting": 9,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 119,
+    "negativeCount": 4,
+    "abstentionCount": 34,
+    "absentCount": 99
+  },
+  {
+    "id": 2816,
+    "date": "2005-03-30 19:25:34",
+    "title": "Expediente 204-S-03  **  Orden del Dia 514.Aprobación de la convención Interamericana contra el terrorismo, adoptada en Bridgetown - Barbados el 3 de Junio de 2002. La Diputada CHAYA, María Leila expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT02_09_R06.pdf",
+    "detailsUrl": "/votacion/2816",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "204-S-2003",
+        "title": "APROBACIÓN DE LA CONVENCIÓN INTERAMERICANA CONTRA EL TERRORISMO, ADOPTADA EN BRIDGETOWN - BARBADOS - EL 3 DE JUNIO DE 2002.",
+        "votingId": 2816
+      }
+    ],
+    "period": 123,
+    "meeting": 6,
+    "record": 9,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 158,
+    "negativeCount": 24,
+    "abstentionCount": 3,
+    "absentCount": 71
+  },
+  {
+    "id": 2815,
+    "date": "2005-03-30 19:24:40",
+    "title": "Expediente 57-S-02 Orden del día 1470. Aprobación del convenio Internacional para la represión de la financiación del terrorismo, adoptado por la Asamblea General de las Naciones Unidas el 9 de Diciembre de 1999.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT02_08_R06.pdf",
+    "detailsUrl": "/votacion/2815",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "57-S-2002",
+        "title": "CONVENIO INTERNACIONAL PARA LA REPRESIÓN DE LA FINANCIACIÓN DEL TERRORISMO, ADOPTADO POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EL 09/12/1999.",
+        "votingId": 2815
+      }
+    ],
+    "period": 123,
+    "meeting": 6,
+    "record": 8,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 157,
+    "negativeCount": 23,
+    "abstentionCount": 4,
+    "absentCount": 72
+  },
+  {
+    "id": 2807,
+    "date": "2005-03-16 21:42:55",
+    "title": "Pedido de tratamiento sobre Tablas - Expediente 103-PE-04.Proyecto de Ley - Eximir del Impuesto sobre los combustibles Líquidos y el Gas Natural previsto en el Título III de la ley 23.966. La Diputada CHAYA María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2005/123OT02_01_R04.pdf",
+    "detailsUrl": "/votacion/2807",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "103-PE-2004",
+        "title": "EXIMIR DEL IMPUESTO SOBRE LOS COMBUSTIBLES LÍQUIDOS Y EL GAS NATURAL PREVISTO EN EL TITULO III DE LA LEY 23966 (TO 1998) Y SUS MODIFICATORIAS, A LAS IMPORTACIONES DE GAS OIL QUE REALIZAN LOS SUJETOS PASIVOS DEL REFERIDO IMPUESTO Y LAS IMPORTACIONES DE GAS OIL QUE REALIZAN LOS PEQUEÑOS OPERADORES O PROPIETARIOS Y LOS CONSUMIDORES FINALES; CUPO ACEPTADO; VIGENCIA DEL RÉGIMEN POR CUATRO MESES; INCORPORACIÓN DE UN PÁRRAFO A CONTINUACIÓN DEL ARTICULO 33 DE LA LEY 23966 (CONTRAVENCIONES Y SANCIONES).",
+        "votingId": 2807
+      },
+      {
+        "id": "103-PE-4",
+        "title": "EXIMIR DEL IMPUESTO SOBRE LOS COMBUSTIBLES LIQUIDOS Y EL GAS NATURAL PREVISTO EN EL TITULO III DE LA LEY 23966",
+        "votingId": 2807
+      }
+    ],
+    "period": 123,
+    "meeting": 4,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 132,
+    "negativeCount": 57,
+    "abstentionCount": 2,
+    "absentCount": 65
+  },
+  {
+    "id": 3033,
+    "date": "2005-02-10 02:38:00",
+    "title": "Expediente  282-S-04 - Artículo 7. Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_08_R37.pdf",
+    "detailsUrl": "/votacion/3033",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3033
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 8,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 140,
+    "negativeCount": 4,
+    "abstentionCount": 34,
+    "absentCount": 78
+  },
+  {
+    "id": 3032,
+    "date": "2005-02-10 02:37:30",
+    "title": "Expediente  282-S-04 - Artículo 6 Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_07_R37.pdf",
+    "detailsUrl": "/votacion/3032",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3032
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 7,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 144,
+    "negativeCount": 4,
+    "abstentionCount": 30,
+    "absentCount": 78
+  },
+  {
+    "id": 3029,
+    "date": "2005-02-10 02:36:56",
+    "title": "Expediente  282-S-04 - Artículo 5. Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_06_R37.pdf",
+    "detailsUrl": "/votacion/3029",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3029
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 6,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 144,
+    "negativeCount": 4,
+    "abstentionCount": 30,
+    "absentCount": 78
+  },
+  {
+    "id": 3028,
+    "date": "2005-02-10 02:36:20",
+    "title": "Expediente  282-S-04 - Artículo 4. Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_05_R37.pdf",
+    "detailsUrl": "/votacion/3028",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3028
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 5,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 144,
+    "negativeCount": 4,
+    "abstentionCount": 30,
+    "absentCount": 78
+  },
+  {
+    "id": 3026,
+    "date": "2005-02-10 02:35:46",
+    "title": "Expediente  282-S-04 - Artículo 3. Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_04_R37.pdf",
+    "detailsUrl": "/votacion/3026",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3026
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 4,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 144,
+    "negativeCount": 4,
+    "abstentionCount": 30,
+    "absentCount": 78
+  },
+  {
+    "id": 3025,
+    "date": "2005-02-10 02:35:10",
+    "title": "Expediente  282-S-04 - Artículo 2. Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_03_R37.pdf",
+    "detailsUrl": "/votacion/3025",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3025
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 3,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 143,
+    "negativeCount": 4,
+    "abstentionCount": 31,
+    "absentCount": 78
+  },
+  {
+    "id": 3022,
+    "date": "2005-02-10 02:34:28",
+    "title": "Expediente  282-S-04 - Artículo 1. Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_02_R37.pdf",
+    "detailsUrl": "/votacion/3022",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3022
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 2,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 144,
+    "negativeCount": 5,
+    "abstentionCount": 29,
+    "absentCount": 78
+  },
+  {
+    "id": 3019,
+    "date": "2005-02-10 02:33:04",
+    "title": "Expediente  282-S-04 - Votación en General. Proyecto de ley en revisión por el cual se regula el régimen al que quedarán sujetos los bonos emitidos por el Estado Nacional que no hubiesen sido canjeados según lo establecido por el Decreto 1735 del 9 de Diciembre de 2004. La Diputada CHAYA, María Lelia expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2004/122ET01_01_R37.pdf",
+    "detailsUrl": "/votacion/3019",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "282-S-4",
+        "title": "REGIMEN AL QUE QUEDARAN SUJETOS LOS BONOS EMITIDOS POR EL ESTADO NACIONAL QUE NO HUBIESEN SIDO CANJEADOS SEGUN LO ESTABLECIDO POR EL DECRETO 1735/2004.",
+        "votingId": 3019
+      }
+    ],
+    "period": 122,
+    "meeting": 37,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 145,
+    "negativeCount": 8,
+    "abstentionCount": 30,
+    "absentCount": 73
+  }
+]

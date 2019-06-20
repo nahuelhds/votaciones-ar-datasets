@@ -1,0 +1,642 @@
+[
+  {
+    "id": 3618,
+    "date": "1994-12-22 23:42:00",
+    "title": "Modificación a la Ley 13.893, de Tránsito y Seguridad Vial",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO03_01_R45.pdf",
+    "detailsUrl": "/votacion/3618",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "420-D-1993",
+        "title": "Modificación a la Ley 13.893, de Tránsito y Seguridad Vial",
+        "votingId": 3618
+      }
+    ],
+    "period": 112,
+    "meeting": 45,
+    "record": 1,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 133,
+    "negativeCount": 2,
+    "abstentionCount": 2,
+    "absentCount": 119
+  },
+  {
+    "id": 3617,
+    "date": "1994-12-22 04:57:00",
+    "title": "Modificación al Régimen Electoral Nacional, elección de Presidente y Vicepresidente de la Nación, Senadores y Diputados Nacionales - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO03_02_R43.pdf",
+    "detailsUrl": "/votacion/3617",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "158-S-1994",
+        "title": "Modificación al Régimen Electoral Nacional, elección de Presidente y Vicepresidente de la Nación, Senadores y Diputados Nacionales - En General",
+        "votingId": 3617
+      }
+    ],
+    "period": 112,
+    "meeting": 43,
+    "record": 2,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 139,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 117
+  },
+  {
+    "id": 3616,
+    "date": "1994-12-22 03:18:00",
+    "title": "Modificación del Régimen de Contrato de Trabajo - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO03_01_R43.pdf",
+    "detailsUrl": "/votacion/3616",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "57-PE-1994",
+        "title": "Modificación del Régimen de Contrato de Trabajo - En General",
+        "votingId": 3616
+      }
+    ],
+    "period": 112,
+    "meeting": 43,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 91,
+    "negativeCount": 50,
+    "abstentionCount": 3,
+    "absentCount": 112
+  },
+  {
+    "id": 3615,
+    "date": "1994-12-15 20:31:00",
+    "title": "Disminución General de las retribuciones de Letrados y Auxiliar de Justicia en los Procesos Judiciales - Artículo 4° votado nuevamente Nominal",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO02_06_R41.pdf",
+    "detailsUrl": "/votacion/3615",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "8-S-1994",
+        "title": "Disminución General de las retribuciones de Letrados y Auxiliar de Justicia en los Procesos Judiciales - Artículo 4° votado nuevamente Nominal",
+        "votingId": 3615
+      }
+    ],
+    "period": 112,
+    "meeting": 41,
+    "record": 6,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 79,
+    "negativeCount": 66,
+    "abstentionCount": 6,
+    "absentCount": 105
+  },
+  {
+    "id": 3614,
+    "date": "1994-12-15 20:21:00",
+    "title": "Disminución General de las retribuciones de Letrados y Auxiliar de Justicia en los Procesos Judiciales - Solicitud del Diputado Galván de rectificación de la votación del Artículo 4°",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO02_05_R41.pdf",
+    "detailsUrl": "/votacion/3614",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "8-S-1994",
+        "title": "Disminución General de las retribuciones de Letrados y Auxiliar de Justicia en los Procesos Judiciales - Solicitud del Diputado Galván de rectificación de la votación del Artículo 4°",
+        "votingId": 3614
+      }
+    ],
+    "period": 112,
+    "meeting": 41,
+    "record": 5,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 46,
+    "negativeCount": 85,
+    "abstentionCount": 19,
+    "absentCount": 106
+  },
+  {
+    "id": 3613,
+    "date": "1994-12-15 20:11:00",
+    "title": "Disminución General de las retribuciones de Letrados y Auxiliar de Justicia en los Procesos Judiciales - Artículo 4°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO02_04_R41.pdf",
+    "detailsUrl": "/votacion/3613",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "8-S-1994",
+        "title": "Disminución General de las retribuciones de Letrados y Auxiliar de Justicia en los Procesos Judiciales - Artículo 4°",
+        "votingId": 3613
+      }
+    ],
+    "period": 112,
+    "meeting": 41,
+    "record": 4,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 79,
+    "negativeCount": 75,
+    "abstentionCount": 1,
+    "absentCount": 101
+  },
+  {
+    "id": 3612,
+    "date": "1994-12-14 23:13:00",
+    "title": "Moción del Diputado Natale de tratamiento sobre Tabla del Exp. 5408-D-94, Solicita al PEN la abstención de firmar el contrato de concesión del Área Militar Córdoba, a favor de la Empresa Lockheed Aircraft Argentina S.A",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO02_02_R40.pdf",
+    "detailsUrl": "/votacion/3612",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 40,
+    "record": 2,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 76,
+    "negativeCount": 82,
+    "abstentionCount": 7,
+    "absentCount": 91
+  },
+  {
+    "id": 3611,
+    "date": "1994-12-14 22:28:00",
+    "title": "Moción del Diputado Pascual solicitando el tratamiento Preferencial del Exp. 4192-D-94, Convocar al Pueblo de la Ciudad de Buenos Aires a elecciones con el objeto de elegir representantes que sancionen el Estatuto Organizativo de sus Instituciones, en cumplimiento de lo dispuesto en el tercer párrafo del Artículo 129 de la Constitución Nacional",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112PO02_01_R40.pdf",
+    "detailsUrl": "/votacion/3611",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 40,
+    "record": 1,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 67,
+    "negativeCount": 100,
+    "abstentionCount": 5,
+    "absentCount": 84
+  },
+  {
+    "id": 3610,
+    "date": "1994-11-30 23:01:00",
+    "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 11°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OE13_04_R37.pdf",
+    "detailsUrl": "/votacion/3610",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "37-PE-1994",
+        "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 11°",
+        "votingId": 3610
+      }
+    ],
+    "period": 112,
+    "meeting": 37,
+    "record": 4,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 94,
+    "negativeCount": 49,
+    "abstentionCount": 5,
+    "absentCount": 108
+  },
+  {
+    "id": 3609,
+    "date": "1994-11-30 22:43:00",
+    "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 10°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OE13_03_R37.pdf",
+    "detailsUrl": "/votacion/3609",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "37-PE-1994",
+        "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 10°",
+        "votingId": 3609
+      }
+    ],
+    "period": 112,
+    "meeting": 37,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 94,
+    "negativeCount": 54,
+    "abstentionCount": 3,
+    "absentCount": 105
+  },
+  {
+    "id": 3608,
+    "date": "1994-11-30 21:04:00",
+    "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 2°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OE13_02_R37.pdf",
+    "detailsUrl": "/votacion/3608",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "37-PE-1994",
+        "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 2°",
+        "votingId": 3608
+      }
+    ],
+    "period": 112,
+    "meeting": 37,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 109,
+    "negativeCount": 72,
+    "abstentionCount": 7,
+    "absentCount": 68
+  },
+  {
+    "id": 3607,
+    "date": "1994-11-30 21:03:00",
+    "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 1°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OE13_01_R37.pdf",
+    "detailsUrl": "/votacion/3607",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "37-PE-1994",
+        "title": "Presupuesto General de la Administración Pública Nacional para el Ejercicio Fiscal 1995 - Artículo 1°",
+        "votingId": 3607
+      }
+    ],
+    "period": 112,
+    "meeting": 37,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 106,
+    "negativeCount": 79,
+    "abstentionCount": 3,
+    "absentCount": 68
+  },
+  {
+    "id": 3606,
+    "date": "1994-11-17 16:38:00",
+    "title": "Financiamiento de la Vivienda y la Construcción - En General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT12_01_R34.pdf",
+    "detailsUrl": "/votacion/3606",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "13-PE-1994",
+        "title": "Financiamiento de la Vivienda y la Construcción - En General",
+        "votingId": 3606
+      }
+    ],
+    "period": 112,
+    "meeting": 34,
+    "record": 1,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 139,
+    "negativeCount": 9,
+    "abstentionCount": 2,
+    "absentCount": 106
+  },
+  {
+    "id": 3605,
+    "date": "1994-11-16 22:47:00",
+    "title": "Programa Nacional para la Emergencia Habitacional - Artículo 4°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT12_03_R33.pdf",
+    "detailsUrl": "/votacion/3605",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1216-D-1994",
+        "title": "Programa Nacional para la Emergencia Habitacional - Artículo 4°",
+        "votingId": 3605
+      }
+    ],
+    "period": 112,
+    "meeting": 33,
+    "record": 3,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 84,
+    "negativeCount": 59,
+    "abstentionCount": 3,
+    "absentCount": 110
+  },
+  {
+    "id": 3604,
+    "date": "1994-11-16 22:00:00",
+    "title": "Programa Nacional para la Emergencia Habitacional - Artículo 3°",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT12_02_R33.pdf",
+    "detailsUrl": "/votacion/3604",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1216-D-1994",
+        "title": "Programa Nacional para la Emergencia Habitacional - Artículo 3°",
+        "votingId": 3604
+      }
+    ],
+    "period": 112,
+    "meeting": 33,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 89,
+    "negativeCount": 62,
+    "abstentionCount": 2,
+    "absentCount": 103
+  },
+  {
+    "id": 3603,
+    "date": "1994-11-09 21:57:00",
+    "title": "Moción del Diputado Mercado Luna de que se trate sobre Tabla el Exp. 4813-D-94, Expresión de Repudio por las declaraciones del Señor Presidente de la Nación relacionadas con las reivindicaciones de la lucha antisuversiva",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT12_03_R31.pdf",
+    "detailsUrl": "/votacion/3603",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 31,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 55,
+    "negativeCount": 91,
+    "abstentionCount": 4,
+    "absentCount": 106
+  },
+  {
+    "id": 3602,
+    "date": "1994-10-19 21:12:00",
+    "title": "Insistencia de la HCDN en el proyecto de Ley registrado con el N° 24.305, Programa Nacional de lucha contra la fiebre aftosa, Observada por decreto 7/94 del PEN",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT10_01_R27.pdf",
+    "detailsUrl": "/votacion/3602",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-PE-1993",
+        "title": "Insistencia de la HCDN en el proyecto de Ley registrado con el N° 24.305, Programa Nacional de lucha contra la fiebre aftosa, Observada por decreto 7/94 del PEN",
+        "votingId": 3602
+      }
+    ],
+    "period": 112,
+    "meeting": 27,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 182,
+    "negativeCount": 3,
+    "abstentionCount": 3,
+    "absentCount": 68
+  },
+  {
+    "id": 3601,
+    "date": "1994-09-21 22:56:00",
+    "title": "Moción del Diputado González Gaviola de tratamiento sobre Tabla del Exp. 3806-D-94, que expresa repudio por la utilización del Canal ATC para realizar una campaña de difamación contra opositores políticos",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT09_02_R15.pdf",
+    "detailsUrl": "/votacion/3601",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 15,
+    "record": 2,
+    "president": "USANDIZAGA, Horacio Daniel",
+    "affirmativeCount": 61,
+    "negativeCount": 80,
+    "abstentionCount": 6,
+    "absentCount": 109
+  },
+  {
+    "id": 3600,
+    "date": "1994-09-21 22:45:00",
+    "title": "Moción del Diputado Galván de tratamiento sobre Tabla del Exp. 3805-D-94, referente4 al envío de Tropas a Haití",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT09_01_R15.pdf",
+    "detailsUrl": "/votacion/3600",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 15,
+    "record": 1,
+    "president": "USANDIZAGA, Horacio Daniel",
+    "affirmativeCount": 77,
+    "negativeCount": 70,
+    "abstentionCount": 6,
+    "absentCount": 103
+  },
+  {
+    "id": 3599,
+    "date": "1994-08-31 21:10:00",
+    "title": "Moción del Diputado López de tratamiento sobre Tabla del Exp. 2911-D-94 - Organización de la Jornada sobre Empleo y Desocupación en la Argentina",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT09_02_R14.pdf",
+    "detailsUrl": "/votacion/3599",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 14,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 68,
+    "negativeCount": 74,
+    "abstentionCount": 6,
+    "absentCount": 108
+  },
+  {
+    "id": 3598,
+    "date": "1994-08-11 21:21:00",
+    "title": "Mensaje 1264 del PEN, por el cual se introducen modificaciones al Exp. 0020-PE-93 - Mensaje 1718 sobre el Régimen Financiero de las Universidades Nacionales",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT07_03_R11.pdf",
+    "detailsUrl": "/votacion/3598",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "19-PE-1994",
+        "title": "Mensaje 1264 del PEN, por el cual se introducen modificaciones al Exp. 0020-PE-93 - Mensaje 1718 sobre el Régimen Financiero de las Universidades Nacionales",
+        "votingId": 3598
+      }
+    ],
+    "period": 112,
+    "meeting": 11,
+    "record": 3,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 119,
+    "negativeCount": 2,
+    "abstentionCount": 11,
+    "absentCount": 124
+  },
+  {
+    "id": 3597,
+    "date": "1994-08-11 21:19:00",
+    "title": "Mensaje 1258 del PEN, solicitando la devolución del Exp. 0022-PE-93 - Mensaje 1740 - Reforma del Régimen de Contrato de Trabajo",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT07_02_R11.pdf",
+    "detailsUrl": "/votacion/3597",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "18-PE-1994",
+        "title": "Mensaje 1258 del PEN, solicitando la devolución del Exp. 0022-PE-93 - Mensaje 1740 - Reforma del Régimen de Contrato de Trabajo",
+        "votingId": 3597
+      }
+    ],
+    "period": 112,
+    "meeting": 11,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 93,
+    "negativeCount": 0,
+    "abstentionCount": 35,
+    "absentCount": 128
+  },
+  {
+    "id": 3596,
+    "date": "1994-07-29 00:27:00",
+    "title": "Moción del Diputado Matzkin para solicitar la Preferencia con Dictamen de Comisión en la primera sesión que se celebre del Exp. 2479-D-94, Suspensión del aumento previsto a partir del 12/08/94 en las tarifas de peaje para la utilización de los corredores viales",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT05_04_R08.pdf",
+    "detailsUrl": "/votacion/3596",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 8,
+    "record": 4,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 71,
+    "negativeCount": 54,
+    "abstentionCount": 9,
+    "absentCount": 122
+  },
+  {
+    "id": 3595,
+    "date": "1994-07-29 00:19:00",
+    "title": "Moción del Diputado Ortiz Maldonado de que se trate sobre Tabla el Exp. 2479-D-94, Suspensión del aumento previsto a partir del 12/08/94 en las tarifas de peaje para la utilización de los corredores viales",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT05_03_R08.pdf",
+    "detailsUrl": "/votacion/3595",
+    "videoUrl": null,
+    "records": [],
+    "period": 112,
+    "meeting": 8,
+    "record": 3,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 66,
+    "negativeCount": 65,
+    "abstentionCount": 5,
+    "absentCount": 120
+  },
+  {
+    "id": 3594,
+    "date": "1994-06-16 20:14:00",
+    "title": "Insistencia de la HCDN en la sanción original del 2° Párrafo del Artículo 34° del Proyecto de Ley registrado bajo el N° 24.307, Presupuesto de la Administración Nacional para el Ejercicio Fiscal 1994, observada parcialmente por el PEN por Decreto 2660/93",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT02_01_R05.pdf",
+    "detailsUrl": "/votacion/3594",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "55-PE-1993",
+        "title": "Insistencia de la HCDN en la sanción original del 2° Párrafo del Artículo 34° del Proyecto de Ley registrado bajo el N° 24.307, Presupuesto de la Administración Nacional para el Ejercicio Fiscal 1994, observada parcialmente por el PEN por Decreto 2660/93",
+        "votingId": 3594
+      }
+    ],
+    "period": 112,
+    "meeting": 5,
+    "record": 1,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 152,
+    "negativeCount": 3,
+    "abstentionCount": 1,
+    "absentCount": 100
+  },
+  {
+    "id": 3593,
+    "date": "1994-06-10 00:03:00",
+    "title": "Comunicación de la Resolución adoptada por el HSN dando cuenta de que la Comisión Bicameral de la Defensoría del Pueblo del HCN propone el nombramiento del Doctor Jorge Luis Maiorano como Defensor del Pueblo",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1994/112OT02_01_R04.pdf",
+    "detailsUrl": "/votacion/3593",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "23-S-1994",
+        "title": "Comunicación de la Resolución adoptada por el HSN dando cuenta de que la Comisión Bicameral de la Defensoría del Pueblo del HCN propone el nombramiento del Doctor Jorge Luis Maiorano como Defensor del Pueblo",
+        "votingId": 3593
+      }
+    ],
+    "period": 112,
+    "meeting": 4,
+    "record": 1,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 106,
+    "negativeCount": 35,
+    "abstentionCount": 1,
+    "absentCount": 114
+  },
+  {
+    "id": 3653,
+    "date": "1994-04-20 23:14:00",
+    "title": "Moción de Orden formulada por el Diputado Rico de Apartamiento del Reglamento para solicitar el tratamiento sobre Tabla del Exp. 5773-D-93, que solicita al PEN el licenciamiento total de los soldados conscriptos que están cumpliendo el servicio militar",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1993/111ET02_02_R43.pdf",
+    "detailsUrl": "/votacion/3653",
+    "videoUrl": null,
+    "records": [],
+    "period": 111,
+    "meeting": 43,
+    "record": 2,
+    "president": "ROMERO, Carlos Alberto",
+    "affirmativeCount": 120,
+    "negativeCount": 67,
+    "abstentionCount": 0,
+    "absentCount": 69
+  },
+  {
+    "id": 3654,
+    "date": "1994-02-23 23:32:00",
+    "title": "Moción del Diputado Vicchi de Apartamiento del Reglamento a fin de considerar el Exp. 4617-D-93, por el que se Modifican los Artículos 61º y 88º del Reglamento de la HCD, relacionado con las Autoridades y el nº de integrantes de las Comisiones Permanentes",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/1993/111ET01_02_R37.pdf",
+    "detailsUrl": "/votacion/3654",
+    "videoUrl": null,
+    "records": [],
+    "period": 111,
+    "meeting": 37,
+    "record": 2,
+    "president": "PIERRI, Alberto Reinaldo",
+    "affirmativeCount": 122,
+    "negativeCount": 17,
+    "abstentionCount": 1,
+    "absentCount": 116
+  }
+]

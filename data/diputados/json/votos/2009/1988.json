@@ -1,0 +1,2572 @@
+[
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ACOSTA, María Julia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4590.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ACUÑA KUNZ, Juan Erwin",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4529.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ACUÑA, Hugo Rodolfo",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4568.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "AGOSTO, Walter Alfredo",
+    "party": "Santa Fe Federal",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4662.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "AGUAD, Oscar Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4491.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "AGUIRRE DE SORIA, Hilda Clelia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4608.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ALBARRACIN, Jorge Luis",
+    "party": "Consenso Federal",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50775.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ALBRISI, César Alfredo",
+    "party": "Frente Justicia Unión y Libertad",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1429.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ALCUAZ, Horacio Alberto",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4637.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ALFARO, Germán Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4591.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ALVAREZ, Juan José",
+    "party": "Unión Celeste y Blanco",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4316.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ALVARO, Héctor Jorge",
+    "party": "De la Concertación",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4628.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "AMENTA, Marcelo Eduardo",
+    "party": "Convergencia Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4703.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ARBO, José Ameghino",
+    "party": "Partido Liberal de Corrientes",
+    "region": "Corrientes",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4607.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ARDID, Mario Rolando",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4576.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ARETA, María Josefa",
+    "party": "Frente de Todos",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4673.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ARGÜELLO, Octavio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4693.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ARRIAGA, Julio Esteban",
+    "party": "Unión Peronista",
+    "region": "Rio Negro",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4518.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "AUGSBURGER, Silvia",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4531.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "AZCOITI, Pedro José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4461.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BALADRON, Manuel Justo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3059.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BALDATA, Griselda Angela",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4630.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BARAGIOLA, Vilma Rosana",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4545.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BARRIONUEVO, José Luis",
+    "party": "Nacional Sindical",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4476.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BARRIOS, Miguel Angel",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4622.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BARTOLUCCI, Gilda Liliana",
+    "party": "Frente Justicia Unión y Libertad",
+    "region": "San Luis",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4727.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BASTEIRO, Sergio Ariel",
+    "party": "Encuentro Popular y Social",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4078.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BAYONZO, Liliana Amelia",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4058.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BEDANO, Nora Esther",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4649.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BELOUS, Nélida",
+    "party": "Proyecto Progresista",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4658.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BENAS, Verónica Claudia",
+    "party": "Solidaridad e Igualdad (SI)",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4610.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BERNAZZA, Claudia Alicia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4689.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BERRAUTE, Ana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4534.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BERTOL, Paula María",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4469.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BERTONE, Rosana Andrea",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4080.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BEVERAGGI, Margarita Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4584.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BIANCHI SILVESTRE, Marcela Alejandra",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4163.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BIANCHI, Ivana María",
+    "party": "Frente Justicia Unión y Libertad",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4585.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BIANCO, Lía Fabiola",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4512.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BIDEGAIN, Gloria Mercedes",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4621.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BISUTTI, Delia Beatriz",
+    "party": "Solidaridad e Igualdad (SI)",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4464.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BONASSO, Miguel Luis",
+    "party": "Diálogo por Buenos Aires",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4324.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BRILLO, José Ricardo",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4516.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BRUE, Daniel Agustín",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4539.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BULLRICH, Esteban  José",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4471.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BULLRICH, Patricia",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4665.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "BURZACO, Eugenio",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4459.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CALCHAQUI, Mariel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4652.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CALZA, Nelio Higinio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4704.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CAMAÑO, Dante Alberto",
+    "party": "Nacional Sindical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4562.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CAMAÑO, Graciela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CANELA, Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50853.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CANTERO GUTIERREZ, Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4485.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CARCA, Elisa Beatriz",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CARLOTTO, Remo Gerardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4438.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CARMONA, María Araceli",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4493.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CASELLES, Graciela María",
+    "party": "Frente para la Victoria - Partido Bloqui",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4633.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CASTALDO, Norah Susana",
+    "party": "Unión Cívica Radical",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4721.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CEJAS, Jorge Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4593.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CESAR, Nora Noemí",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4439.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CHIQUICHANO, Rosa Laudelina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4623.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CIGOGNA, Luis Francisco Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4162.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "COLLANTES, Genaro Aurelio",
+    "party": "Frente Cívico y Social de Catamarca",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4475.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "COMELLI, Alicia Marcela",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4331.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CONTI, Diana Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4440.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CORDOBA, José Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4527.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CORDOBA, Stella Maris",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4095.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CORTINA, Roy",
+    "party": "Partido Socialista",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4611.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CREMER DE BUSTI, María Cristina",
+    "party": "Peronismo Federal",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4600.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CUCCOVILLO, Ricardo Oscar",
+    "party": "Partido Socialista",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4688.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CUEVAS, Hugo Oscar",
+    "party": "De la Concertación",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4519.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "CUSINATO, Gustavo",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4060.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DAHER, Zulema Beatríz",
+    "party": "Unión Peronista",
+    "region": "Salta",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3467.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DALLA FONTANA, Ariel  Raúl Armando",
+    "party": "Santa Fe Federal",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4535.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DAMILANO GRIVARELLO, Viviana Mónica",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4597.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DATO, Alfredo Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4614.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DE LA ROSA, Maria Graciela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4336.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DE MARCHI, Omar Bruno",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4507.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DE NARVAEZ, Francisco",
+    "party": "Unión Celeste y Blanco",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4441.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DEL CAMPILLO, Héctor Eduardo",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4619.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DELICH, Francisco José",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4488.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DEPETRI, Edgardo Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4569.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "di TULLIO, Juliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4443.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DIAZ BANCALARI, José María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A19.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DIAZ ROIG, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4500.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DIAZ, Susana Eladia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4341.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DIEZ, María Inés",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4681.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DONDA PÉREZ, Victoria Analía",
+    "party": "Encuentro Popular y Social",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4657.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "DOVENA, Miguel Dante",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4444.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ERRO, Norberto Pedro",
+    "party": "Buenos Aires por el Cambio",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4650.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FABRIS, Luciano Rafael",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4480.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FADEL, Patricia Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4344.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FEIN, Mónica Hayde",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4629.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FELLNER, Eduardo Alfredo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4674.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FERNANDEZ BASUALDO, Luis María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4612.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FERNANDEZ, Marcelo Omar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4707.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FERRA DE BARTOL, Margarita",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4524.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FERRO, Francisco José",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4463.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FIOL, Paulina Esther",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4350.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "FLORES, Héctor Toty",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51086.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GALANTINI, Eduardo Leonel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4494.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GALVALISI, Luis Alberto",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4557.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GARCIA de MORENO, Eva",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4482.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GARCIA MENDEZ, Emilio Arturo",
+    "party": "Solidaridad e Igualdad (SI)",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4465.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GARCIA, Irma Adriana",
+    "party": "Unión Peronista",
+    "region": "La Pampa",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4648.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GARCÍA, María Teresa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4447.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GARCIA, Susana Rosa",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4352.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GARDELLA, Patricia Susana",
+    "party": "Unión Celeste y Blanco",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4696.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GENEM, Amanda Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4547.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GEREZ, Elda Ramona",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4685.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GIANNETTASIO, Graciela María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4694.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GIL LOZANO, Claudia Fernanda",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4669.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GINZBURG, Nora Raquel",
+    "party": "Frente por los Derechos Ciudadanos",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4472.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GIOJA, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4354.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GIUBERGIA, Miguel Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3682.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GIUDICI, Silvana Myriam",
+    "party": "Unión Cívica Radical",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4356.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GODOY, Ruperto Eduardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4357.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GONZALEZ, Juan Dante",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4640.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GONZALEZ, María América",
+    "party": "Solidaridad e Igualdad (SI)",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1549.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GONZALEZ, Nancy Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4571.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GORBACZ, Leonardo Ariel",
+    "party": "Proyecto Progresista",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4541.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GRIBAUDO, Christian Alejandro",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4692.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GUERCI de SIUFI, Beatriz Elvira",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4718.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GULLO, Juan Carlos Dante",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4641.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "GUTIERREZ, Graciela Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4528.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "HALAK, Beatriz Susana",
+    "party": "Unión Peronista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4705.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "HEREDIA, Arturo Miguel",
+    "party": "Peronismo Federal",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4486.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "HERRERA, Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3814.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "HERRERA, Griselda Noemí",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50732.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "HERRERA, José Alberto",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4595.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "HOTTON, Cynthia Liliana",
+    "party": "Valores para mi País",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4670.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "IBARRA, Vilma Lidia",
+    "party": "Encuentro Popular y Social",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4668.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "IGLESIAS, Fernando Adolfo",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4666.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ILARREGUI, Luis Alfredo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4445.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "IRRAZABAL, Juan Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4361.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ITURRIETA, Miguel Angel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4513.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "KAKUBUR, Emilio",
+    "party": "Dignidad Peronista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4514.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "KATZ, Daniel",
+    "party": "Consenso Federal",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4686.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "KENNY, Eduardo Enrique Federico",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4604.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "KORENFELD, Beatriz Liliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4589.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "KRONEBERGER, Daniel Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "KUNKEL, Carlos Miguel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4446.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LANCETA, Rubén Orfel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4620.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LANDAU, Jorge Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A116.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LEDESMA, Julio Rubén",
+    "party": "Unión Celeste y Blanco",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4706.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LEGUIZAMON, María Laura",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4695.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LEMOS, Silvia Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4511.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LENZ, María Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4710.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LEVERBERG, Stella Maris",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4655.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LINARES, María Virginia",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4644.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LLANOS, Edith",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4711.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LLERA, Timoteo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4661.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LOPEZ ARIAS, Marcelo Eduardo",
+    "party": "Peronista Salteño",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A156.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LOPEZ, Ernesto Segundo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4601.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LOPEZ, Rafael Angel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4636.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LORENZO BOROCOTO, Eduardo",
+    "party": "Movimiento Independiente",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4470.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LORGES, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4720.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LOZANO, Claudio Raúl",
+    "party": "Bs. As. para Todos en Proyecto Sur",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4365.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LUNA DE MARCOS, Ana Zulema",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4598.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "LUSQUIÑOS, Luis Bernardo",
+    "party": "Frente Justicia Unión y Libertad",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51016.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MACALUSE, Eduardo Gabriel",
+    "party": "Solidaridad e Igualdad (SI)",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A874.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MARCONATO, Gustavo Angel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4368.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MARINO, Adriana del Cármen",
+    "party": "Frente Producción y Trabajo",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4522.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MARTIARENA, Mario Humberto",
+    "party": "Peronismo Jujeño",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4675.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MARTIN, María Elena",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4702.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MARTINEZ GARBINO, Emilio Raúl",
+    "party": "Concertación Entrerriana",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4498.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MARTINEZ ODDONE, Heriberto Agustín",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4671.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MERCHAN, Paula Cecilia",
+    "party": "Encuentro Popular y Social",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4645.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MERLO, Mario Raúl",
+    "party": "Frente Justicia Unión y Libertad",
+    "region": "San Luis",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4634.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MOISÉS, María Carolina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51105.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MONTERO, Laura Gisela",
+    "party": "Consenso Federal",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4599.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MONTOYA, Jorge Luciano",
+    "party": "Unión Peronista",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4377.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MORAN, Juan Carlos",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4687.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MORANDINI, Norma Elena",
+    "party": "Memoria y Democracia",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4490.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MORANTE, Antonio Arnaldo María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4615.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MOREJON, Manuel Amor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4632.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MORENO, Carlos Julio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4448.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MORGADO, Claudio Marcelo",
+    "party": "Partido de la Concertación - FORJA",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4586.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MORINI, Pedro Juan",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4548.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "MULLER, Mabel Hilda",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "NAIM, Lidia Lucía",
+    "party": "Solidaridad e Igualdad (SI)",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4567.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "OBEID, Jorge Alberto",
+    "party": "Santa Fe Federal",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3780.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "OBIGLIO, Julián Martín",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4582.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "OLIVA, Cristian Rodolfo",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4540.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "OSORIO, Marta Lucía",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4067.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PAIS, Juan Mario",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4613.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PAREDES URQUIZA, Alberto Nicolás",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4664.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PAROLI, Raúl Omar",
+    "party": "Frente Cívico y Social de Catamarca",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4602.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PASINI, Ariel Osvaldo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4684.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PASTORIZA, Eduardo Antonio",
+    "party": "Bloque por la Verdad",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4477.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PASTORIZA, Mirta Ameliana",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4618.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PERALTA, Fabián Francisco",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4624.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PEREYRA, Guillermo Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4631.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PEREZ, Jorge Raúl",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4617.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PEREZ, José Adrián",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50798.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PERIE, Hugo Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4403.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PERIE, Julia Argentina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4676.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PETIT, María de los Angeles",
+    "party": "Peronismo Federal",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4626.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PINEDO, Federico",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4384.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PIUMATO, Julio Juán",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4729.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PORTELA, Agustín Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4635.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PORTO, Héctor Norberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4450.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PRIETO, Hugo Nelson",
+    "party": "De la Concertación",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4616.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "PUIGGROS, Adriana Victoria",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4606.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "QUIROZ, Elsa Siria",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A103.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RAIMUNDI, Carlos",
+    "party": "Solidaridad e Igualdad (SI)",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RECALDE, Héctor Pedro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4451.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "REJAL, Jesús Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4625.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "REYES, María Fernanda",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4667.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RICO, María del Carmen Cecilia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4137.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RIOBOO, Sandra Adriana",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4653.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RIVAS, Jorge",
+    "party": "Encuentro Popular y Social",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3770.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RODRIGUEZ, Evaristo Arturo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4678.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RODRIGUEZ, Marcela Virginia",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4139.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ROJKES de ALPEROVICH, Beatriz Liliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4543.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ROLDAN, José María",
+    "party": "Frente de Todos",
+    "region": "Corrientes",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4660.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ROMAN, Carmen",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4563.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ROSSI, Agustín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4536.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ROSSI, Alejandro Luis",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4638.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ROSSI, Cipriana Lorena",
+    "party": "Unión Peronista",
+    "region": "Rio Negro",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4592.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "RUIZ, Ramón",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4683.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SALIM, Juan Arturo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4544.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SALUM, Osvaldo Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4521.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SÁNCHEZ, Fernando",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50813.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SANTANDER, Mario Armando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4505.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SAPAG, Silvia Estela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4717.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SARGHINI, Jorge Emilio",
+    "party": "Unión Peronista",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4453.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SATRAGNO, Lidia Elsa",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4691.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SCALESI, Juan Carlos",
+    "party": "Consenso Federal",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4663.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SCIUTTO, Rubén Darío",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4609.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SEGARRA, Adela Rosa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4690.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SEREBRINSKY, Gustavo Eduardo",
+    "party": "De la Concertación",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4639.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SESMA, Laura Judith",
+    "party": "Partido Socialista",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4492.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SLUGA, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4393.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SNOPEK, Carlos Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3218.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SOLANAS, Raúl Patricio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4497.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SOTO, Gladys Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50698.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SPATOLA, Paola Rosana",
+    "party": "Guardia Peronista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4460.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "STORNI, Silvia",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4627.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "SYLVESTRE BEGNIS, Juan Héctor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4537.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "THOMAS, Enrique Luis",
+    "party": "Unión Peronista",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4508.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "TOMAZ, Adriana Elisa",
+    "party": "Partido Unidad Federalista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "TORFE, Mónica Liliana",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4682.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "TORRONTEGUI, María Angélica",
+    "party": "Frente Justicia Unión y Libertad",
+    "region": "San Luis",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4144.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "URLICH, Carlos",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4605.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VACA NARVAJA, Patricia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4487.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VARGAS AIGNASSE, Gerónimo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4398.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VARISCO, Sergio Fausto",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4499.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VAZQUEZ, Silvia Beatriz",
+    "party": "Partido de la Concertación - FORJA",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A89.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VEGA, Juan Carlos",
+    "party": "Coalición Cívica - ARI - GEN - UPT",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4672.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VELARDE, Marta Sylvia",
+    "party": "Justicialismo Republicano",
+    "region": "Santiago del Estero",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4538.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VIALE, Lisandro Alfredo",
+    "party": "Partido Socialista",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4656.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VILARIÑO, José Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4647.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "VILLAVERDE, Jorge Antonio",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4145.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "WEST, Mariano Federíco",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4455.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ZANCADA, Pablo Ventura",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4533.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2009-10-15 05:18:19",
+    "votingId": 1988,
+    "legislator": "ZAVALLO, Gustavo Marcelo",
+    "party": "Peronismo Federal",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4603.jpg",
+    "videoUrl": null
+  }
+]

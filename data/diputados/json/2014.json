@@ -1,0 +1,4097 @@
+[
+  {
+    "id": 167,
+    "date": "2014-12-17 04:03:13",
+    "title": "- Votación en General y Particular.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_25_R26.pdf",
+    "detailsUrl": "/votacion/167",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "93-S-2012",
+        "title": "ACEPTAR LAS CESIONES EFECTUADAS POR LA PROVINCIA DE SALTA AL ESTADO NACIONAL SOBRE LOS INMUEBLES RURALES SITUADOS EN EL DEPARTAMENTO ANTA, PROVINCIA DE SALTA, LOS CUALES SERAN AFECTADOS AL REGIMEN DE LA LEY 22351 (PARQUES NACIONALES) Y CREACION DEL PARQUE NACIONAL PIZARRO.",
+        "votingId": 167
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 25,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 215,
+    "negativeCount": 0,
+    "abstentionCount": 3,
+    "absentCount": 38
+  },
+  {
+    "id": 166,
+    "date": "2014-12-17 03:59:09",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_24_R26.pdf",
+    "detailsUrl": "/votacion/166",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "324-D-2014",
+        "title": "ACADEMIAS NACIONALES, LEY 24824: SUSTITUCION DEL ARTICULO 2 (PERCEPCION DE LA ACADEMIA NACIONAL DE FARMACIA Y BIOQUIMICA, DE LA CONTRIBUCION QUE ANUALMENTE SE FIJE EN EL PRESUPUESTO NACIONAL SEGUN ARTICULO 4 DEL DECRETO-LEY 4362/55) (REPRODUCCION DEL EXPEDIENTE 0047-D-12).",
+        "votingId": 166
+      },
+      {
+        "id": "642-D-2013",
+        "title": "PROGRAMA FEDERAL PARA EL DESARROLLO DE TRATAMIENTOS EFECTIVOS CONTRA EL ALZHEIMER Y OTRAS ENFERMEDADES NEURODEGENERATIVAS RELACIONADAS: CREACION (REPRODUCCION DEL EXPEDIENTE 5410-D-11).",
+        "votingId": 166
+      },
+      {
+        "id": "404-D-2013",
+        "title": "PATRONATO DE LIBERADOS DE LA CIUDAD AUTONOMA DE BUENOS AIRES. TRASPASO DE SUS FUNCIONES A LA DIRECCION DE CONTROL Y ASISTENCIA DE LA EJECUCION PENAL.",
+        "votingId": 166
+      },
+      {
+        "id": "29-S-2014",
+        "title": "ACEPTAR LA CESION DE JURISDICCION Y DOMINIO, CON DESTINO A LA CREACION DEL PARQUE NACIONAL PATAGONIA, EFECTUADA POR LA PROVINCIA DE SANTA CRUZ AL ESTADO NACIONAL MEDIANTE LA LEY PROVINCIAL Nº 3306/13.",
+        "votingId": 166
+      },
+      {
+        "id": "93-S-2013",
+        "title": "LEY 20744, DE CONTRATO DE TRABAJO: MODIFICACION DEL ARTICULO 80, SOBRE DEBER DE OBSERVAR LAS OBLIGACIONES FRENTE A LOS ORGANISMOS SINDICALES Y DE LA SEGURIDAD SOCIAL. CERTIFICADO DE TRABAJO.",
+        "votingId": 166
+      },
+      {
+        "id": "130-S-2012",
+        "title": "TRANSFERIR A TITULO GRATUITO A LA PROVINCIA DEL CHUBUT EL DOMINIO QUE EL ESTADO NACIONAL POSEE SOBRE LOS INMUEBLES UBICADOS EN LA LOCALIDAD DE LA VILLA DIQUE FLORENTINO AMEGHINO, DEPARTAMENTO GAIMAN.",
+        "votingId": 166
+      },
+      {
+        "id": "112-S-2014",
+        "title": "APROBACION DE LA INSTRUMENTACION DE LAS MODIFICACIONES AL CONVENIO CONSTITUTIVO DEL BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA (BCIE) CONTENIDAS EN LA RESOLUCION N° AG-7/2009; COMO ASI TAMBIEN LA APROBACION E INSTRUMENTACION DEL ACUERDO DE SUSCRIPCION DE ACCIONES SERIE B QUE CORRESPONDE A LA REPUBLICA ARGENTINA EN EL INCREMENTO DEL CAPITAL APROBADO.",
+        "votingId": 166
+      },
+      {
+        "id": "56-S-2013",
+        "title": "DECLARAR MONUMENTO HISTORICO NACIONAL AL ANTIGUO PUENTE CARRETERO SITUADO EN EL SITIO LA RINCONADA, DE JUNIN DE LOS ANDES, PROVINCIA DEL NEUQUEN.",
+        "votingId": 166
+      },
+      {
+        "id": "52-S-2014",
+        "title": "DESIGNAR CON EL NOMBRE DE \"DOCTOR OSVALDO ALVAREZ GUERRERO\" A LA ROTONDA UBICADA EN EL KM. 204 DE LA RUTA NACIONAL 40, COMANDANTE LUIS PIEDRABUENA, EN LA PROVINCIA DE RIO NEGRO.",
+        "votingId": 166
+      },
+      {
+        "id": "3210-D-2014",
+        "title": "\"DIA NACIONAL DE LA MODA EN LA REPUBLICA ARGENTINA\": SE INSTITUYE COMO TAL EL 14 DE MARZO DE CADA AÑO, EN MEMORIA DEL MODISTO Y DISEÑADOR ARGENTINO JORGE IBAÑEZ.",
+        "votingId": 166
+      },
+      {
+        "id": "8803-D-2014",
+        "title": "BALLET NACIONAL - LEY 23329 -. MODIFICACION DEL ARTICULO 4° SOBRE COMPOSICION.",
+        "votingId": 166
+      },
+      {
+        "id": "5273-D-2014",
+        "title": "SISTEMA DE PRESTACIONES BASICAS DE ATENCION INTEGRAL A FAVOR DE LAS PERSONAS CON DISCAPACIDAD.  -LEY 24901-. MODIFICACIONES SOBRE LA OBLIGATORIEDAD DE ATENCION PARA LAS OBRAS SOCIALES.",
+        "votingId": 166
+      },
+      {
+        "id": "6528-D-2013",
+        "title": "DIVERSOS INMUEBLES UBICADOS EN FLORENCIO VARELA, PROVINCIA DE BUENOS AIRES. SE LOS DECLARA DE UTILIDAD PUBLICA Y SUJETO A EXPROPIACION CON DESTINO A LA UNIVERSIDAD NACIONAL ARTURO JAURETCHE - UNAJ -.",
+        "votingId": 166
+      },
+      {
+        "id": "2449-D-2013",
+        "title": "DESIGNAR CON EL NOMBRE \"GOBERNADOR FERNANDO RIERA\", AL TRAMO DE LA RUTA NACIONAL 157 QUE ABARCA DESDE EL LIMITE DE LA COMUNA DE \"TACO RALO\", HASTA LA CIUDAD DE SAN MIGUEL DE TUCUMAN, PROVINCIA DE TUCUMAN.",
+        "votingId": 166
+      },
+      {
+        "id": "7505-D-2013",
+        "title": "RUTA NACIONAL 7, TRAMO INTERCAMBIADOR CON LA AVENIDA GENERAL PAZ - CIUDAD DE LUJAN, PROVINCIA DE BUENOS AIRES: SE DESIGNA CON EL NOMBRE DE \"PAPA FRANCISCO\".",
+        "votingId": 166
+      },
+      {
+        "id": "5444-D-2014",
+        "title": "DESIGNASE CON EL NOMBRE DE \"DON AMADEO SABATTINI\" A LA TOTALIDAD DE LA RUTA NACIONAL CIENTO CINCUENTA Y OCHO (RN158).",
+        "votingId": 166
+      },
+      {
+        "id": "8429-D-2014",
+        "title": "\"AÑO DE LA DONACION DE SANGRE\". SE INSTITUYE COMO TAL EL 2015, EN CONMEMORACION AL CENTENARIO DE LA PRIMER TRANSFUSION EXITOSA DE SANGRE CITRADA DEL MUNDO, REALIZADA POR EL MEDICO ARGENTINO LUIS AGOTE.",
+        "votingId": 166
+      },
+      {
+        "id": "8771-D-2014",
+        "title": "\"AÑO DEL 50 ANIVERSARIO DE LA RESOLUCION 2065 DE LAS NACIONES UNIDAS\". SE DECLARA COMO TAL AL 2015.",
+        "votingId": 166
+      },
+      {
+        "id": "66-S-2014",
+        "title": "APROBACION DEL CONVENIO CON LA REPUBLICA DE COLOMBIA EN MATERIA DE PREVENCION DE LA APROPIACION, IMPORTACION, EXPORTACION Y TRANSFERENCIA ILICITAS DE BIENES CULTURALES, SUSCRIPTO EN LA REPUBLICA DE COLOMBIA, EL 20 DE SEPTIEMBRE DE 2012.",
+        "votingId": 166
+      },
+      {
+        "id": "199-S-2012",
+        "title": "APROBACION DEL ACUERDO CON LA REPUBLICA DE CHILE PARA LA COOPERACION ENTRE LA GENDARMERIA NACIONAL ARGENTINA Y LA POLICIA DE INVESTIGACIONES DE CHILE, SUSCRIPTO EN LA CIUDAD DE SANTIAGO, REPUBLICA DE CHILE, EL 16 DE MARZO DE 2012.",
+        "votingId": 166
+      },
+      {
+        "id": "10-S-2012",
+        "title": "APROBACION DEL ACUERDO CON LA CONFERENCIA DE MINISTROS DE JUSTICIA DE LOS PAISES IBEROAMERICANOS PARA LA CREACION DE UNA OFICINA REGIONAL, SUSCRIPTO EN BUENOS AIRES EL 7 DE MAYO DE 2010.",
+        "votingId": 166
+      },
+      {
+        "id": "47-S-2014",
+        "title": "DECLARAR CAPITAL NACIONAL DEL CHOCOLATE A LA LOCALIDAD DE SAN CARLOS DE BARILOCHE, RIO NEGRO",
+        "votingId": 166
+      },
+      {
+        "id": "48-S-2013",
+        "title": "DECLARAR DE INTERES NACIONAL AL PASO INTERNACIONAL SAN FRANCISCO EN LA PROVINCIA DE CATAMARCA, Y EL CORREDOR BIOCEANICO DEL NOROESTE ARGENTINO, QUE CONECTA LOS OCEANOS ATLANTICO Y PACIFICO.",
+        "votingId": 166
+      },
+      {
+        "id": "74-S-2013",
+        "title": "DEROGACION DE LA LEY 16484 QUE DESIGNA JOHN F. KENNEDY AL TRAMO DE LA RUTA NACIONAL 12, DENOMINANDOLA CON EL NOMBRE \"RUTAS DE LAS MISIONES JESUITICAS\".",
+        "votingId": 166
+      },
+      {
+        "id": "76-S-2013",
+        "title": "INSTITUCION DEL 2 DE OCTUBRE DE CADA AÑO COMO DIA NACIONAL DE LA NO VIOLENCIA.",
+        "votingId": 166
+      },
+      {
+        "id": "1875-D-2014",
+        "title": "DECLARAR EL 3 DE OCTUBRE DE CADA AÑO COMO \"DIA DEL TRABAJADOR DE INDUSTRIAS QUIMICAS Y PETROQUIMICAS\".",
+        "votingId": 166
+      },
+      {
+        "id": "2448-D-2014",
+        "title": "\"DIA DEL TRABAJADOR DE LAS TELECOMUNICACIONES\". SE INSTITUYE COMO TAL EL 18 DE MARZO DE CADA AÑO.",
+        "votingId": 166
+      },
+      {
+        "id": "1625-D-2014",
+        "title": "LEY 18345, DE ORGANIZACION Y PROCEDIMIENTO DE LA JUSTICIA NACIONAL DEL TRABAJO: MODIFICACION DEL ARTICULO 27, ESTABLECIENDO QUE LAS VISTAS ORDENADAS DESPUES DE HABER QUEDADO LAS CAUSAS EN ESTADO NO SUSPENDERA NI INTERRUMPIRAN LOS PLAZOS PARA DICTAR RESOLUCIONES.",
+        "votingId": 166
+      },
+      {
+        "id": "1623-D-2014",
+        "title": "LEY 18345, DE ORGANIZACION Y PROCEDIMIENTO DE LA JUSTICIA NACIONAL DEL TRABAJO: MODIFICACION DEL ARTICULO 44, SOBRE APELACION CON EFECTO DIRECTO DE LA RESOLUCION QUE ACUERDE O DENIEGUE LA ACUMULACION DE PROCESOS.",
+        "votingId": 166
+      },
+      {
+        "id": "4023-D-2014",
+        "title": "PROHIBICION EN TODO EL TERRITORIO NACIONAL DE LA PRODUCCION, IMPORTACION Y USO COMO AGENTE SANITARIO O TRATAMIENTO CON CUALQUIER TIPO DE AGROQUIMICOS QUE CONTENGAN FOSFINA Y FOSFUROS METALICOS.",
+        "votingId": 166
+      },
+      {
+        "id": "6292-D-2013",
+        "title": "PROTECCION DE LOS DERECHOS DEL NIÑO Y DEL ADOLESCENTE (LEY 26061): INCORPORACION DEL ARTICULO 36 BIS, SOBRE PROHIBICION DEL EMBARQUE EN TRANSPORTE AEREO DE CABOTAJE DE MENORES DE 18 AÑOS SOLOS O CON TERCERAS PERSONAS, SIN LA CORRESPONDIENTE AUTORIZACION DE LOS PADRES, TUTORES, CURADORES O GUARDADORES, ANTE ESCRIBANO PUBLICO O JUEZ DE PAZ.",
+        "votingId": 166
+      },
+      {
+        "id": "6477-D-2013",
+        "title": "REGIMEN DE SANCION DE LA VIOLENCIA Y EL ACOSO SEXUAL LABORAL EN LA ADMINISTRACION PUBLICA.",
+        "votingId": 166
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 24,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 226,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 30
+  },
+  {
+    "id": 165,
+    "date": "2014-12-17 03:15:58",
+    "title": "Ley Argentina Digital. Desarrollo de las tecnologías de la información y las comunicaciones, las telecomunicaciones y sus recursos asociados.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_23_R26.pdf",
+    "detailsUrl": "/votacion/165",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "114-S-2014",
+        "title": "ARGENTINA DIGITAL.",
+        "votingId": 165
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 23,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 131,
+    "negativeCount": 97,
+    "abstentionCount": 0,
+    "absentCount": 28
+  },
+  {
+    "id": 164,
+    "date": "2014-12-16 23:26:03",
+    "title": "Ley 26.994, Código Civil y Comercial de la Nación. Modificación de su entrada en vigencia.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_22_R26.pdf",
+    "detailsUrl": "/votacion/164",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "106-S-2014",
+        "title": "MODIFICACION DEL ARTICULO 7 DE LA LEY 26994 - CODIGO CIVIL Y COMERCIAL DE LA NACION -, ESTABLECIENDO QUE LA CITADA NORMA ENTRARA EN VIGENCIA EL 1 DE AGOSTO DE 2015.",
+        "votingId": 164
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 22,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 130,
+    "negativeCount": 93,
+    "abstentionCount": 0,
+    "absentCount": 33
+  },
+  {
+    "id": 163,
+    "date": "2014-12-16 22:03:26",
+    "title": "Modificación del Código Penal.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_21_R26.pdf",
+    "detailsUrl": "/votacion/163",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "45-S-2014",
+        "title": "MODIFICACION DEL CODIGO PENAL: SUSTITUCION DEL ARTICULO 252 DEL CODIGO PENAL, INCORPORACION DE PENAS PARA MIEMBROS DE LAS FUERZAS DE SEGURIDAD NACIONALES, PROVINCIALES O DE LA CIUDAD AUTONOMA DE BUENOS AIRES O AGENCIA ESTATAL ARMADA, QUE A SABIENDAS ABANDONAREN INJUSTIFICADAMENTE ACTOS DE SERVICIO O MALICIOSAMENTE OMITIEREN LA PRESTACION REGULAR DE SU FUNCION.",
+        "votingId": 163
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 21,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 195,
+    "negativeCount": 9,
+    "abstentionCount": 0,
+    "absentCount": 52
+  },
+  {
+    "id": 162,
+    "date": "2014-12-16 21:32:14",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_20_R26.pdf",
+    "detailsUrl": "/votacion/162",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 162
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 20,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 17,
+    "absentCount": 28
+  },
+  {
+    "id": 161,
+    "date": "2014-12-16 21:31:21",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_19_R26.pdf",
+    "detailsUrl": "/votacion/161",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 161
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 19,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 137,
+    "negativeCount": 74,
+    "abstentionCount": 17,
+    "absentCount": 28
+  },
+  {
+    "id": 160,
+    "date": "2014-12-16 21:29:37",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_18_R26.pdf",
+    "detailsUrl": "/votacion/160",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 160
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 18,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 138,
+    "negativeCount": 71,
+    "abstentionCount": 17,
+    "absentCount": 30
+  },
+  {
+    "id": 159,
+    "date": "2014-12-16 21:28:28",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_17_R26.pdf",
+    "detailsUrl": "/votacion/159",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 159
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 17,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 136,
+    "negativeCount": 93,
+    "abstentionCount": 0,
+    "absentCount": 27
+  },
+  {
+    "id": 158,
+    "date": "2014-12-16 21:27:22",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_16_R26.pdf",
+    "detailsUrl": "/votacion/158",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 158
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 16,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 156,
+    "negativeCount": 55,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 157,
+    "date": "2014-12-16 21:26:16",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_15_R26.pdf",
+    "detailsUrl": "/votacion/157",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 157
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 15,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 137,
+    "negativeCount": 74,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 156,
+    "date": "2014-12-16 21:25:13",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_14_R26.pdf",
+    "detailsUrl": "/votacion/156",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 156
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 14,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 155,
+    "date": "2014-12-16 21:23:45",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_13_R26.pdf",
+    "detailsUrl": "/votacion/155",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 155
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 13,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 154,
+    "date": "2014-12-16 21:22:59",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_12_R26.pdf",
+    "detailsUrl": "/votacion/154",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 154
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 12,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 137,
+    "negativeCount": 74,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 153,
+    "date": "2014-12-16 21:22:01",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_11_R26.pdf",
+    "detailsUrl": "/votacion/153",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 153
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 11,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 152,
+    "date": "2014-12-16 21:21:13",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_10_R26.pdf",
+    "detailsUrl": "/votacion/152",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 152
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 10,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 151,
+    "date": "2014-12-16 21:20:24",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_09_R26.pdf",
+    "detailsUrl": "/votacion/151",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 151
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 9,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 140,
+    "negativeCount": 71,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 150,
+    "date": "2014-12-16 21:19:25",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_08_R26.pdf",
+    "detailsUrl": "/votacion/150",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 150
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 8,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 136,
+    "negativeCount": 75,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 149,
+    "date": "2014-12-16 21:18:25",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_07_R26.pdf",
+    "detailsUrl": "/votacion/149",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 149
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 7,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 138,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 28
+  },
+  {
+    "id": 148,
+    "date": "2014-12-16 21:17:03",
+    "title": "Orden del Día 1546. Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_06_R26.pdf",
+    "detailsUrl": "/votacion/148",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 148
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 6,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 138,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 28
+  },
+  {
+    "id": 147,
+    "date": "2014-12-16 21:16:03",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_05_R26.pdf",
+    "detailsUrl": "/votacion/147",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 147
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 5,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 146,
+    "date": "2014-12-16 21:14:25",
+    "title": "Leyes 19.945, 26.215 y 26.571.  Modificaciones sobre elección de parlamentarios del Mercosur.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_04_R26.pdf",
+    "detailsUrl": "/votacion/146",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 146
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 4,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 137,
+    "negativeCount": 74,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 145,
+    "date": "2014-12-16 21:13:09",
+    "title": "Modificaciones sobre elección de parlamentarios del Mercosur - Artículo 2.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_03_R26.pdf",
+    "detailsUrl": "/votacion/145",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 145
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 3,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 144,
+    "date": "2014-12-16 21:12:03",
+    "title": "Modificaciones sobre elección de parlamentarios del Mercosur - Artículo 1.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_02_R26.pdf",
+    "detailsUrl": "/votacion/144",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 144
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 143,
+    "date": "2014-12-16 21:09:05",
+    "title": "Modificaciones sobre elección de parlamentarios del Mercosur",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE02_01_R26.pdf",
+    "detailsUrl": "/votacion/143",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7928-D-2013",
+        "title": "CODIGO ELECTORAL NACIONAL (LEY 19945): MODIFICACIONES, SOBRE ELECCION DE PARLAMENTARIOS DEL MERCOSUR CONJUNTAMENTE CON LOS COMICIOS NACIONALES. MODIFICACION DE LA LEY 26215, DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS.",
+        "votingId": 143
+      }
+    ],
+    "period": 132,
+    "meeting": 26,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 139,
+    "negativeCount": 72,
+    "abstentionCount": 18,
+    "absentCount": 27
+  },
+  {
+    "id": 178,
+    "date": "2014-12-05 06:01:20",
+    "title": "Enseñanza de la lengua de seña. Régimen para su implementación en las escuelas secundarias del sistema educativo nacional.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE01_06_R25.pdf",
+    "detailsUrl": "/votacion/178",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1446-D-2013",
+        "title": "OBLIGACION DE INCLUIR UNA PROPUESTA CURRICULAR PARA LA ENSEÑANZA DE LENGUA DE SEÑAS EN TODAS LAS ESCUELAS SECUNDARIAS DEL SISTEMA EDUCATIVO NACIONAL.",
+        "votingId": 178
+      }
+    ],
+    "period": 132,
+    "meeting": 25,
+    "record": 6,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 212,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 44
+  },
+  {
+    "id": 176,
+    "date": "2014-12-05 05:52:50",
+    "title": "Ley 20.744 -. Modificación sobre inembargabilidad de la cuenta sueldo.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE01_05_R25.pdf",
+    "detailsUrl": "/votacion/176",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1066-D-2014",
+        "title": "LEY 20744, DE CONTRATO DE TRABAJO: MODIFICACION DEL ARTICULO 147, SOBRE INEMBARGABILIDAD DE LA CUENTA SUELDO.",
+        "votingId": 176
+      }
+    ],
+    "period": 132,
+    "meeting": 25,
+    "record": 5,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 213,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 43
+  },
+  {
+    "id": 175,
+    "date": "2014-12-05 05:50:35",
+    "title": "Obesidad infantil. Régimen para su prevención y fomento de los hábitos saludables de alimentación.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE01_04_R25.pdf",
+    "detailsUrl": "/votacion/175",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "3987-D-2014",
+        "title": "OBESIDAD INFANTIL: REGIMEN PARA SU PREVENCION Y  FOMENTO DE LOS HABITOS SALUDABLES DE ALIMENTACION.",
+        "votingId": 175
+      }
+    ],
+    "period": 132,
+    "meeting": 25,
+    "record": 4,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 206,
+    "negativeCount": 3,
+    "abstentionCount": 1,
+    "absentCount": 46
+  },
+  {
+    "id": 172,
+    "date": "2014-12-05 05:45:44",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE01_03_R25.pdf",
+    "detailsUrl": "/votacion/172",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5690-D-2013",
+        "title": "FIGURA DEL ASISTENTE OFICIOSO \"- AMICUS CURIAE -\" EN TODA CAUSA JUDICIAL DE INTERES PUBLICO: REGIMEN.",
+        "votingId": 172
+      },
+      {
+        "id": "1662-D-2014",
+        "title": "CONTRATO DE TRABAJO - LEY 20744, T.O. 1976 -. MODIFICACION DEL ARTICULO 54, SOBRE VALIDEZ DE LOS REGISTROS, PLANILLAS U OTROS ELEMENTOS DE CONTRALOR.",
+        "votingId": 172
+      },
+      {
+        "id": "207-D-2013",
+        "title": "DECLARAR EL ESTABLECIMIENTO DEL 10 DE SEPTIEMBRE DE CADA AÑO COMO \"DIA DE LA ICTIOLOGIA NACIONAL\", EN CONMEMORACION DEL NACIMIENTO DEL EMINENTE CIENTIFICO ARGENTINO, DOCTOR RAUL ADOLFO RINGUELET.",
+        "votingId": 172
+      },
+      {
+        "id": "2821-D-2011",
+        "title": "INSTITUCIONES QUE BRINDAN EDUCACION Y CUIDADO A LA PRIMERA INFANCIA: REGIMEN.",
+        "votingId": 172
+      },
+      {
+        "id": "1377-D-2013",
+        "title": "CONDICIONES PARA LA EXHIBICION DE PELICULAS EN TRANSPORTE PUBLICO DE PASAJEROS.",
+        "votingId": 172
+      },
+      {
+        "id": "3518-D-2014",
+        "title": "FRAGMENTACION PARA LA COMERCIALIZACION DE MEDICAMENTOS DESTINADOS A PATOLOGIAS FRECUENTES EN PERSONAS MAYORES: REGIMEN.",
+        "votingId": 172
+      },
+      {
+        "id": "7162-D-2013",
+        "title": "LEY 25422, RECUPERACION DE LA GANADERIA OVINA: MODIFICACIONES DE LOS ARTICULOS 1 Y 17, SOBRE INCORPORACION DE LA PRODUCCION DE CAMELIDOS SUDAMERICANOS - GUANACO Y LLAMA - Y AUMENTO DEL PORCENTAJE DESTINADO POR EL FONDO FIDUCIARIO, RESPECTIVAMENTE.",
+        "votingId": 172
+      },
+      {
+        "id": "147-D-2014",
+        "title": "\"ESCUELA NORMAL DOCTOR JUAN PUJOL\" DE LA PROVINCIA DE CORRIENTES: SE DECLARA MONUMENTO HISTORICO NACIONAL.",
+        "votingId": 172
+      },
+      {
+        "id": "5006-D-2014",
+        "title": "\"DIA NACIONAL DEL JOVEN ARGENTINO DE ORIGEN LIBANES\". SE INSTITUYE COMO TAL EL 3 DE OCTUBRE DE CADA AÑO.",
+        "votingId": 172
+      },
+      {
+        "id": "5143-D-2014",
+        "title": "\"CAPITAL NACIONAL DEL FUTBOL INFANTIL\": SE DECLARA COMO TAL A LA CIUDAD DE SUNCHALES, DEPARTAMENTO CASTELLANOS, PROVINCIA DE SANTA FE.",
+        "votingId": 172
+      },
+      {
+        "id": "7110-D-2014",
+        "title": "DECLARAR \"CAPITAL NACIONAL DEL SOFTBOL\", A LA CIUDAD DE PARANA, PROVINCIA DE ENTRE RIOS. .",
+        "votingId": 172
+      },
+      {
+        "id": "4467-D-2014",
+        "title": "CAPITAL NACIONAL DE PELOTA A PALETA: SE DECLARA A LA LOCALIDAD DE VENADO TUERTO, PROVINCIA DE SANTA FE.",
+        "votingId": 172
+      },
+      {
+        "id": "2101-D-2014",
+        "title": "\"29 DE ABRIL\": SE DESIGNA COMO TAL A LA AVENIDA CIRCUNVALACION OESTE - 007 -, CORRESPONDIENTE AL TRAMO DE LA RUTA NACIONAL 11 EN JURISDICCION DE LAS CIUDADES DE SANTA FE Y RECREO, PROVINCIA DE SANTA FE.",
+        "votingId": 172
+      }
+    ],
+    "period": 132,
+    "meeting": 25,
+    "record": 3,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 214,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 42
+  },
+  {
+    "id": 170,
+    "date": "2014-12-05 05:29:01",
+    "title": "Comisión Bicameral Investigadora de Instrumentos Bancarios y Financieros destinados a facilitar la evasión de tributos y la consecuente salida de divisas del país.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE01_02_R25.pdf",
+    "detailsUrl": "/votacion/170",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "9441-D-2014",
+        "title": "COMISION BICAMERAL INVESTIGADORA DE INSTRUMENTOS BANCARIOS Y FINANCIEROS DESTINADOS A FACILITAR LA EVASION DE TRIBUTOS Y LA CONSECUENTE SALIDA DE DIVISAS DEL PAIS. CREACION EN EL AMBITO DEL H. CONGRESO DE LA NACION.",
+        "votingId": 170
+      }
+    ],
+    "period": 132,
+    "meeting": 25,
+    "record": 2,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 135,
+    "negativeCount": 27,
+    "abstentionCount": 53,
+    "absentCount": 41
+  },
+  {
+    "id": 168,
+    "date": "2014-12-05 01:50:02",
+    "title": "Votación en General.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132PE01_01_R25.pdf",
+    "detailsUrl": "/votacion/168",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "87-S-2014",
+        "title": "CODIGO PROCESAL PENAL DE LA NACION.",
+        "votingId": 168
+      }
+    ],
+    "period": 132,
+    "meeting": 25,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 130,
+    "negativeCount": 99,
+    "abstentionCount": 2,
+    "absentCount": 25
+  },
+  {
+    "id": 63,
+    "date": "2014-11-20 00:22:54",
+    "title": "Régimen de Contrato de Trabajo. Modificación sobre cómputo de feriados oficiales para las vacaciones anuales.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_15_R23.pdf",
+    "detailsUrl": "/votacion/63",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5763-D-2014",
+        "title": "CONTRATO DE TRABAJO: LEY 20744; MODIFICACION DEL ARTICULO 150, SOBRE VACACIONES ANUALES.",
+        "votingId": 63
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 15,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 190,
+    "negativeCount": 1,
+    "abstentionCount": 0,
+    "absentCount": 65
+  },
+  {
+    "id": 62,
+    "date": "2014-11-20 00:21:31",
+    "title": "Régimen de Contrato de Trabajo. Modificación sobre plazo de preaviso.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_14_R23.pdf",
+    "detailsUrl": "/votacion/62",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1660-D-2014",
+        "title": "LEY 20744, T.O. 1976 DE CONTRATO DE TRABAJO: MODIFICACION DEL ARTICULO 19, SOBRE PLAZO DE PREAVISO.",
+        "votingId": 62
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 14,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 177,
+    "negativeCount": 13,
+    "abstentionCount": 1,
+    "absentCount": 65
+  },
+  {
+    "id": 61,
+    "date": "2014-11-20 00:20:18",
+    "title": "Régimen de Contrato de Trabajo. Modificación sobre uso de lenguaje no sexista.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_13_R23.pdf",
+    "detailsUrl": "/votacion/61",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6732-D-2013",
+        "title": "LEY 20744, DE CONTRATO DE TRABAJO, TO DECRETO 390/1976: MODIFICACIONES, SOBRE USO NO SEXISTA EN SU REDACCION.",
+        "votingId": 61
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 13,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 188,
+    "negativeCount": 1,
+    "abstentionCount": 0,
+    "absentCount": 67
+  },
+  {
+    "id": 60,
+    "date": "2014-11-20 00:19:19",
+    "title": "Régimen de Contrato de Trabajo.  Modificación sobre establecimiento de días feriados nacionales y días no laborables.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_12_R23.pdf",
+    "detailsUrl": "/votacion/60",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "718-D-2013",
+        "title": "CONTRATO DE TRABAJO (LEY 20744): MODIFICACION DEL ARTICULO 165, SOBRE ESTABLECIMIENTO DE DIAS FERIADOS NACIONALES Y DIAS NO LABORABLES.",
+        "votingId": 60
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 12,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 192,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 64
+  },
+  {
+    "id": 59,
+    "date": "2014-11-19 23:59:44",
+    "title": "Día Nacional del Turismo, el 28 de Junio de cada año.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_11_R23.pdf",
+    "detailsUrl": "/votacion/59",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5387-D-2014",
+        "title": "\"DIA NACIONAL DEL TURISMO\". DECLARASE EL 28 DE JUNIO DE CADA AÑO.",
+        "votingId": 59
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 11,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 161,
+    "negativeCount": 23,
+    "abstentionCount": 4,
+    "absentCount": 68
+  },
+  {
+    "id": 58,
+    "date": "2014-11-19 23:38:53",
+    "title": "Modificación sobre permisos para trabajos de investigación, canon y concesionarios de socavones generales respectivamente.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_10_R23.pdf",
+    "detailsUrl": "/votacion/58",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5181-D-2014",
+        "title": "CODIGO DE MINERIA: SUSTITUCION DE LOS ARTICULOS 31, 215 Y 221, SOBRE PERMISOS PARA LOS TRABAJOS DE INVESTIGACION, CANON Y CONCESIONARIOS DE SOCAVONES GENERALES, RESPECTIVAMENTE.",
+        "votingId": 58
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 10,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 179,
+    "negativeCount": 0,
+    "abstentionCount": 14,
+    "absentCount": 63
+  },
+  {
+    "id": 57,
+    "date": "2014-11-19 23:16:01",
+    "title": "Prohibición de indultos, amnistías y conmutación de penas en delitos de lesa humanidad.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_09_R23.pdf",
+    "detailsUrl": "/votacion/57",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "3763-D-2014",
+        "title": "PROHIBICION DE INDULTOS, AMNISTIA Y CONMUTACION DE PENAS EN DELITOS DE LESA HUMANIDAD.",
+        "votingId": 57
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 9,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 173,
+    "negativeCount": 0,
+    "abstentionCount": 16,
+    "absentCount": 67
+  },
+  {
+    "id": 56,
+    "date": "2014-11-19 22:44:25",
+    "title": "Votación en General y Particular.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_08_R23.pdf",
+    "detailsUrl": "/votacion/56",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "66-S-2013",
+        "title": "CREACION DE LA UNIVERSIDAD NACIONAL DE HURLINGHAM, CON SEDE EN EL PARTIDO HOMONIMO, PROVINCIA DE BUENOS AIRES.",
+        "votingId": 56
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 8,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 134,
+    "negativeCount": 16,
+    "abstentionCount": 41,
+    "absentCount": 65
+  },
+  {
+    "id": 55,
+    "date": "2014-11-19 22:12:26",
+    "title": "Orden del Día 1207. Régimen de promoción de los Clubes de Barrio y de Pueblo. Institución.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_07_R23.pdf",
+    "detailsUrl": "/votacion/55",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1600-D-2014",
+        "title": "REGIMEN DE CLUBES DE BARRIO. DEROGACION DE LA LEY 26069 (PROGRAMA DEPORTIVO BARRIAL).",
+        "votingId": 55
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 7,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 198,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 58
+  },
+  {
+    "id": 54,
+    "date": "2014-11-19 20:39:57",
+    "title": "Jerarquía constitucional según la constitución nacional. Otorgamiento de la misma a la convención sobre los derechos de las personas con discapacidad.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_06_R23.pdf",
+    "detailsUrl": "/votacion/54",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "101-S-2013",
+        "title": "OTORGAR JERARQUIA CONSTITUCIONAL A LA CONVENCION SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD Y SU PROTOCOLO FACULTATIVO.",
+        "votingId": 54
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 6,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 208,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 48
+  },
+  {
+    "id": 53,
+    "date": "2014-11-19 20:36:49",
+    "title": "Expediente 35-JGM-10 - Orden del Día 988 y 48-JGM-10 - Orden del Día 1702 - Votación Dictamen de Minoría (validéz).",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_05_R23.pdf",
+    "detailsUrl": "/votacion/53",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "35-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 901/10, POR EL CUAL SE PRORROGA POR EL TERMINO DE 360 DIAS LA SUSPENSION DE LA EXPORTACION PARA CONSUMO DE DESPERDICIOS Y DESECHOS DE METALES FERROSOS ESTABLECIDO MEDIANTE RESOLUCION CONJUNTA 1/09 DEL EX MINISTERIO DE PRODUCCION Y 2/09 DEL MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS.",
+        "votingId": 53
+      },
+      {
+        "id": "48-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 1190/2010 POR EL CUAL SE ADOPTAN LAS DISPOSICIONES DE LA DECISION 28 DEL 7 DE DICIEMBRE DE 2009 DEL CONSEJO DEL MERCADO COMUN, SOBRE MANTENER EXCEPCIONES AL ARANCEL EXTERNO COMUN HASTA 100 ITEMS ARANCELARIOS HASTA EL 31 DE DICIEMBRE DE 2011.",
+        "votingId": 53
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 5,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 119,
+    "negativeCount": 86,
+    "abstentionCount": 3,
+    "absentCount": 48
+  },
+  {
+    "id": 52,
+    "date": "2014-11-19 20:31:45",
+    "title": "Votación Dictamen de Mayoría (rechazo e invalidéz).",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_04_R23.pdf",
+    "detailsUrl": "/votacion/52",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "35-JGM-2010",
+        "title": "Votación Dictamen de Mayoría (rechazo e invalidéz)",
+        "votingId": 52
+      },
+      {
+        "id": "48-JGM-2010",
+        "title": "Votación Dictamen de Mayoría (rechazo e invalidéz).",
+        "votingId": 52
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 4,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 83,
+    "negativeCount": 119,
+    "abstentionCount": 3,
+    "absentCount": 51
+  },
+  {
+    "id": 51,
+    "date": "2014-11-19 20:25:58",
+    "title": "Votación de Proyectos de Resolución de la Comisión Bicameral Permanente de Trámite Legislativo",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_03_R23.pdf",
+    "detailsUrl": "/votacion/51",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5314-D-2009",
+        "title": "DECLARAR LA VALIDEZ DEL DECRETO DE NECESIDAD Y URGENCIA 1461/2009, MEDIANTE EL CUAL SE MODIFICA EL INCISO A) DEL ARTICULO 6 DEL DECRETO 21680/56, RATIFICADO POR LEY 14467, REFERIDO A LA INTEGRACION DEL LOS MIEMBROS DEL CONSEJO DIRECTIVO DEL INSTITUTO NACIONAL DE TECNOLOGIA AGROPECUARIA (INTA).",
+        "votingId": 51
+      },
+      {
+        "id": "5315-D-2009",
+        "title": "DECLARAR LA VALIDEZ DEL DECRETO DE NECESIDAD Y URGENCIA 1458/2009, REFERIDO A LA MODIFICACION DE LA LEY 22520, DE MINISTERIOS, TEXTO ORDENADO POR DECRETO 438/92, MEDIANTE EL CUAL SE SUSTITUYE LA DENOMINACION DEL MINISTERIO DE INDUSTRIA POR MINISTERIO DE INDUSTRIA Y TURISMO.",
+        "votingId": 51
+      },
+      {
+        "id": "6005-D-2009",
+        "title": "DECLARAR LA VALIDEZ DEL DECRETO DE NECESIDAD Y URGENCIA 1801/2009, MEDIANTE EL CUAL SE MODIFICA EL PRESUPUESTO 2009.",
+        "votingId": 51
+      },
+      {
+        "id": "25-JGM-2009",
+        "title": "COMUNICACION DEL DECRETO 2261/09, POR EL CUAL SE PRORROGA POR EL TERMINO DE CIENTO OCHENTA DIAS LA SUSPENSION ESTABLECIDA EN EL ARTICULO 1 DE LA RESOLUCION CONJUNTA NUMERO 1 DEL EX MINISTERIO DE PRODUCCION Y  NUMERO 2 DEL MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS DE SUSPENSION DE LA EXPORTACION PARA CONSUMO DE DESPERDICIOS Y DESECHOS DE METALES FERROSOS.",
+        "votingId": 51
+      },
+      {
+        "id": "26-JGM-2009",
+        "title": "COMUNICACION DEL DECRETO 68/10 POR EL CUAL SE ADOPTAN LAS DISPOSICIONES DE LA DIRECTIVA 13 DEL 21 DE JULIO DE 2009 DE LA COMISION DE COMERCIO DEL MERCOSUR (CCM), Y SU CORRESPONDIENTE FE DE ERRATAS.",
+        "votingId": 51
+      },
+      {
+        "id": "12-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 646/10 POR EL CUAL SE ADOPTAN LA DISPOSICIONES DE LA DIRECTIVA 17 DEL 4 DE SETIEMBRE DE 2009 DE LA COMISION DE COMERCIO DEL MERCOSUR (CCM), SOBRE TRATAMIENTO ARANCELARIO PARA LA IMPORTACION DE PLANCHAS DE FOTOPOLIMEROS.",
+        "votingId": 51
+      },
+      {
+        "id": "13-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 656/10 POR EL CUAL SE ADOPTAN LAS DISPOSICIONES DE LA DIRECTIVA 16 DEL 4 DE SETIEMBRE DE 2009 DE LA COMISION DE COMERCIO DEL MERCOSUR (CCM), SOBRE TRATAMIENTO ARANCELARIO PARA LA IMPORTACION DE ACETATO DE VINILO.",
+        "votingId": 51
+      },
+      {
+        "id": "14-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 688/10, POR EL CUAL SE ADOPTAN DISPOSICIONES DE LA DIRECTIVA 14 DEL 4 DE SEPTIEMBRE DE 2009 DE LA COMISION DE COMERCIO DEL MERCOSUR, SOBRE TRATAMIENTO ARANCELARIO PARA LA IMPORTACION DE ARPILLERA DE YUTE.",
+        "votingId": 51
+      },
+      {
+        "id": "15-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 687/10 POR EL CUAL SE ADOPTAN LAS DISPOSICIONES DE LA DIRECTIVA 24 DEL 19 DE NOVIEMBRE DE 2009 DE LA COMISION DE COMERCIO DEL MERCOSUR - CCM, SOBRE TRATAMIENTO ARANCELARIO PARA LA IMPORTACION DE AISLANTE DE RESINA EPOXI Y FIBRA DE VIDRIO, PARA CIRCUITOS IMPRESOS.",
+        "votingId": 51
+      },
+      {
+        "id": "20-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 761/10 POR EL CUAL SE SUSTITUYE EN EL ANEXO XIV DEL DECRETO 509/07 Y SUS MODIFICACIONES, LA POSICION ARANCELARIA DE LA NOMENCLATURA COMUN DEL MERCOSUR, N.C.M. - 1517.90.10, REFERENCIA - 9 - Y EL DERECHO DE EXPORTACION.",
+        "votingId": 51
+      },
+      {
+        "id": "25-JGM-2010",
+        "title": "COMUNICACION DEL DECRETO 782/2010 POR EL CUAL SE ADOPTAN LAS DISPOSICIONES DE LA DIRECTIVA NUMERO 26 DEL 19 DE NOVIEMBRE DE 2009 DE LA COMISION DE COMERCIO DEL MERCOSUR (CCM), SOBRE LA APROBACION DE REBAJAS ARANCELARIAS PARA EL EPSILON CAPROLACTAMA.",
+        "votingId": 51
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 3,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 117,
+    "negativeCount": 84,
+    "abstentionCount": 0,
+    "absentCount": 55
+  },
+  {
+    "id": 50,
+    "date": "2014-11-19 19:43:46",
+    "title": "Proyectos de Ley sin Disidencias ni Observaciones",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_02_R23.pdf",
+    "detailsUrl": "/votacion/50",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1470-D-2014",
+        "title": "DECLARAR DE INTERES NACIONAL LAS OBRAS MUSICALES MISA CRIOLLA Y NAVIDAD NUESTRA AL CUMPLIRSE EL 50 ANIVERSARIO DE SU CREACION.",
+        "votingId": 50
+      },
+      {
+        "id": "7226-D-2013",
+        "title": "LEY 24922 (REGIMEN FEDERAL DE PESCA) : INCORPORACION DEL ARTICULO 10 BIS, ESTABLECIENDO QUE EL CONSEJO FEDERAL PESQUERO REMITIRA A LAS COMISIONES RESPECTIVAS DEL H. CONGRESO DE LA NACION COPIA DE LOS INSTRUMENTOS NORMATIVOS QUE DICTE EN EL MARCO DE SUS FUNCIONES.",
+        "votingId": 50
+      },
+      {
+        "id": "7385-D-2013",
+        "title": "NIÑOS NACIDOS POR PARTOS DOMICILIARIOS: REGIMEN PARA SU INSCRIPCION. MODIFICACION DE LA LEY 26413, DE REGISTRO DE ESTADO CIVIL Y CAPACIDAD DE LAS PERSONAS.",
+        "votingId": 50
+      },
+      {
+        "id": "4155-D-2014",
+        "title": "\"DIA DEL POLITOLOGO\": SE INSTITUYE COMO TAL EL 29 DE NOVIEMBRE DE CADA AÑO.",
+        "votingId": 50
+      },
+      {
+        "id": "4348-D-2014",
+        "title": "DECLARAR AL MUNICIPIO DE LA MATANZA, PROVINCIA DE BUENOS AIRES, CAPITAL NACIONAL DE \"LA PRODUCCION Y EL TRABAJO\" (REPRODUCCION DEL EXPEDIENTE 8095-D-12).",
+        "votingId": 50
+      },
+      {
+        "id": "4150-D-2014",
+        "title": "\"FIESTA PROVINCIAL DEL MELON\" QUE SE REALIZA ANUALMENTE EN EL MES DE FEBRERO, EN LA LOCALIDAD DE CANDELARIA, PROVINCIA DE SAN LUIS. SE LA DECLARA \"FIESTA NACIONAL\".",
+        "votingId": 50
+      },
+      {
+        "id": "6007-D-2013",
+        "title": "CAPITAL NACIONAL DEL CHIP: SE DECLARA COMO TAL A LA CIUDAD DE BAHIA BLANCA, PROVINCIA DE BUENOS AIRES.",
+        "votingId": 50
+      },
+      {
+        "id": "3543-D-2014",
+        "title": "\"PUENTE LIBERTAD\", QUE UNE LAS PROVINCIAS DEL CHACO Y FORMOSA: SUSTITUYASE POR EL NOMBRE \"HEROES DE MALVINAS\".",
+        "votingId": 50
+      },
+      {
+        "id": "101-S-2012",
+        "title": "APROBACION DEL PROTOCOLO SOBRE LA MODIFICACION DEL CONVENIO RELATIVO A LA ORGANIZACION HIDROGRAFICA INTERNACIONAL, ADOPTADO EN EL PRINCIPADO DE MONACO DURANTE LA TERCERA CONFERENCIA HIDROGRAFICA INTERNACIONAL, QUE TUVO LUGAR ENTRE EL 11 Y EL 15 DE ABRIL DE 2005.",
+        "votingId": 50
+      },
+      {
+        "id": "100-S-2012",
+        "title": "APROBACION DEL TRATADO CON LA REPUBLICA DE SUDAFRICA SOBRE ASISTENCIA LEGAL MUTUA EN MATERIA PENAL, SUSCRIPTO EN PRETORIA, REPUBLICA DE SUDAFRICA, EL 28 DE FEBRERO DE 2007.",
+        "votingId": 50
+      },
+      {
+        "id": "194-S-2012",
+        "title": "APROBACION DEL CONVENIO DE RECONOCIMIENTO DE TITULOS Y CERTIFICADOS DE ESTUDIOS DE EDUCACION PRIMARIA, EDUCACION GENERAL BASICA Y SECUNDARIA O SUS DENOMINACIONES EQUIVALENTES, CON LA REPUBLICA DOMINICANA, CELEBRADO EN BUENOS AIRES EL 12 DE MAYO DE 2011.",
+        "votingId": 50
+      },
+      {
+        "id": "71-S-2013",
+        "title": "APROBACION DEL ACUERDO DE COOPERACION CON EL GOBIERNO DE LA REPUBLICA BOLIVARIANA DE VENEZUELA EN MATERIA DE BECAS DE ESTUDIO, CELEBRADO EN CARACAS, REPUBLICA BOLIVARIANA DE VENEZUELA, EL 1 DE DICIEMBRE DE 2011.",
+        "votingId": 50
+      },
+      {
+        "id": "87-S-2013",
+        "title": "TRATADO DE EXTRADICION CON LA REPUBLICA DE COLOMBIA, SUSCRIPTO EN LA CIUDAD DE BOGOTA, REPUBLICA DE COLOMBIA, EL 18 DE JULIO DE 2013. APROBACION.",
+        "votingId": 50
+      },
+      {
+        "id": "20-S-2014",
+        "title": "APROBACION DEL TRATADO DE EXTRADICION CON EL ESTADO PLURINACIONAL DE BOLIVIA, SUSCRIPTO EN LA CIUDAD AUTONOMA DE BUENOS AIRES, EL 22 DE AGOSTO DE 2013.",
+        "votingId": 50
+      },
+      {
+        "id": "3-PE-2014",
+        "title": "APROBACION DE LA RESOLUCION 166/XXXV DENOMINADA NOVENA REPOSICION DE LOS RECURSOS DEL FONDO INTERNACIONAL DEL DESARROLLO AGRICOLA - FIDA -, DE FECHA 23 DE FEBRERO DE 2012 POR EL CUAL SE AUMENTA EL APORTE DE LA REPUBLICA ARGENTINA A DICHO FONDO.",
+        "votingId": 50
+      },
+      {
+        "id": "646-D-2014",
+        "title": "DERECHO DE FORMACION DEPORTIVA: REGIMEN.",
+        "votingId": 50
+      },
+      {
+        "id": "6463-D-2014",
+        "title": "TRATA DE PERSONAS, DESAPARECIDAS/OS Y PROFUGAS/OS DE LA JUSTICIA. DIFUSION A SOLICITUD DEL TRIBUNAL O DE LA FISCALIA INTERVINIENTE, DE LA FOTOGRAFIA DE LAS PRESUNTAS VICTIMAS O PROFUGOS/AS POR LOS PRESTADORES DE SERVICIO DE TELEVISION.",
+        "votingId": 50
+      },
+      {
+        "id": "2031-D-2013",
+        "title": "INSTALACION DE DESFIBRILADORES EXTERNOS AUTOMATICOS EN ESPACIOS PUBLICOS Y PRIVADOS.",
+        "votingId": 50
+      },
+      {
+        "id": "7331-D-2013",
+        "title": "\"ASOCIACION LA NUBE. INFANCIA Y CULTURA\". SE DECLARA PATRIMONIO CULTURAL AL EDIFICIO DONDE FUNCIONA, UBICADO EN LA CIUDAD AUTONOMA DE BUENOS AIRES.",
+        "votingId": 50
+      },
+      {
+        "id": "7678-D-2013",
+        "title": "GUERRA DEL ATLANTICO SUR. SE RECONOCE LA ACTUACION DE LOS CIUDADANOS PARAMEDICOS QUE ACTUARON EN LA BASE PUERTO BELGRANO POR SUS RELEVANTES MERITOS, VALOR Y ENTREGA EN DEFENSA DE LA PATRIA.",
+        "votingId": 50
+      },
+      {
+        "id": "55-S-2013",
+        "title": "OBLIGATORIEDAD DE DISPONER UN ESPACIO DESTACADO EN LOS MEDIOS DE TRANSPORTE PUBLICO DE PASAJEROS CON LA INSCRIPCION DE LA LEYENDA \"LAS ISLAS MALVINAS SON ARGENTINAS\".",
+        "votingId": 50
+      },
+      {
+        "id": "13-S-2012",
+        "title": "APROBACION DE LAS ENMIENDAS AL CONVENIO CONSTITUTIVO DE LA ORGANIZACION INTERNACIONAL DE TELECOMUNICACIONES MOVILES POR SATELITE EL 2/10/2008, POR PARTE DE LA ASAMBLEA EN SU VIGESIMO PERIODO DE SESIONES, EN LONDRES, REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE.",
+        "votingId": 50
+      },
+      {
+        "id": "14-S-2012",
+        "title": "APROBACION DE LA CONSTITUCION DE LA UNION POSTAL DE LAS AMERICAS, ESPAÑA Y PORTUGAL Y DEL NOVENO PROTOCOLO ADICIONAL A LA CONSTITUCION DE LA UNION POSTAL DE LAS AMERICAS, ESPAÑA Y PORTUGAL, ADOPTADOS EN SANTIAGO - REPUBLICA DE CHILE - EL 21 DE AGOSTO DE 2009.",
+        "votingId": 50
+      },
+      {
+        "id": "190-S-2012",
+        "title": "APROBACION DE LOS INSTRUMENTOS DE ENMIENDA A LA CONSTITUCION, AL CONVENIO Y AL REGLAMENTO GENERAL DE LAS CONFERENCIAS ASAMBLEAS Y REUNIONES DE LA UNION INTERNACIONAL DE TELECOMUNICACIONES, ADOPTADOS EN GUADALAJARA, ESTADOS UNIDOS MEXICANOS, EL 22 DE OCTUBRE DE 2010.",
+        "votingId": 50
+      },
+      {
+        "id": "197-S-2012",
+        "title": "APROBACION DEL PROTOCOLO DE MONTEVIDEO SOBRE COMPROMISO CON LA DEMOCRACIA EN EL MERCOSUR (USHUAIA II) SUSCRIPTO EN LA CIUDAD DE MONTEVIDEO - REPUBLICA ORIENTAL DEL URUGUAY, EL 20 DE DICIEMBRE DE 2011.",
+        "votingId": 50
+      },
+      {
+        "id": "198-S-2012",
+        "title": "APROBACION DEL ACUERDO CON EL GOBIERNO DEL ESTADO DE ISRAEL SOBRE COOPERACION EN MATERIA DE TELECOMUNICACIONES, SERVICIOS POSTALES Y SEGURIDAD DE LA INFORMACION Y DE LAS REDES, SUSCRIPTO EN LA CIUDAD DE JERUSALEN, EL 4 DE ABRIL DE 2011.",
+        "votingId": 50
+      },
+      {
+        "id": "19-S-2014",
+        "title": "APROBACION DEL ACUERDO DE COOPERACION TECNICA CON SAN VICENTE Y LAS GRANADINAS, CELEBRADO EN LA CIUDAD DE KINGSTOWN, SAN VICENTE Y LAS GRANADINAS , EL 26 DE OCTUBRE DE 2012.",
+        "votingId": 50
+      },
+      {
+        "id": "22-S-2014",
+        "title": "APROBACION DEL ACUERDO DE COOPERACION TECNICA ENTRE LA REPUBLICA ARGENTINA Y LA REPUBLICA DE SURINAME, CELEBRADO EN LA CIUDAD DE NUEVA YORK, ESTADOS UNIDOS DE AMERICA EL 28 DE SEPTIEMBRE DE 2012",
+        "votingId": 50
+      },
+      {
+        "id": "69-S-2014",
+        "title": "AUTORIZACION PARA DESEMPEÑAR CARGOS DE CONSULES, VICECONSULES Y AGENTES CONSULARES HONORARIOS POR GOBIERNOS EXTRANJEROS SEGUN LEY 23732, SOLICITADAS POR CIUDADANOS ARGENTINOS POR INTERMEDIO DEL  MINISTERIO DE RELACIONES EXTERIORES COMERCIO INTERNACIONAL Y CULTO - DIRECCION NACIONAL DE CEREMONIAL.",
+        "votingId": 50
+      },
+      {
+        "id": "16-S-2013",
+        "title": "APROBACION DEL ACUERDO MARCO SOBRE COOPERACION TECNICA CON EL GOBIERNO DE LA REPUBLICA SOCIALISTA DE VIETNAM, CELEBRADO EN BUENOS AIRES EL 26 DE AGOSTO DE 2011.",
+        "votingId": 50
+      },
+      {
+        "id": "4575-D-2013",
+        "title": "DECLARAR FIESTA NACIONAL DEL TAREFERO, AL FESTIVAL QUE SE REALIZA CADA AÑO EN LA LOCALIDAD DE CONCEPCION DE LA SIERRA, PROVINCIA DE MISIONES, INCLUYENDO LA MISMA EN EL CALENDARIO TURISTICO NACIONAL.",
+        "votingId": 50
+      },
+      {
+        "id": "5251-D-2014",
+        "title": "\"DIA NACIONAL DEL TAREFERO\": SE INSTITUYE COMO TAL EL 17 DE JUNIO DE CADA AÑO.",
+        "votingId": 50
+      },
+      {
+        "id": "6330-D-2014",
+        "title": "SEMANA NACIONAL DE LA CONCIENCIA SOBRE LA PRESERVACION DEL PATRIMONIO NATURAL Y CULTURAL Y EL RESPETO POR LA DIVERSIDAD CULTURAL: SE INSTITUYE COMO TAL LA SEGUNDA SEMANA DEL MES DE OCTUBRE DE CADA AÑO.",
+        "votingId": 50
+      },
+      {
+        "id": "2791-D-2014",
+        "title": "\"FERIA INTERNACIONAL DE LA ALIMENTACION ROSARIO - FIAR -\" QUE SE REALIZA ANUALMENTE EN ROSARIO, PROVINCIA DE SANTA FE: DECLARACION DE INTERES NACIONAL.",
+        "votingId": 50
+      },
+      {
+        "id": "165-S-2011",
+        "title": "APROBACION DEL PROTOCOLO SOBRE EL COMERCIO DE SERVICIOS ENTRE MERCOSUR Y CHILE, APROBADO EN MONTEVIDEO, REPUBLICA ORIENTAL DEL URUGUAY - EL 27 DE MAYO DE 2009.",
+        "votingId": 50
+      },
+      {
+        "id": "186-S-2012",
+        "title": "APROBACION DEL ACUERDO SOBRE COOPERACION ECONOMICA Y COMERCIAL CON LA REPUBLICA DE AZERBAIYAN, CELEBRADO EN BUENOS AIRES, EL 26 DE JULIO DE 2012.",
+        "votingId": 50
+      },
+      {
+        "id": "38-S-2013",
+        "title": "APROBACION DEL ACUERDO COMERCIAL CON EL GOBIERNO DEL ESTADO DE KUWAIT, CELEBRADO EN LA CIUDAD DE KUWAIT, ESTADO DE KUWAIT, EL 16 DE ENERO DE 2011.",
+        "votingId": 50
+      },
+      {
+        "id": "89-S-2013",
+        "title": "REGIMEN DE AREAS MARINAS PROTEGIDAS.",
+        "votingId": 50
+      },
+      {
+        "id": "49-S-2014",
+        "title": "DECLARAR A LA CIUDAD DE PICO TRUNCADO, PROVINCIA DE SANTA CRUZ, CAPITAL NACIONAL DEL HIDROGENO (REPRODUCCION DEL EXPEDIENTE 2305-S-12).",
+        "votingId": 50
+      },
+      {
+        "id": "44-S-2013",
+        "title": "ESTABLECER LA DIFUSION Y PUBLICIDAD DE LA LINEA TELEFONICA GRATUITA CON ALCANCE NACIONAL \"144\", PARA LA ATENCION DE CONSULTAS DE VIOLENCIA DE GENERO.",
+        "votingId": 50
+      },
+      {
+        "id": "2396-D-2014",
+        "title": "SISTEMA FEDERAL DE LA VIVIENDA - LEY 24464 -. MODIFICACION DEL ARTICULO 7, CONTEMPLANDO QUE EL DIEZ PORCIENTO DE LOS RECURSOS SE DEBERAN DESTINAR A PROGRAMA DE VIVIENDAS RURALES, ESPECIALMENTE AGRICULTORES FAMILIARES.",
+        "votingId": 50
+      },
+      {
+        "id": "1352-D-2013",
+        "title": "INCORPORACION AL PROGRAMA MEDICO OBLIGATORIO (PMO) DE LA COBERTURA DE LECHES MEDICAMENTOSAS CONSUMIDAS POR QUIENES SUFREN DE ALERGIA A LA PROTEINA DE LA LECHE VACUNA (APLV), Y QUIENES SUFREN O PADECEN DESORDENES, ENFERMEDADES O TRASTORNOS GASTROINTESTINALES EOSINOFILICOS (REPRODUCCION DEL EXPEDIENTE 4569-D-11).",
+        "votingId": 50
+      },
+      {
+        "id": "8004-D-2013",
+        "title": "CREACION EN EL AMBITO DEL MINISTERIO DE SALUD DE LA NACION EL REGISTRO UNIVERSAL SANITARIO NACIONAL.",
+        "votingId": 50
+      },
+      {
+        "id": "5210-D-2014",
+        "title": "EJERCICIO DE LA MEDICINA (LEY 17132): MODIFICACION ARTICULO 19, SOBRE RECETA MEDICA ELECTRONICA.",
+        "votingId": 50
+      },
+      {
+        "id": "131-S-2012",
+        "title": "DECLARAR LUGAR HISTORICO NACIONAL DE ACUERDO A LA LEY 12665 Y MODIFICATORIAS, AL PREDIO O FRACCION DE TERRENO RURAL DEL PARAJE DE PUNTA DE LOS LLANOS, SOBRE LA RUTA NACIONAL 38 EN LA PROVINCIA DE LA RIOJA EN HOMENAJE A LA MEMORIA DE MONSEÑOR ENRIQUE ANGELELLI Y AL PARAJE BAJO DE LUCAS DE LA MISMA PROVINCIA DONDE ENCONTRARON LOS CUERPOS DE LOS PADRES CARLOS DE DIOS MURIAS Y GABRIEL LENGUEVILLE",
+        "votingId": 50
+      },
+      {
+        "id": "2123-D-2013",
+        "title": "DECLARAR MONUMENTO HISTORICO NACIONAL A LA ESCUELA NORMAL SUPERIOR \"BERNARDINO RIVADAVIA\", UBICADA EN LA CIUDAD DE AZUL, PROVINCIA DE BUENOS AIRES.",
+        "votingId": 50
+      },
+      {
+        "id": "4404-D-2014",
+        "title": "DECLARAR MONUMENTO HISTORICO NACIONAL A LA EX- SEDE DE LA INTENDENCIA DEL PARQUE NACIONAL LANIN, PROVINCIA DEL NEUQUEN (REPRODUCCION DEL EXPEDIENTE 3130-D-12).",
+        "votingId": 50
+      },
+      {
+        "id": "4599-D-2014",
+        "title": "DECLARAR MONUMENTO HISTORICO NACIONAL AL EDIFICIO DE LA ESCUELA NORMAL SUPERIOR 1, \"CLARA JEANNETTE ARMSTRONG\", DE LA CIUDAD CAPITAL DE LA PROVINCIA DE CATAMARCA.",
+        "votingId": 50
+      },
+      {
+        "id": "6701-D-2014",
+        "title": "\"DIA NACIONAL DEL MUSICO\": SE ESTABLECE COMO TAL EL 23 DE ENERO DE CADA AÑO.",
+        "votingId": 50
+      },
+      {
+        "id": "221-S-2012",
+        "title": "CREACION DE UNA SECRETARIA CON ASIENTO EN EL JUZGADO FEDERAL DE PRIMERA INSTANCIA EN SAN RAMON DE LA NUEVA ORAN, PROVINCIA DE SALTA.",
+        "votingId": 50
+      },
+      {
+        "id": "83-S-2013",
+        "title": "CREACION DEL JUZGADO FEDERAL DE PRIMERA INSTANCIA NUMERO 3 CON ASIENTO EN LA CIUDAD DE CLORINDA, PROVINCIA DE FORMOSA.",
+        "votingId": 50
+      },
+      {
+        "id": "26-S-2013",
+        "title": "CREACION DEL PROTOCOLO NACIONAL DE PREVENCION Y DETECCION TEMPRANA DE TRANSTORNOS DE ESPECTRO AUTISTA (TEA). INCORPORACION AL PROGRAMA MEDICO OBLIGATORIO (PMO). INVITACION A LAS PROVINCIAS Y A LA CIUDAD AUTONOMA DE BUENOS AIRES.",
+        "votingId": 50
+      },
+      {
+        "id": "2692-D-2014",
+        "title": "CENTRO DE ATENCION TELEFONICA Y  LINEA 0800 - MALVINAS. CREACION.",
+        "votingId": 50
+      },
+      {
+        "id": "7362-D-2014",
+        "title": "ESTATUTO DEL PERSONAL DOCENTE - LEY 14473 -. MODIFICACIONES DE LOS ARTICULOS 30 Y 33 E INCORPORACION DEL 30 BIS, SOBRE PERMUTAS Y TRASLADOS.",
+        "votingId": 50
+      },
+      {
+        "id": "3960-D-2014",
+        "title": "TRATADO DE MARRAKECH PARA FACILITAR EL ACCESO A LAS OBRAS PUBLICADAS A LAS PERSONAS CIEGAS, CON DISCAPACIDAD VISUAL O CON OTRAS DIFICULTADES PARA ACCEDER AL TEXTO IMPRESO, ADOPTADO POR LA ORGANIZACION MUNDIAL DE LA PROPIEDAD INTELECTUAL POR CONFERENCIA DIPLOMATICA EL 27 DE JUNIO DE 2013: RATIFICACION.",
+        "votingId": 50
+      },
+      {
+        "id": "5110-D-2014",
+        "title": "EMPLAZAR A LA COMISION DE JUICIO POLITICO DE LA H. CAMARA PARA QUE SE REUNA EL DIA 8 DE JULIO DE 2014 A FIN DE TRATAR DIVERSOS EXPEDIENTES RELACIONADOS CON PEDIDO DE JUICIO POLITICO AL VICEPRESIDENTE DE LA NACION, LIC. AMADO BOUDOU.",
+        "votingId": 50
+      },
+      {
+        "id": "9041-D-2014",
+        "title": "EXPRESAR REPUDIO POR LAS AMENAZAS QUE SUFRIO EL PERIODISTA GERMAN DE LOS SANTOS, CORRESPONSAL DEL \"DIARIO LA NACION\", EN LA CIUDAD DE ROSARIO, PROVINCIA DE SANTA FE.",
+        "votingId": 50
+      },
+      {
+        "id": "9065-D-2014",
+        "title": "EXPRESAR REPUDIO POR LAS AMENAZAS QUE RECIBIERA EL DIA 13 DE NOVIEMBRE DE 2014, EL PERIODISTA GERMAN DE LOS SANTOS, DE LA CIUDAD DE ROSARIO, PROVINCIA DE SANTA FE.",
+        "votingId": 50
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 2,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 203,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 53
+  },
+  {
+    "id": 49,
+    "date": "2014-11-19 18:08:08",
+    "title": "Régimen jurídico para la prevención y el control del dopaje en el deporte. Ley 26.912. Modificaciones sobre obligaciones de los atletas y el personal de apoyo, sustancias y métodos prohibidos.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT18_01_R23.pdf",
+    "detailsUrl": "/votacion/49",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "8862-D-2014",
+        "title": "REGIMEN JURIDICO PARA LA PREVENCION Y EL CONTROL DEL DOPAJE EN EL DEPORTE - LEY 26912 -. MODIFICACIONES, SOBRE OBLIGACIONES DE LOS ATLETAS Y EL PERSONAL DE APOYO, SUSTANCIAS Y METODOS PROHIBIDOS.",
+        "votingId": 49
+      }
+    ],
+    "period": 132,
+    "meeting": 23,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 193,
+    "negativeCount": 0,
+    "abstentionCount": 3,
+    "absentCount": 60
+  },
+  {
+    "id": 85,
+    "date": "2014-11-13 06:46:37",
+    "title": "Votación de Proyectos de Resolución.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_22_R22.pdf",
+    "detailsUrl": "/votacion/85",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5-JGM-2011",
+        "title": "COMUNICACION DEL DICTADO DEL DECRETO DE NECESIDAD Y URGENCIA 160/2011 POR EL CUAL SE SUSPENDE DESDE EL 1 DE ENERO AL 31 DE DICIEMBRE DE 2011, LA APLICACION DE LAS DISPOSICIONES DEL DECRETO 814/01 Y SUS MODIFICATORIAS - CONTRIBUCIONES PATRONALES -, RESPECTO DE EMPLEADORES TITULARES DE ESTABLECIMIENTOS EDUCATIVOS DE GESTION PRIVADA INCORPORADOS A LA ENSEÑANZA OFICIAL.",
+        "votingId": 85
+      },
+      {
+        "id": "9-JGM-2011",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 441/2011, POR EL CUAL SE DEROGA EL INCISO F) DEL ARTICULO 76 DE LA LEY 24241 (SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES), SOBRE PARTICIPACION DE LA ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL EN EMPRESAS PRIVADAS.",
+        "votingId": 85
+      },
+      {
+        "id": "10-JGM-2011",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 521/2011 POR EL CUAL SE TRASLADA CON CARACTER EXCEPCIONAL EL FERIADO NACIONAL ESTABLECIDO PARA EL DIA 17 DE AGOSTO DE 2011 AL DIA 22 DE AGOSTO DE 2011.",
+        "votingId": 85
+      },
+      {
+        "id": "4-JGM-2013",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 566/13 POR EL CUAL SE CONSTITUYE LA SOCIEDAD BELGRANO CARGAS Y LOGISTICA SOCIEDAD ANONIMA EN LA ORBITA DEL MINISTERIO DEL INTERIOR Y TRANSPORTE.",
+        "votingId": 85
+      },
+      {
+        "id": "11-JGM-2013",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 1170/13 POR EL CUAL SE MODIFICA EL PRESUPUESTO GENERAL DE LA ADMINISTRACION NACIONAL PARA EL EJERCICIO 2013.",
+        "votingId": 85
+      },
+      {
+        "id": "13-JGM-2013",
+        "title": "COMUNICAR EL DICTADO DEL DECRETO DE NECESIDAD Y URGENCIA 1416/2013, POR EL CUAL LA AGENCIA DE ADMINISTRACION DE BIENES DEL ESTADO (AABE) TRANSFIERE EN CONCEPTOS DE APORTE DE CAPITAL LOS INMUEBLES DESCRIPTOS EN LOS DECRETOS 1722/2012 Y 1723/2012.",
+        "votingId": 85
+      },
+      {
+        "id": "14-JGM-2013",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 1757/2013 POR EL CUAL SE MODIFICA EL PRESUPUESTO GENERAL DE LA ADMINISTRACION NACIONAL PARA EL EJERCICIO 2013.",
+        "votingId": 85
+      },
+      {
+        "id": "12-JGM-2014",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 1246/2014 POR EL CUAL SE MODIFICA EL PRESUPUESTO GENERAL DE LA ADMINISTRACION NACIONAL PARA EL EJERCICIO 2014.",
+        "votingId": 85
+      },
+      {
+        "id": "13-JGM-2014",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 1334 DEL 11 DE AGOSTO DE 2014 POR EL CUAL SE CREA EL FONDO FIDUCIARIO PUBLICO DENOMINADO \"FONDO DE INFRAESTRUCTURA DE SEGURIDAD AEROPORTUARIA\", CUYO OBJETO ES EL DESARROLLO INTEGRAL DE PROYECTOS E INFRAESTRUCTURA DE SEGURIDAD AEROPORTUARIA.",
+        "votingId": 85
+      },
+      {
+        "id": "17-JGM-2014",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 1765/2014 POR EL CUAL SE CREA EL PROGRAMA FEDERAL DE FORTALECIMIENTO OPERATIVO DE LAS AREAS DE SEGURIDAD Y SALUD.",
+        "votingId": 85
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 22,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 114,
+    "negativeCount": 58,
+    "abstentionCount": 0,
+    "absentCount": 84
+  },
+  {
+    "id": 84,
+    "date": "2014-11-13 06:18:02",
+    "title": "Régimen de Contrato de Trabajo. Modificación sobre adecuación de la fecha de pago del sueldo anual complementario.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_21_R22.pdf",
+    "detailsUrl": "/votacion/84",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "85-S-2013",
+        "title": "MODIFICACION DEL ARTICULO 122 DE LA LEY 20744, DE CONTRATO DE TRABAJO - RESPECTO DE ADECUAR LA FECHA DE PAGO DEL SUELDO ANUAL COMPLEMENTARIO.",
+        "votingId": 84
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 21,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 183,
+    "negativeCount": 0,
+    "abstentionCount": 1,
+    "absentCount": 72
+  },
+  {
+    "id": 83,
+    "date": "2014-11-13 06:15:17",
+    "title": "Actividad de los laboratorios de producción pública dedicados a la investigación y producción de medicamentos, materias primas para su producción, vacunas y productos médicos.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_20_R22.pdf",
+    "detailsUrl": "/votacion/83",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "4923-D-2014",
+        "title": "LABORATORIOS PUBLICOS DEDICADOS A LA INVESTIGACION Y PRODUCCION PUBLICA DE MEDICAMENTOS, MATERIAS PRIMAS PARA LA PRODUCCION DE MEDICAMENTOS, VACUNAS Y PRODUCTOS MEDICOS. DECLARESE DE INTERES NACIONAL Y ESTRATEGICO SU ACTIVIDAD.",
+        "votingId": 83
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 20,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 182,
+    "negativeCount": 0,
+    "abstentionCount": 4,
+    "absentCount": 70
+  },
+  {
+    "id": 82,
+    "date": "2014-11-13 05:50:55",
+    "title": "Régimen de prevención del suicidio.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_19_R22.pdf",
+    "detailsUrl": "/votacion/82",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "4975-D-2013",
+        "title": "PREVENCION DEL SUICIDIO: REGIMEN; DECLARAR DE INTERES NACIONAL SU ATENCION MEDICA.",
+        "votingId": 82
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 19,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 187,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 69
+  },
+  {
+    "id": 81,
+    "date": "2014-11-13 05:42:30",
+    "title": "Ley Nacional de Empleo. Modificación sobre percepción del subsidio por desempleo para el trabajador no registrado.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_18_R22.pdf",
+    "detailsUrl": "/votacion/81",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6744-D-2014",
+        "title": "EMPLEO (LEY 24013): INCORPORACION DEL ARTICULO 127 BIS, SOBRE TRABAJADOR NO REGISTRADO.",
+        "votingId": 81
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 18,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 187,
+    "negativeCount": 0,
+    "abstentionCount": 3,
+    "absentCount": 66
+  },
+  {
+    "id": 80,
+    "date": "2014-11-13 05:38:36",
+    "title": "Instituto Nacional de las Artes Gráficas -INAG-.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_17_R22.pdf",
+    "detailsUrl": "/votacion/80",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6438-D-2013",
+        "title": "INSTITUTO NACIONAL DE LAS ARTES GRAFICAS (INAG): CREACION EN EL AMBITO DE LA SECRETARIA DE CULTURA DE LA NACION.",
+        "votingId": 80
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 17,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 194,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 62
+  },
+  {
+    "id": 79,
+    "date": "2014-11-13 05:30:07",
+    "title": "Traslado de los restos mortales del prócer tucumano doctor Bernardo de Monteagudo, del cementerio de la Recoleta en Buenos Aires a la provincia de Tucumán.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_16_R22.pdf",
+    "detailsUrl": "/votacion/79",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6369-D-2013",
+        "title": "DISPONER EL TRASLADO DE LOS RESTOS MORTALES DEL DOCTOR BERNARDO DE MONTEAGUDO, QUE ACTUALMENTE SE HALLAN EN EL CEMENTERIO DE LA RECOLETA, A LA PROVINCIA DE TUCUMAN.",
+        "votingId": 79
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 16,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 197,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 59
+  },
+  {
+    "id": 78,
+    "date": "2014-11-13 05:26:52",
+    "title": "Instituto Nacional de la Yerba Mate.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_15_R22.pdf",
+    "detailsUrl": "/votacion/78",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5908-D-2014",
+        "title": "INSTITUTO NACIONAL DE LA YERBA MATE (LEY 25564): MODIFICACION DEL ARTICULO 4, SOBRE PRECIO DE LA MATERIA PRIMA.",
+        "votingId": 78
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 15,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 181,
+    "negativeCount": 9,
+    "abstentionCount": 3,
+    "absentCount": 63
+  },
+  {
+    "id": 77,
+    "date": "2014-11-13 05:24:04",
+    "title": "Establecimientos necesarios para la instauración de un régimen de envasado en origen de la yerba mate o ilex paraguarienses en la región productora.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_14_R22.pdf",
+    "detailsUrl": "/votacion/77",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "222-S-2012",
+        "title": "LEY SOBRE ENVASADO EN ORIGEN DE LA YERBA MATE. CREACION DEL REGISTRO NACIONAL DE PROMOCION DEL ENVASADO DE ORIGEN.",
+        "votingId": 77
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 14,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 181,
+    "negativeCount": 10,
+    "abstentionCount": 3,
+    "absentCount": 62
+  },
+  {
+    "id": 76,
+    "date": "2014-11-13 04:19:29",
+    "title": "Día Nacional de los Valores Villeros el 07 de Octubre de cada año en homenaje al padre Carlos Mugica en el aniversario de su nacimiento.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_13_R22.pdf",
+    "detailsUrl": "/votacion/76",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "3719-D-2014",
+        "title": "\"DIA NACIONAL DE LOS VALORES VILLEROS\". SE INSTITUYE COMO TAL EL 7 DE OCTUBRE DE CADA AÑO EN HOMENAJE AL PADRE CARLOS MUGICA EN EL ANIVERSARIO DE SU NACIMIENTO.",
+        "votingId": 76
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 13,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 122,
+    "negativeCount": 41,
+    "abstentionCount": 25,
+    "absentCount": 68
+  },
+  {
+    "id": 75,
+    "date": "2014-11-13 03:24:41",
+    "title": "Prohibición en cualquier medio de comunicación de todo aviso, publicación, publicidad y mensaje que fomente la oferta sexual y la trata de personas con fines de explotación sexual.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_12_R22.pdf",
+    "detailsUrl": "/votacion/75",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6943-D-2013",
+        "title": "PROHIBIR EN CUALQUIER MEDIO DE COMUNICACION TODO AVISO, PUBLICACION, PUBLICIDAD Y MENSAJE QUE FOMENTE LA  OFERTA SEXUAL Y LA TRATA DE PERSONAS CON FINES DE EXPLOTACION SEXUAL: REGIMEN.",
+        "votingId": 75
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 12,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 123,
+    "negativeCount": 54,
+    "abstentionCount": 21,
+    "absentCount": 58
+  },
+  {
+    "id": 74,
+    "date": "2014-11-13 02:44:59",
+    "title": "Ley Federal de Trabajo Social.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_11_R22.pdf",
+    "detailsUrl": "/votacion/74",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6994-D-2014",
+        "title": "LEY FEDERAL DE TRABAJO SOCIAL.",
+        "votingId": 74
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 11,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 177,
+    "negativeCount": 3,
+    "abstentionCount": 12,
+    "absentCount": 64
+  },
+  {
+    "id": 73,
+    "date": "2014-11-13 02:17:39",
+    "title": "Votación en General y Particular.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_10_R22.pdf",
+    "detailsUrl": "/votacion/73",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "34-S-2014",
+        "title": "CREACION DE LA UNIVERSIDAD DE LA DEFENSA NACIONAL (UNDEF) CON SEDE CENTRAL EN LA CIUDAD AUTONOMA DE BUENOS AIRES Y AMBITO DE ACTUACION NACIONAL.",
+        "votingId": 73
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 10,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 112,
+    "negativeCount": 74,
+    "abstentionCount": 0,
+    "absentCount": 70
+  },
+  {
+    "id": 72,
+    "date": "2014-11-13 01:04:25",
+    "title": "Indemnización a favor de ex agentes de  Yacimientos Petrolíferos Fiscales S.A. que no hayan sido incluídos en el programa de propiedad participada.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_09_R22.pdf",
+    "detailsUrl": "/votacion/72",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "4959-D-2013",
+        "title": "RECONOCIMIENTO DE UNA COMPENSACION ECONOMICA A FAVOR DE LOS EX AGENTES DE YACIMIENTOS PETROLIFEROS FISCALES S.A. (YPF) QUE NO ADHIRIERON AL PROGRAMA DE PROPIEDAD PARTICIPADA.",
+        "votingId": 72
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 9,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 217,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 39
+  },
+  {
+    "id": 71,
+    "date": "2014-11-12 22:06:27",
+    "title": "Alcances, derechos y relaciones jurídicas derivadas del empleo de las Técnicas de Reproducción Humana Asistida (TRHA) y la protección del Embrión no implantado.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_08_R22.pdf",
+    "detailsUrl": "/votacion/71",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "581-D-2014",
+        "title": "FERTILIZACION HUMANA ASISTIDA: REGIMEN.",
+        "votingId": 71
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 8,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 152,
+    "negativeCount": 51,
+    "abstentionCount": 20,
+    "absentCount": 33
+  },
+  {
+    "id": 70,
+    "date": "2014-11-12 21:59:29",
+    "title": "Alcances, derechos y relaciones jurídicas derivadas del empleo de las Técnicas de Reproducción Humana Asistida (TRHA) y la protección del Embrión no implantado.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_07_R22.pdf",
+    "detailsUrl": "/votacion/70",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "581-D-2014",
+        "title": "FERTILIZACION HUMANA ASISTIDA: REGIMEN.",
+        "votingId": 70
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 7,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 177,
+    "negativeCount": 37,
+    "abstentionCount": 8,
+    "absentCount": 34
+  },
+  {
+    "id": 69,
+    "date": "2014-11-12 21:56:58",
+    "title": "Alcances, derechos y relaciones jurídicas derivadas del empleo de las Técnicas de Reproducción Humana Asistida (TRHA) y la protección del Embrión no implantado.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_06_R22.pdf",
+    "detailsUrl": "/votacion/69",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "581-D-2014",
+        "title": "FERTILIZACION HUMANA ASISTIDA: REGIMEN.",
+        "votingId": 69
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 6,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 150,
+    "negativeCount": 54,
+    "abstentionCount": 19,
+    "absentCount": 33
+  },
+  {
+    "id": 68,
+    "date": "2014-11-12 21:43:36",
+    "title": "Alcances, derechos y relaciones jurídicas derivadas del empleo de las Técnicas de Reproducción Humana Asistida (TRHA) y la protección del Embrión no implantado.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_05_R22.pdf",
+    "detailsUrl": "/votacion/68",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "581-D-2014",
+        "title": "FERTILIZACION HUMANA ASISTIDA: REGIMEN.",
+        "votingId": 68
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 5,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 184,
+    "negativeCount": 34,
+    "abstentionCount": 8,
+    "absentCount": 30
+  },
+  {
+    "id": 67,
+    "date": "2014-11-12 21:31:08",
+    "title": "Alcances, derechos y relaciones jurídicas derivadas del empleo de las Técnicas de Reproducción Humana Asistida (TRHA) y la protección del Embrión no implantado.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_04_R22.pdf",
+    "detailsUrl": "/votacion/67",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "581-D-2014",
+        "title": "FERTILIZACION HUMANA ASISTIDA: REGIMEN.",
+        "votingId": 67
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 4,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 205,
+    "negativeCount": 11,
+    "abstentionCount": 6,
+    "absentCount": 34
+  },
+  {
+    "id": 66,
+    "date": "2014-11-12 18:16:11",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_03_R22.pdf",
+    "detailsUrl": "/votacion/66",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6-PE-2014",
+        "title": "TRANSFORMACION DE LOS JUZGADOS NACIONALES EN LO PENAL TRIBUTARIO A JUZGADOS DE INSTRUCCION EN LO PENAL ECONOMICO.",
+        "votingId": 66
+      },
+      {
+        "id": "75-S-2014",
+        "title": "APROBACION DEL CONVENIO CON LA CONFEDERACION SUIZA PARA EVITAR LA DOBLE IMPOSICION EN MATERIA DE IMPUESTOS SOBRE EL PATRIMONIO, SUSCRIPTO EN LA CIUDAD DE BERNA, CONFEDERACION SUIZA, EL 20 DE MARZO DE 2014.",
+        "votingId": 66
+      },
+      {
+        "id": "5571-D-2013",
+        "title": "EDUCACION SUPERIOR (LEY 24521: INCORPORACION DEL ARTICULO 12 BIS SOBRE PROHIBICION PARA OCUPAR CARGO O DESEMPEÑARSE COMO AUTORIDAD EN INSTITUCIONES DE EDUCACION SUPERIOR CUANDO LA PERSONA HAYA SIDO O SEA CONDENADA POR DELITOS DE LESA HUMANIDAD, INCURRAN EN ACTOS DE FUERZA CONTRA EL ORDEN CONSTITUCIONAL O SISTEMA DEMOCRATICO Y POR DELITOS CONTRA LA INTEGRIDAD SEXUAL.",
+        "votingId": 66
+      },
+      {
+        "id": "2494-D-2014",
+        "title": "AGRICULTURA FAMILIAR: REGIMEN.",
+        "votingId": 66
+      },
+      {
+        "id": "56-S-2012",
+        "title": "APROBACION DEL CONVENIO INTERNACIONAL PARA EL CONTROL Y LA GESTION DEL AGUA DE LASTRE Y LOS SEDIMENTOS DE LOS BUQUES, CELEBRADO EN LONDRES, REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE, EL 13 DE FEBRERO DE 2004.",
+        "votingId": 66
+      },
+      {
+        "id": "149-S-2007",
+        "title": "APROBACION DEL CONVENIO ENTRE LA REPUBLICA ARGENTINA Y LA GRAN YAMAHIRIA ARABE LIBIA POPULAR SOCIALISTA EN EL AREA DE SANIDAD ANIMAL, SUSCRIPTO EN BUENOS AIRES, EL 16 DE MARZO DE 2007.",
+        "votingId": 66
+      },
+      {
+        "id": "809-D-2013",
+        "title": "INSTITUIR EL 4 DE MAYO DE CADA AÑO COMO: \"DIA NACIONAL DEL TECNICO PARA BIOTERIOS\".",
+        "votingId": 66
+      },
+      {
+        "id": "5229-D-2013",
+        "title": "DIFUSION DEL CINE NACIONAL EN TRANSPORTE AUTOMOTOR DE PASAJEROS DE LARGA DISTANCIA.",
+        "votingId": 66
+      },
+      {
+        "id": "5230-D-2013",
+        "title": "TRANSITO (LEY 24449):  MODIFICACION DEL ARTICULO 30, SOBRE INCORPORACION DE FABRICA EN VEHICULOS DE BALIZA Y MATAFUEGO.",
+        "votingId": 66
+      },
+      {
+        "id": "3901-D-2014",
+        "title": "DECLARAR FIESTA NACIONAL A LA \"FIESTA DEL POMELO\" QUE SE REALIZA EL PRIMER FIN DE SEMANA DEL RECESO ESCOLAR DE JULIO DE CADA AÑO EN LA LOCALIDAD DE LAGUNA BLANCA, PROVINCIA DE FORMOSA.",
+        "votingId": 66
+      },
+      {
+        "id": "851-D-2014",
+        "title": "TORRE TALERO, UBICADA EN LA CIUDAD CAPITAL DE LA PROVINCIA DEL NEUQUEN: SE LA DECLARA MONUMENTO HISTORICO NACIONAL.",
+        "votingId": 66
+      },
+      {
+        "id": "5395-D-2014",
+        "title": "PESQUISA NEONATAL - LEY 26279: MODIFICACION DEL ARTICULO 1, SOBRE INCORPORACION DE DIVERSOS ESTUDIOS EN LOS RECIEN NACIDOS.",
+        "votingId": 66
+      },
+      {
+        "id": "455-D-2014",
+        "title": "DON ANDRES GUACURARI, CONOCIDO COMO COMANDANTE ANDRESITO O ANDRESITO ARTIGAS: SE DECLARA HEROE NACIONAL COMO TRIBUTO Y REPARACION HISTORICA POR SU CONTRIBUCION A LA EPOPEYA DE LA EMANCIPACION DEL CONTINENTE AMERICANO.",
+        "votingId": 66
+      },
+      {
+        "id": "2180-D-2013",
+        "title": "LEY 26206, DE EDUCACION NACIONAL: MODIFICACION DE LOS ARTICULOS 30 Y 32, SOBRE CREACION DE ESPACIOS DESTINADOS A POSIBILITAR EL DESARROLLO DE ACTIVIDADES DEL EJERCICIO DE LA CIUDADANIA.",
+        "votingId": 66
+      },
+      {
+        "id": "2077-D-2014",
+        "title": "CONCURSOS Y QUIEBRAS (LEY 24522): MODIFICACIONES, SOBRE SOLICITUD DE VERIFICACION DE CREDITOS Y MECANISMO DE ACTUALIZACION.",
+        "votingId": 66
+      },
+      {
+        "id": "4779-D-2014",
+        "title": "\"CAPITAL NACIONAL DE LOS CIRCUITOS TERMALES\". SE DECLARA COMO TAL A LA PROVINCIA DE ENTRE RIOS.",
+        "votingId": 66
+      },
+      {
+        "id": "1797-D-2013",
+        "title": "LICENCIA ESPECIAL DEPORTIVA, LEY 20596: MODIFICACIONES SOBRE REQUISITOS PARA EL USUFRUCTO DEL BENEFICIO.",
+        "votingId": 66
+      },
+      {
+        "id": "2085-D-2014",
+        "title": "\"CAPITAL NACIONAL DEL TERMALISMO\": SE DECLARA COMO TAL A LA CIUDAD DE TERMAS DE RIO HONDO, PROVINCIA DE SANTIAGO DEL ESTERO.",
+        "votingId": 66
+      },
+      {
+        "id": "128-S-2012",
+        "title": "MODIFICACION DE LA LEY 12665 (CREACION DE LA COMISION NACIONAL DE MONUMENTOS, DE LUGARES Y DE BIENES HISTORICOS) .",
+        "votingId": 66
+      },
+      {
+        "id": "21-S-2014",
+        "title": "APROBACION DEL ACUERDO DE SEDE ENTRE EL GOBIERNO DE LA REPUBLICA ARGENTINA Y LA COMISION BINACIONAL PARA EL APROVECHAMIENTO DE LA ALTA CUENCA DEL RIO BERMEJO Y DEL RIO GRANDE DE TARIJA, SUSCRIPTO EN LA PAZ, ESTADO PLURINACIONAL DE BOLIVIA, EL 14/09/2009.",
+        "votingId": 66
+      },
+      {
+        "id": "7010-D-2013",
+        "title": "BIBLIOTECAS PARA PERSONAS NO VIDENTES O CON DISMINUCION VISUAL: IMPLEMENTACION.",
+        "votingId": 66
+      },
+      {
+        "id": "4888-D-2013",
+        "title": "LEY 20337, DE COOPERATIVAS: MODIFICACION DEL ARTICULO 64, SOBRE IMPEDIMENTOS PARA SER CONSEJEROS.",
+        "votingId": 66
+      },
+      {
+        "id": "5443-D-2014",
+        "title": "PROGRAMA NACIONAL DE INVESTIGACION E INNOVACION PRODUCTIVA EN AREAS MARITIMAS ARGENTINAS, DENOMINADO \"PAMPA AZUL\".  CREACION EN EL AMBITO DEL MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION PRODUCTIVA DE LA NACION.",
+        "votingId": 66
+      },
+      {
+        "id": "7163-D-2013",
+        "title": "DECLARAR DE INTERES NACIONAL LA PROMOCION, FOMENTO, DESARROLLO DE LA PRODUCCION, COMERCIALIZACION E INVESTIGACION DE LA STEVIA (STEVIA REBAUDIANA BERTONI).",
+        "votingId": 66
+      },
+      {
+        "id": "84-S-2014",
+        "title": "DENOMINAR \"PRESIDENTE DOCTOR RAUL RICARDO ALFONSIN\" AL EDIFICIO PERTENECIENTE A LA AUDITORIA GENERAL DE LA NACION, SITUADO EN LA CIUDAD AUTONOMA DE BUENOS AIRES.",
+        "votingId": 66
+      },
+      {
+        "id": "5904-D-2014",
+        "title": "DEROGASE LA DECLARACION DE \"SUJETAS A PRIVATIZACION\" EFECTUADA POR LA LEY 24045 DE LA FABRICA MILITAR DE POLVORAS Y EXPLOSIVOS \"AZUL\"; LA FABRICA MILITAR \"FRAY LUIS BELTRAN\"; LA FABRICA MILITAR \"RIO TERCERO\" Y LA FABRICA MILITAR DE POLVORAS Y EXPLOSIVOS \"VILLA MARIA\", PROVINCIA DE CORDOBA.",
+        "votingId": 66
+      },
+      {
+        "id": "6021-D-2014",
+        "title": "DEROGASE LA DECLARACION DE \"SUJETAS A PRIVATIZACION\" EFECTUADA POR LA LEY 24045 DE LA FABRICA MILITAR DE POLVORAS Y EXPLOSIVOS \"AZUL\"; LA FABRICA MILITAR \"FRAY LUIS BELTRAN\"; LA FABRICA MILITAR \"RIO TERCERO\" Y LA FABRICA MILITAR DE POLVORAS Y EXPLOSIVOS \"VILLA MARIA\" ENTIDADES QUE CONFORMAN LA DIRECCION GENERAL DE FABRICACIONES MILITARES DEPENDIENTES DEL MINISTERIO DE DEFENSA DE LA NACION.",
+        "votingId": 66
+      },
+      {
+        "id": "1686-D-2013",
+        "title": "RECONOCIMIENTO DE FERIADOS A LAS COMUNIDADES INDIGENAS.",
+        "votingId": 66
+      },
+      {
+        "id": "2586-D-2014",
+        "title": "RESERVA GEOLOGICA PALEONTOLOGICA Y ARQUEOLOGICA PROVINCIAL \" PEHUEN CO-MONTE HERMOSO \", UBICADA EN LOS MUNICIPIOS DE CORONEL DE MARINA LEONARDO ROSALES Y MONTE HERMOSO, PROVINCIA DE BUENOS AIRES: DECLARACION COMO LUGAR HISTORIO NACIONAL.",
+        "votingId": 66
+      },
+      {
+        "id": "7682-D-2013",
+        "title": "CREACION DEL PROGRAMA NACIONAL PARA LA ATENCION Y EL TRATAMIENTO INTEGRAL DEL PACIENTE OSTOMIZADO.",
+        "votingId": 66
+      },
+      {
+        "id": "8941-D-2014",
+        "title": "EXPRESAR REPUDIO POR LA DESAPARICION Y POSTERIOR ASESINATO DE CUARENTA Y TRES ESTUDIANTES DE LA ESCUELA NORMAL RURAL DE AYOTZINAPA, EL 26 DE SEPTIEMBRE DE 2014 EN LOS ESTADOS UNIDOS MEXICANOS.",
+        "votingId": 66
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 3,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 227,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 29
+  },
+  {
+    "id": 65,
+    "date": "2014-11-12 17:54:16",
+    "title": "- Votación en General y Particular.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE17_02_R22.pdf",
+    "detailsUrl": "/votacion/65",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "224-S-2012",
+        "title": "DECLARAR DE UTILIDAD PUBLICA, Y SUJETO A EXPROPIACION, POR SU VALOR HISTORICO Y CULTURAL EL INMUEBLE DE LA CONFITERIA DEL MOLINO, UBICADO EN AVENIDA RIVADAVIA 1801/07/15 ESQUINA AVENIDA CALLAO 10/20/28/30/32 DE LA CIUDAD AUTONOMA DE BUENOS AIRES (REPRODUCCION DEL EXPEDIENTE 2292-S-10).",
+        "votingId": 65
+      }
+    ],
+    "period": 132,
+    "meeting": 22,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 217,
+    "negativeCount": 0,
+    "abstentionCount": 1,
+    "absentCount": 38
+  },
+  {
+    "id": 87,
+    "date": "2014-10-30 05:22:04",
+    "title": "Ley de Hidrocarburos",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE15_02_R20.pdf",
+    "detailsUrl": "/votacion/87",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "73-S-2014",
+        "title": "MODIFICACION DE LA LEY 17319 Y SUS MODIFICATORIAS (LEY DE HIDROCARBUROS): REGIMEN DE PROMOCION DE INVERSION PARA LA EXPLOTACION DE HIDROCARBUROS.",
+        "votingId": 87
+      }
+    ],
+    "period": 132,
+    "meeting": 20,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 130,
+    "negativeCount": 116,
+    "abstentionCount": 1,
+    "absentCount": 9
+  },
+  {
+    "id": 86,
+    "date": "2014-10-29 16:35:16",
+    "title": "Autorización a la Señora Presidenta de la Nación para ausentarse del País durante el año 2015.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE15_01_R20.pdf",
+    "detailsUrl": "/votacion/86",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7-PE-2014",
+        "title": "AUTORIZACION A LA SEÑORA PRESIDENTA DE LA NACION PARA AUSENTARSE DEL PAIS DURANTE EL AÑO 2015,  CUANDO RAZONES DE GOBIERNO ASI LO REQUIERAN.",
+        "votingId": 86
+      }
+    ],
+    "period": 132,
+    "meeting": 20,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 205,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 51
+  },
+  {
+    "id": 99,
+    "date": "2014-10-23 03:07:08",
+    "title": "Convención Interamericana para prevenir, sancionar y erradicar la violencia contra la mujer.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_12_R19.pdf",
+    "detailsUrl": "/votacion/99",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "4907-D-2014",
+        "title": "CONVENCION INTERAMERICANA PARA PREVENIR, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LA MUJER - CONVENCION DE BELEM DO PARA - DE LA \"ORGANIZACION DE ESTADOS AMERICANOS\", APROBADO POR LEY 24632. OTORGASE JERARQUIA CONSTITUCIONAL.",
+        "votingId": 99
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 12,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 218,
+    "negativeCount": 0,
+    "abstentionCount": 3,
+    "absentCount": 35
+  },
+  {
+    "id": 98,
+    "date": "2014-10-23 03:02:12",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_11_R19.pdf",
+    "detailsUrl": "/votacion/98",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "35-S-2014",
+        "title": "ACEPTACION DE LA CESION DE JURISDICCION EFECTUADA POR LA PROVINCIA DEL CHACO AL ESTADO NACIONAL MEDIANTE LA LEY PROVINCIAL 7317/13, SOBRE TIERRAS IDENTIFICADAS EN DICHA NORMA UBICADAS EN LA MENCIONADA PROVINCIA.",
+        "votingId": 98
+      },
+      {
+        "id": "2288-D-2013",
+        "title": "DESIGNAR CON EL NOMBRE \"GENERAL ANDRES GUACURARI Y ARTIGAS\" A LA RUTA NACIONAL 101, EN LA PROVINCIA DE MISIONES.",
+        "votingId": 98
+      },
+      {
+        "id": "39-S-2013",
+        "title": "APROBACION DEL CONVENIO DE RECONOCIMIENTO MUTUO DE TITULOS, DIPLOMAS Y GRADOS ACADEMICOS DE EDUCACION SUPERIOR CON LA REPUBLICA DEL ECUADOR, CELEBRADO EN LA CIUDAD DE BUENOS AIRES, REPUBLICA ARGENTINA EL 4 DE DICIEMBRE DE 2012.",
+        "votingId": 98
+      },
+      {
+        "id": "9-S-2012",
+        "title": "APROBACION DEL ACUERDO DE SEDE CON LA COMISION TRINACIONAL PARA EL DESARROLLO DE LA CUENCA DEL RIO PILCOMAYO, Y SU PROTOCOLO MODIFICATORIO, SUSCRIPTO EN BUENOS AIRES, EL 12 DE JUNIO DE 2008, Y EN SANTA CRUZ DE LA SIERRA, ESTADO PLURINACIONAL DE BOLIVIA, EL 14 DE DICIEMBRE DE 2009.",
+        "votingId": 98
+      },
+      {
+        "id": "31-S-2014",
+        "title": "DECLARAR A LA CIUDAD DE NEUQUEN \"CAPITAL NACIONAL DEL SENDERISMO URBANO\".",
+        "votingId": 98
+      },
+      {
+        "id": "6095-D-2014",
+        "title": "DENOMINAR \"EZEQUIEL DEMONTY\" AL PUENTE NACIONAL QUE UNE LAS LOCALIDADES DE LANUS, PROVINCIA DE BUENOS AIRES, Y POMPEYA, CIUDAD AUTONOMA DE BUENOS AIRES (ACTUALMENTE JOSE FELIX URIBURU).",
+        "votingId": 98
+      },
+      {
+        "id": "1246-D-2012",
+        "title": "INSTITUIR EL 16 DE SEPTIEMBRE DE CADA AÑO, EN CONMEMORACION DE LA DENOMINADA \"NOCHE DE LOS LAPICES\", COMO 'DIA NACIONAL DE LA JUVENTUD\".",
+        "votingId": 98
+      },
+      {
+        "id": "35-S-2012",
+        "title": "APROBACION DEL CONVENIO DE RECONOCIMIENTO MUTUO DE TITULOS DE EDUCACION SUPERIOR CON EL GOBIERNO DE UCRANIA, CELEBRADO EN BUENOS AIRES, EL 20 DE ABRIL DE 2011.",
+        "votingId": 98
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 11,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 226,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 30
+  },
+  {
+    "id": 97,
+    "date": "2014-10-23 02:46:31",
+    "title": "Universidad Nacional de los Comechingones",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_10_R19.pdf",
+    "detailsUrl": "/votacion/97",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "33-S-2014",
+        "title": "CREACION DE LA UNIVERSIDAD NACIONAL DE LOS COMECHINGONES EN LA CIUDAD DE VILLA DE MERLO, PROVINCIA DE SAN LUIS.",
+        "votingId": 97
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 10,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 155,
+    "negativeCount": 0,
+    "abstentionCount": 72,
+    "absentCount": 29
+  },
+  {
+    "id": 96,
+    "date": "2014-10-23 02:44:45",
+    "title": "Universidad Nacional Guillermo Brown, con sede central en el partido de Almirante Brown, provincia de Buenos Aires.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_09_R19.pdf",
+    "detailsUrl": "/votacion/96",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5141-D-2013",
+        "title": "UNIVERSIDAD NACIONAL GUILLERMO BROWN, CON SEDE EN EL PARTIDO DE ALMIRANTE BROWN, PROVINCIA DE BUENOS AIRES. CREACION.",
+        "votingId": 96
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 9,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 174,
+    "negativeCount": 0,
+    "abstentionCount": 53,
+    "absentCount": 29
+  },
+  {
+    "id": 95,
+    "date": "2014-10-23 02:43:44",
+    "title": "Universidad Pedagógica Nacional.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_08_R19.pdf",
+    "detailsUrl": "/votacion/95",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "834-D-2013",
+        "title": "CREACION DE LA UNIVERSIDAD PEDAGOGICA NACIONAL.",
+        "votingId": 95
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 8,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 227,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 29
+  },
+  {
+    "id": 94,
+    "date": "2014-10-23 02:42:22",
+    "title": "Universidad Nacional de Ezeiza.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_07_R19.pdf",
+    "detailsUrl": "/votacion/94",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "178-D-2013",
+        "title": "CREACION DE LA UNIVERSIDAD NACIONAL DE EZEIZA (REPRODUCCION DEL EXPEDIENTE 5182-D-11).",
+        "votingId": 94
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 7,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 175,
+    "negativeCount": 0,
+    "abstentionCount": 52,
+    "absentCount": 29
+  },
+  {
+    "id": 93,
+    "date": "2014-10-23 02:36:56",
+    "title": "Universidad Nacional del Alto Uruguay –UNAU- con sede central en la ciudad de San Vicente, provincia de Misiones.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_06_R19.pdf",
+    "detailsUrl": "/votacion/93",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "75-D-2013",
+        "title": "CREACION DE LA UNIVERSIDAD NACIONAL DEL ALTO URUGUAY (UNAU) CON SEDE EN LA CIUDAD DE SAN VICENTE, PROVINCIA DE MISIONES.",
+        "votingId": 93
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 6,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 180,
+    "negativeCount": 0,
+    "abstentionCount": 47,
+    "absentCount": 29
+  },
+  {
+    "id": 92,
+    "date": "2014-10-23 02:31:58",
+    "title": "Universidad Nacional Raúl Scalabrini Ortíz, con sede central en la Ciudad de San Isidro, provincia de Buenos Aires.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_05_R19.pdf",
+    "detailsUrl": "/votacion/92",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5588-D-2013",
+        "title": "CREACION DE LA UNIVERSIDAD NACIONAL RAUL SCALABRINI ORTIZ CON SEDE EN LA CIUDAD DE SAN ISIDRO, PROVINCIA DE BUENOS AIRES.",
+        "votingId": 92
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 5,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 157,
+    "negativeCount": 0,
+    "abstentionCount": 68,
+    "absentCount": 31
+  },
+  {
+    "id": 91,
+    "date": "2014-10-23 02:25:51",
+    "title": "Universidad Nacional de Rafaela, con sede central en Rafaela, provincia de Santa Fé.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_04_R19.pdf",
+    "detailsUrl": "/votacion/91",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2205-D-2013",
+        "title": "UNIVERSIDAD NACIONAL DE RAFAELA, PROVINCIA DE SANTA FE: CREACION.",
+        "votingId": 91
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 4,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 223,
+    "negativeCount": 0,
+    "abstentionCount": 3,
+    "absentCount": 30
+  },
+  {
+    "id": 90,
+    "date": "2014-10-23 02:23:29",
+    "title": "Instituto Universitario Nacional del Arte IUNA",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_03_R19.pdf",
+    "detailsUrl": "/votacion/90",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "32-S-2014",
+        "title": "TRANSFORMACION DEL INSTITUTO UNIVERSITARIO NACIONAL DEL ARTE (IUNA), CREADO POR DECRETO 1404/96 EN UNIVERSIDAD NACIONAL DE LAS ARTES (UNA).",
+        "votingId": 90
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 3,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 226,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 30
+  },
+  {
+    "id": 89,
+    "date": "2014-10-22 23:15:20",
+    "title": "Instituto Universitario Nacional de Derechos Humanos",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_02_R19.pdf",
+    "detailsUrl": "/votacion/89",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "38-S-2014",
+        "title": "CREACION DEL INSTITUTO UNIVERSITARIO NACIONAL DE DERECHOS HUMANOS 'MADRES DE PLAZA DE MAYO' COMO UNIDAD FUNCIONAL DEPENDIENTE DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS, SOBRE LA BASE DE LA ACTUAL UNIVERSIDAD POPULAR MADRES DE PLAZA DE MAYO EN LOS TERMINOS DEL CONVENIO CELEBRADO ENTRE EL PODER EJECUTIVO NACIONAL, LA FUNDACION MADRES DE PLAZA DE MAYO Y LA UNIVERSIDAD POPULAR MADRES DE PLAZA DE MAYO.",
+        "votingId": 89
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 2,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 132,
+    "negativeCount": 88,
+    "abstentionCount": 5,
+    "absentCount": 31
+  },
+  {
+    "id": 88,
+    "date": "2014-10-22 19:09:17",
+    "title": "Educación inicial obligatoria para niños de cuatro años en el sistema educativo nacional.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE14_01_R19.pdf",
+    "detailsUrl": "/votacion/88",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5-PE-2014",
+        "title": "REGIMEN POR EL CUAL SE DECLARA OBLIGATORIA LA EDUCACION INICIAL PARA NIÑOS DE CUATRO (4) AÑOS EN EL SISTEMA EDUCATIVO NACIONAL; MODIFICACION DE LA LEY 26206 DE EDUCACION NACIONAL.",
+        "votingId": 88
+      }
+    ],
+    "period": 132,
+    "meeting": 19,
+    "record": 1,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 236,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 20
+  },
+  {
+    "id": 101,
+    "date": "2014-10-09 05:28:23",
+    "title": "Expediente 15-JGM-14 - Orden del Día 863. Proyecto de Ley de Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 2015. Dictamen de Mayoría.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE13_02_R18.pdf",
+    "detailsUrl": "/votacion/101",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "15-JGM-2014",
+        "title": "Proyecto de Ley de Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 2015",
+        "votingId": 101
+      }
+    ],
+    "period": 132,
+    "meeting": 18,
+    "record": 2,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 132,
+    "negativeCount": 68,
+    "abstentionCount": 0,
+    "absentCount": 56
+  },
+  {
+    "id": 100,
+    "date": "2014-10-09 04:59:32",
+    "title": "Expediente 15-JGM-14 - Orden del Día 863. Proyecto de Ley de Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 2015. Dictamen de Mayoría.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE13_01_R18.pdf",
+    "detailsUrl": "/votacion/100",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "15-JGM-2014",
+        "title": "Proyecto de Ley de Presupuesto General de la Administración Nacional para el Ejercicio Fiscal del año 2015. Dictamen de Mayoría.",
+        "votingId": 100
+      }
+    ],
+    "period": 132,
+    "meeting": 18,
+    "record": 1,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 133,
+    "negativeCount": 112,
+    "abstentionCount": 0,
+    "absentCount": 11
+  },
+  {
+    "id": 102,
+    "date": "2014-10-01 22:36:21",
+    "title": "Código Civil y Comercial de la Nación.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE12_01_R17.pdf",
+    "detailsUrl": "/votacion/102",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "102-S-2013",
+        "title": "NUEVO CODIGO CIVIL Y COMERCIAL DE LA NACION; DEROGACION DE LA LEY 340.",
+        "votingId": 102
+      }
+    ],
+    "period": 132,
+    "meeting": 17,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 134,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 122
+  },
+  {
+    "id": 106,
+    "date": "2014-09-18 05:20:15",
+    "title": "Creación sistema de resolución de conflictos en las relaciones de consumo.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE11_04_R16.pdf",
+    "detailsUrl": "/votacion/106",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "62-S-2014",
+        "title": "SISTEMA DE RESOLUCION DE CONFLICTOS EN LAS RELACIONES DE CONSUMO.",
+        "votingId": 106
+      }
+    ],
+    "period": 132,
+    "meeting": 16,
+    "record": 4,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 203,
+    "negativeCount": 35,
+    "abstentionCount": 0,
+    "absentCount": 18
+  },
+  {
+    "id": 105,
+    "date": "2014-09-18 05:07:55",
+    "title": "Creación observatorio de precios y disponibilidad de insumos, bienes y servicios.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE11_03_R16.pdf",
+    "detailsUrl": "/votacion/105",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "57-S-2014",
+        "title": "CREACION DEL OBSERVATORIO DE PRECIOS Y DISPONIBILIDAD DE INSUMOS, BIENES Y SERVICIOS.",
+        "votingId": 105
+      }
+    ],
+    "period": 132,
+    "meeting": 16,
+    "record": 3,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 136,
+    "negativeCount": 104,
+    "abstentionCount": 0,
+    "absentCount": 16
+  },
+  {
+    "id": 104,
+    "date": "2014-09-18 05:05:28",
+    "title": "Creación de nueva regulación de las relaciones de consumo.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE11_02_R16.pdf",
+    "detailsUrl": "/votacion/104",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "60-S-2014",
+        "title": "NUEVA REGULACION DE LAS RELACIONES DE PRODUCCION Y CONSUMO. MODIFICACION DE LA LEY 20680 DE ABASTECIMIENTO Y REPRESION DEL AGIO.",
+        "votingId": 104
+      }
+    ],
+    "period": 132,
+    "meeting": 16,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 130,
+    "negativeCount": 105,
+    "abstentionCount": 5,
+    "absentCount": 16
+  },
+  {
+    "id": 103,
+    "date": "2014-09-17 15:38:10",
+    "title": "Fondo Fiduciario para el Desarrollo de la Cuenca del Plata",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE11_01_R16.pdf",
+    "detailsUrl": "/votacion/103",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "44-S-2014",
+        "title": "APROBACION DEL AUMENTO DE LOS RECURSOS DE CAPITAL DEL FONDO FINANCIERO PARA EL DESARROLLO DE LA CUENCA DEL PLATA (FONPLATA), DE CONFORMIDAD CON LA \"RESOLUCION A.G. 138/13\" DE LA ASAMBLEA DE GOBERNADORES DEL MENCIONADO FONDO Y DE LAS MODIFICACIONES AL CONVENIO CONSTITUTIVO.",
+        "votingId": 103
+      }
+    ],
+    "period": 132,
+    "meeting": 16,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 211,
+    "negativeCount": 3,
+    "abstentionCount": 0,
+    "absentCount": 42
+  },
+  {
+    "id": 110,
+    "date": "2014-09-11 08:45:59",
+    "title": "Reestructuración de la Deuda Soberana realizada en los años 2005 y 2010",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE10_04_R15.pdf",
+    "detailsUrl": "/votacion/110",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "56-S-2014",
+        "title": "DECLARAR DE INTERES PUBLICO LA REESTRUCTURACION DE LA DEUDA 2005-2010 Y EL PAGO SOBERANO LOCAL QUE COMPRENDA AL CIEN POR CIENTO DE LOS TENEDORES DE TITULOS PUBLICOS DE LA REPUBLICA ARGENTINA, EN CONDICIONES JUSTAS EQUITATIVAS, LEGALES Y SUSTENTABLES.",
+        "votingId": 110
+      }
+    ],
+    "period": 132,
+    "meeting": 15,
+    "record": 4,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 134,
+    "negativeCount": 95,
+    "abstentionCount": 6,
+    "absentCount": 21
+  },
+  {
+    "id": 109,
+    "date": "2014-09-11 08:40:25",
+    "title": "Reestructuración de la Deuda Soberana realizada en los años 2005 y 2010",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE10_03_R15.pdf",
+    "detailsUrl": "/votacion/109",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "56-S-2014",
+        "title": "DECLARAR DE INTERES PUBLICO LA REESTRUCTURACION DE LA DEUDA 2005-2010 Y EL PAGO SOBERANO LOCAL QUE COMPRENDA AL CIEN POR CIENTO DE LOS TENEDORES DE TITULOS PUBLICOS DE LA REPUBLICA ARGENTINA, EN CONDICIONES JUSTAS EQUITATIVAS, LEGALES Y SUSTENTABLES.",
+        "votingId": 109
+      }
+    ],
+    "period": 132,
+    "meeting": 15,
+    "record": 3,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 133,
+    "negativeCount": 101,
+    "abstentionCount": 1,
+    "absentCount": 21
+  },
+  {
+    "id": 108,
+    "date": "2014-09-11 08:35:32",
+    "title": "Reestructuración de la Deuda Soberana realizada en los años 2005 y 2010",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE10_02_R15.pdf",
+    "detailsUrl": "/votacion/108",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "56-S-2014",
+        "title": "DECLARAR DE INTERES PUBLICO LA REESTRUCTURACION DE LA DEUDA 2005-2010 Y EL PAGO SOBERANO LOCAL QUE COMPRENDA AL CIEN POR CIENTO DE LOS TENEDORES DE TITULOS PUBLICOS DE LA REPUBLICA ARGENTINA, EN CONDICIONES JUSTAS EQUITATIVAS, LEGALES Y SUSTENTABLES.",
+        "votingId": 108
+      }
+    ],
+    "period": 132,
+    "meeting": 15,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 134,
+    "negativeCount": 99,
+    "abstentionCount": 5,
+    "absentCount": 18
+  },
+  {
+    "id": 107,
+    "date": "2014-09-10 17:04:48",
+    "title": "Participar en la Misión de Estabilización de las Naciones Unidas en Haití - MINUSTAH.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE10_01_R15.pdf",
+    "detailsUrl": "/votacion/107",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "55-S-2014",
+        "title": "RENOVAR LA AUTORIZACION DE SALIDA DEL TERRITORIO NACIONAL DE MEDIOS Y PERSONAL DE FUERZAS NACIONALES PARA QUE CONTINUEN PARTICIPANDO EN LA MISION DE ESTABILIZACION DE LAS NACIONES UNIDAS EN HAITI (MIINUSTAH).",
+        "votingId": 107
+      }
+    ],
+    "period": 132,
+    "meeting": 15,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 164,
+    "negativeCount": 57,
+    "abstentionCount": 0,
+    "absentCount": 35
+  },
+  {
+    "id": 117,
+    "date": "2014-08-28 00:32:22",
+    "title": "Votación de Declaraciones de Validez.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT08_07_R13.pdf",
+    "detailsUrl": "/votacion/117",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "4-JGM-2014",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 351/2014 DEL 21 DE MARZO DE 2014, POR EL CUAL SE SUSPENDE DEL 1 DE ENERO DE 2014 HASTA EL 31 DE DICIEMBRE DE 2014 INCLUSIVE, LA APLICACION DE LAS DISPOSICIONES DEL DECRETO 814/01 Y MODIFICATORIOS, RESPECTO DE EMPLEADORES TITULARES DE ESTABLECIMIENTOS EDUCATIVOS DE GESTION PRIVADA INCORPORADOS A LA ENSEÑANZA OFICIAL.",
+        "votingId": 117
+      },
+      {
+        "id": "7-JGM-2014",
+        "title": "COMUNICACION DEL DECRETO DE NECESIDAD Y URGENCIA 641/2014, POR EL CUAL SE MODIFICA LA LEY DE MINISTERIOS, OTORGANDO JERARQUIA DE MINISTERIO A LA ACTUAL SECRETARIA DE CULTURA DE LA PRESIDENCIA DE LA NACION.",
+        "votingId": 117
+      },
+      {
+        "id": "8-JGM-2014",
+        "title": "COMUNICACION DEL DICTADO DEL DECRETO DE NECESIDAD Y URGENCIA 810/2014, POR EL CUAL SE MODIFICA EL DECRETO 1661/1996, SOBRE MISIONES, FUNCIONES Y CONDUCCION DEL CONSEJO NACIONAL DE INVESTIGACIONES CIENTIFICAS Y TECNICAS (CONICET).",
+        "votingId": 117
+      }
+    ],
+    "period": 132,
+    "meeting": 13,
+    "record": 7,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 128,
+    "negativeCount": 54,
+    "abstentionCount": 0,
+    "absentCount": 74
+  },
+  {
+    "id": 116,
+    "date": "2014-08-28 00:07:11",
+    "title": "Dirección de Control y Asistencia de Ejecución Penal en el ámbito de la Cámara Federal de Casación Penal. Creación. Dictamen de Mayoría. El diputado PLAINI, Francisco Omar informa mediante nota dirigida a la Presidencia su voto por la AFIRMATIVA.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT08_06_R13.pdf",
+    "detailsUrl": "/votacion/116",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "404-D-2013",
+        "title": "PATRONATO DE LIBERADOS DE LA CIUDAD AUTONOMA DE BUENOS AIRES. TRASPASO DE SUS FUNCIONES A LA DIRECCION DE CONTROL Y ASISTENCIA DE LA EJECUCION PENAL.",
+        "votingId": 116
+      }
+    ],
+    "period": 132,
+    "meeting": 13,
+    "record": 6,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 193,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 63
+  },
+  {
+    "id": 115,
+    "date": "2014-08-27 23:30:40",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT08_05_R13.pdf",
+    "detailsUrl": "/votacion/115",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "705-D-2013",
+        "title": "CONTRATO DE TRABAJO LEY 20744; MODIFICACION DEL ARTICULO 81, SOBRE IGUALDAD DE TRATO EN IDENTIDAD DE SITUACIONES.",
+        "votingId": 115
+      },
+      {
+        "id": "722-D-2013",
+        "title": "CONTRATO DE TRABAJO (LEY 20744): MODIFICACION DEL ARTICULO 219, SOBRE \"JUSTA CAUSA\" PARA LA SUSPENSION EN CASO DE FALTA O DISMINUCION DE TRABAJO NO IMPUTABLE AL EMPLEADOR.",
+        "votingId": 115
+      },
+      {
+        "id": "1886-D-2014",
+        "title": "CONTRATO DE TRABAJO (LEY 20744, TEXTO ORDENADO 1976): MODIFICACION DEL ARTICULO 135 SOBRE DAÑOS GRAVES E INTENCIONALES; ACCION DE RESPONSABILIDAD: CADUCIDAD.",
+        "votingId": 115
+      }
+    ],
+    "period": 132,
+    "meeting": 13,
+    "record": 5,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 192,
+    "negativeCount": 12,
+    "abstentionCount": 2,
+    "absentCount": 50
+  },
+  {
+    "id": 114,
+    "date": "2014-08-27 23:28:40",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT08_04_R13.pdf",
+    "detailsUrl": "/votacion/114",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1324-D-2013",
+        "title": "LEY 20744, DE CONTRATO DE TRABAJO: MODIFICACION DEL ARTICULO 248, SOBRE INDEMNIZACION POR MUERTE DEL TRABAJADOR: MONTO Y BENEFICIARIOS.",
+        "votingId": 114
+      },
+      {
+        "id": "724-D-2013",
+        "title": "ORGANIZACION DE LA JUSTICIA DEL TRABAJO (LEY 18345): MODIFICACION DEL ARTICULO 84, SOBRE PLAZO PARA LA REITERACION DE LOS OFICIOS NO CONTESTADOS.",
+        "votingId": 114
+      },
+      {
+        "id": "98-S-2012",
+        "title": "APROBACION DEL CONVENIO INTERNACIONAL SOBRE NORMAS DE FORMACION, TITULACION Y GUARDIA PARA EL PERSONAL DE LOS BUQUES PESQUEROS, 1995, CELEBRADO EN LONDRES - REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE - EL 7 DE JULIO DE 1995.",
+        "votingId": 114
+      }
+    ],
+    "period": 132,
+    "meeting": 13,
+    "record": 4,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 206,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 50
+  },
+  {
+    "id": 113,
+    "date": "2014-08-27 23:25:42",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT08_03_R13.pdf",
+    "detailsUrl": "/votacion/113",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "51-S-2014",
+        "title": "APROBACION DEL TRATADO SOBRE EL COMERCIO DE ARMAS, ADOPTADO EN LA CIUDAD DE NUEVA YORK, ESTADOS UNIDOS DE AMERICA, EL 2 DE ABRIL DE 2013.",
+        "votingId": 113
+      },
+      {
+        "id": "151-S-2007",
+        "title": "APROBACION DEL TRATADO DE EXTRADICION CON LA REPUBLICA DE SUDAFRICA, SUSCRIPTO EN PRETORIA, REPUBLICA DE SUDAFRICA, EL 28 DE FEBRERO DE 2007 .",
+        "votingId": 113
+      },
+      {
+        "id": "154-S-2007",
+        "title": "APROBACION DEL ACUERDO COMPLEMENTARIO AL ACUERDO DE ASISTENCIA JURIDICA MUTUA EN ASUNTOS PENALES ENTRE LOS ESTADOS PARTES DEL MERCOSUR, LA REPUBLICA DE BOLIVIA Y LA REPUBLICA DE CHILE, SUSCRITO EN BRASILIA, REPUBLICA FEDERATIVA DEL BRASIL, EL 5 DE DICIEMBRE DE 2002, DE LA FE DE ERRATAS AL ACUERDO SUSCRITO EN POR LOS MISMOS ESTADOS EL 7 DE JULIO DE 2004 EN LA CIUDAD DE PUERTO IGUAZU, REPUBLICA ARGENTINA.",
+        "votingId": 113
+      },
+      {
+        "id": "36-S-2008",
+        "title": "APROBACION DEL TRATADO DE EXTRADICION CON LA REPUBLICA TUNECINA, SUSCRIPTO EN BUENOS AIRES EL 16 DE MAYO DE 2006",
+        "votingId": 113
+      },
+      {
+        "id": "12-S-2010",
+        "title": "APROBACION DEL CONVENIO INTERNACIONAL PARA LA REPRESION DE LOS ACTOS DE TERRORISMO NUCLEAR, ADOPTADO POR LA ASAMBLEA GENERAL DE LAS NACIONES UNIDAS EL 13 DE ABRIL DE 2005, EN NUEVA YORK, ESTADOS UNIDOS DE AMERICA, Y ABIERTO A LA FIRMA EL 14 DE SEPTIEMBRE DE 2005.",
+        "votingId": 113
+      },
+      {
+        "id": "60-S-2011",
+        "title": "APROBACION DEL CONVENIO ENTRE LA REPUBLICA ARGENTINA Y LA REPUBLICA DE ECUADOR PARA EL CUMPLIMIENTO DE CONDENAS PENALES, SUSCRIPTO EN BUENOS AIRES, EL 20 DE SETIEMBRE DE 2007, Y EL ACUERDO POR CANJE DE NOTAS POR EL QUE SE ENMIENDA EL ARTICULO 10 DEL MISMO, DEL 18 DE ENERO DE 2010.",
+        "votingId": 113
+      },
+      {
+        "id": "21-S-2012",
+        "title": "APROBACION DEL ACUERDO SOBRE SIMPLIFICACION DE LA EXTRADICION CON LA REPUBLICA FEDERATIVA DEL BRASIL, EL REINO DE ESPAÑA Y LA REPUBLICA PORTUGUESA, CELEBRADO EN SANTIAGO DE COMPOSTELA , REINO DE ESPAÑA , EL 3 DE NOVIEMBRE DE 2010.",
+        "votingId": 113
+      },
+      {
+        "id": "54-S-2012",
+        "title": "APROBACION DEL PROTOCOLO MODIFICATORIO DEL TRATADO CON LA REPUBLICA DE CHILE SOBRE TRASLADO DE NACIONALES CONDENADOS Y CUMPLIMIENTO DE SENTENCIAS PENALES, SUSCRIPTO EN SANTIAGO - REPUBLICA DE CHILE, EL 28 DE MAYO DE 2010.",
+        "votingId": 113
+      },
+      {
+        "id": "6-S-2013",
+        "title": "APROBACION DE LA CONVENCION INTERAMERICANA PARA EL CUMPLIMIENTO DE CONDENAS PENALES EN EL EXTRANJERO, CELEBRADO EN LA CIUDAD DE MANAGUA, REPUBLICA DE NICARAGUA, EL 9 DE JUNIO DE 1993.",
+        "votingId": 113
+      }
+    ],
+    "period": 132,
+    "meeting": 13,
+    "record": 3,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 206,
+    "negativeCount": 3,
+    "abstentionCount": 0,
+    "absentCount": 47
+  },
+  {
+    "id": 112,
+    "date": "2014-08-27 23:18:46",
+    "title": "Régimen de regularización de deudas previsionales",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT08_02_R13.pdf",
+    "detailsUrl": "/votacion/112",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "43-S-2014",
+        "title": "IMPLEMENTACION DE LA SEGUNDA ETAPA DEL PLAN DE INCLUSION PREVISIONAL, A TRAVES DE LA REGULARIZACION DE DEUDA PARA TRABAJADORES INDEPENDIENTES (AUTONOMOS Y MONOTRIBUTISTAS) PARA ACCEDER A UNA PRESTACION PREVISIONAL.",
+        "votingId": 112
+      }
+    ],
+    "period": 132,
+    "meeting": 13,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 204,
+    "negativeCount": 0,
+    "abstentionCount": 4,
+    "absentCount": 48
+  },
+  {
+    "id": 111,
+    "date": "2014-08-27 16:26:14",
+    "title": "Red Mundial de Escuelas: Scholas Occurrentes. Declárese de interés nacional.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT08_01_R13.pdf",
+    "detailsUrl": "/votacion/111",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "4451-D-2014",
+        "title": "\"RED MUNDIAL DE ESCUELAS: SCHOLAS OCCURRENTES\": DECLARACION DE INTERES NACIONAL.",
+        "votingId": 111
+      }
+    ],
+    "period": 132,
+    "meeting": 13,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 201,
+    "negativeCount": 3,
+    "abstentionCount": 0,
+    "absentCount": 52
+  },
+  {
+    "id": 122,
+    "date": "2014-08-06 21:07:32",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE07_05_R12.pdf",
+    "detailsUrl": "/votacion/122",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2450-D-2013",
+        "title": "LEY 24411, DE BENEFICIOS PARA CAUSAHABIENTES DE PERSONAS DESAPARECIDAS O FALLECIDAS COMO CONSECUENCIA DEL ACCIONAR DE LAS FUERZAS ARMADAS, DE SEGURIDAD, O DE CUALQUIER GRUPO PARAMILITAR CON ANTERIORIDAD AL 10/12/83: INCORPORACION DEL ARTICULO 10 QUATER, SOBRE COBERTURA POR PARTE DEL ESTADO NACIONAL DEL GASTO DE SEPELIOS Y SEPULTURA A LOS RESTOS DE FAMILIARES QUE HAYAN ESTADO EN SITUACION DE DESAPARICION FORZADA.",
+        "votingId": 122
+      },
+      {
+        "id": "52-S-2013",
+        "title": "CREACION DEL JUZGADO FEDERAL DE PRIMERA INSTANCIA EN LO FEDERAL CON ASIENTO EN LA CIUDAD DE GUALEGUAYCHU, PROVINCIA DE ENTRE RIOS, UNA FISCALIA DE PRIMERA INSTANCIA Y UNA DEFENSORIA PUBLICA DE MENORES E INCAPACES DE PRIMERA INSTANCIA.",
+        "votingId": 122
+      },
+      {
+        "id": "45-S-2013",
+        "title": "RECONOCER A FRAY MAMERTO ESQUIU COMO UNA DE LAS PERSONALIDADES SOBRESALIENTES DEL BICENTENARIO DE LA PATRIA.",
+        "votingId": 122
+      },
+      {
+        "id": "8282-D-2013",
+        "title": "MUSEO \"QUINTA JOVITA\", UBICADO EN LA CIUDAD DE ZARATE, PROVINCIA DE BUENOS AIRES. SE LO DECLARA LUGAR HISTORICO NACIONAL.",
+        "votingId": 122
+      },
+      {
+        "id": "640-D-2014",
+        "title": "ESPACIO LLAMADO \"PASO DE LOS PATOS\", UBICADO EN CALINGASTA, PROVINCIA DE SAN JUAN: SE LO DECLARA LUGAR HISTORICO NACIONAL.",
+        "votingId": 122
+      },
+      {
+        "id": "278-D-2013",
+        "title": "LEY NACIONAL DE COLOMBOFILIA: REGIMEN.",
+        "votingId": 122
+      },
+      {
+        "id": "5124-D-2013",
+        "title": "DECLARAR BIEN DE INTERES HISTORICO - ARBOL HISTORICO - AL EJEMPLAR DE ALGARROBO BLANCO (PROSOPIS ALBA) QUE SIRVIERA COMO SITIO DE DESCANSO AL GENERAL MANUEL BELGRANO, EMPLAZADO EN EL MUNICIPIO DE CAMPO SANTO, DEPARTAMENTO DE GENERAL GÜEMES, PROVINCIA DE SALTA.",
+        "votingId": 122
+      },
+      {
+        "id": "3196-D-2013",
+        "title": "PERSONAS CON DISCAPACIDAD: REGIMEN TENDIENTE A LA INVESTIGACION Y DESARROLLO CIENTIFICO Y TECNOLOGICO Y LA PRODUCCION DE APARATOS ORTOPEDICOS CON EL OBJETO DE ASEGURAR SU ACCESIBILIDAD.",
+        "votingId": 122
+      },
+      {
+        "id": "1152-D-2013",
+        "title": "DECLARAR \"CAPITAL NACIONAL DE LA TRADICION\" AL MUNICIPIO DE SAN ANTONIO DE ARECO, PROVINCIA DE BUENOS AIRES.",
+        "votingId": 122
+      },
+      {
+        "id": "161-D-2014",
+        "title": "INSTITUIR EL 30 DE NOVIEMBRE DE CADA AÑO COMO DIA NACIONAL DEL MATE.",
+        "votingId": 122
+      },
+      {
+        "id": "209-S-2012",
+        "title": "CREACION DEL SELLO DE CALIDAD \"ALIMENTOS ARGENTINOS: UNA ELECCION NATURAL\".",
+        "votingId": 122
+      },
+      {
+        "id": "64-S-2013",
+        "title": "PROHIBICION DE LA VENTA A MENORES DE 18 AÑOS DE PEGAMENTOS,  ADHESIVOS O SIMILARES QUE CONTENGAN TOLUENO O DERIVADOS. (REPRODUCCION DEL EXPEDIENTE 1034-S-11).",
+        "votingId": 122
+      },
+      {
+        "id": "1459-D-2014",
+        "title": "\"DIA NACIONAL DEL EXILIADO ESPAÑOL\": SE INSTITUYE COMO TAL EL 14 DE ABRIL DE CADA AÑO.",
+        "votingId": 122
+      },
+      {
+        "id": "5598-D-2013",
+        "title": "CREACION DEL CONSEJO FEDERAL DE DISCAPACIDAD (LEY 24657): MODIFICACIONES, SOBRE SU INTEGRACION Y ELECCION DE AUTORIDADES.",
+        "votingId": 122
+      },
+      {
+        "id": "73-S-2013",
+        "title": "APROBACION DEL ACUERDO SOBRE COOPERACION EN LOS USOS PACIFICOS DE LA ENERGIA NUCLEAR ENTRE LA REPUBLICA ARGENTINA Y LOS EMIRATOS ARABES UNIDOS, CELEBRADO EN LA CIUDAD DE ABU DHABI - EMIRATOS ARABES UNIDOS- EL 14 DE ENERO DE 2013.",
+        "votingId": 122
+      }
+    ],
+    "period": 132,
+    "meeting": 12,
+    "record": 5,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 204,
+    "negativeCount": 0,
+    "abstentionCount": 1,
+    "absentCount": 51
+  },
+  {
+    "id": 121,
+    "date": "2014-08-06 20:57:15",
+    "title": "Ley 25.054, de bomberos voluntarios. Modificación sobre misiones y funciones, autoridad de aplicación e indemnizaciones y beneficios.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE07_04_R12.pdf",
+    "detailsUrl": "/votacion/121",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2568-D-2014",
+        "title": "BOMBEROS VOLUNTARIOS - LEY 25054 -. MODIFICACIONES, SOBRE MISIONES Y FUNCIONES, AUTORIDAD DE APLICACION E INDEMNIZACIONES Y BENEFICIOS.",
+        "votingId": 121
+      }
+    ],
+    "period": 132,
+    "meeting": 12,
+    "record": 4,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 210,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 46
+  },
+  {
+    "id": 120,
+    "date": "2014-08-06 20:33:05",
+    "title": "Restauración, traslado y emplazamiento del monumento a Cristóbal Colón",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE07_03_R12.pdf",
+    "detailsUrl": "/votacion/120",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "37-S-2014",
+        "title": "APROBACION DEL CONVENIO DE COLABORACION Y COOPERACION PARA LA RESTAURACION, TRASLADO Y EMPLAZAMIENTO DEL MONUMENTO A CRISTOBAL COLON, CELEBRADO ENTRE EL ESTADO NACIONAL Y LA CIUDAD AUTONOMA DE BUENOS AIRES, CELEBRADO EL 26/03/2014.",
+        "votingId": 120
+      }
+    ],
+    "period": 132,
+    "meeting": 12,
+    "record": 3,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 128,
+    "negativeCount": 62,
+    "abstentionCount": 9,
+    "absentCount": 57
+  },
+  {
+    "id": 119,
+    "date": "2014-08-06 18:31:30",
+    "title": "Se autoriza la entrada de tropas extranjeras y la salida de tropas nacionales para que participen de diversos ejercicios militares combinados, desde el 01 de Setiembre de 2014 hasta el 31 de Agosto de 2015.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE07_02_R12.pdf",
+    "detailsUrl": "/votacion/119",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "50-S-2014",
+        "title": "AUTORIZACION DE LA SALIDA DEL PERSONAL Y MEDIOS DEL EJERCITO, LA ARMADA Y LA FUERZA AEREA ARGENTINA DE NUESTRO PAIS Y EL INGRESO DE TROPAS EXTRANJERAS, A REALIZARSE DENTRO Y FUERA DEL TERRITORIO NACIONAL EN EL MARCO DEL PROGRAMA DE EJERCITACIONES COMBINADAS PARA EL PERIODO 1º DE SEPTIEMBRE DE 2014 AL 31 DE AGOSTO DE 2015.",
+        "votingId": 119
+      }
+    ],
+    "period": 132,
+    "meeting": 12,
+    "record": 2,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 192,
+    "negativeCount": 5,
+    "abstentionCount": 0,
+    "absentCount": 59
+  },
+  {
+    "id": 118,
+    "date": "2014-08-06 18:00:44",
+    "title": "Establecer la inmunidad de jurisdicción y de ejecución de los Bancos Centrales Extranjeros , ante los tribunales Argentinos.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE07_01_R12.pdf",
+    "detailsUrl": "/votacion/118",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "42-S-2014",
+        "title": "ESTABLECER LA INMUNIDAD DE JURISDICCION Y DE EJECUCION DE LOS BANCOS CENTRALES EXTRANJEROS ANTE LOS TRIBUNALES ARGENTINOS.",
+        "votingId": 118
+      }
+    ],
+    "period": 132,
+    "meeting": 12,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 201,
+    "negativeCount": 8,
+    "abstentionCount": 4,
+    "absentCount": 43
+  },
+  {
+    "id": 135,
+    "date": "2014-07-03 00:01:22",
+    "title": "Ley de Impuesto al Valor Agregado (t.o. 1.997), sobre las alicuotas que gravan las ventas, locaciones e importaciones, así como la locación de espacios publicitarios en diarios, revistas y publicaciones periódicas. Modificación.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_13_R11.pdf",
+    "detailsUrl": "/votacion/135",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2-PE-2014",
+        "title": "MODIFICACION DE LA LEY 23349, DE IMPUESTO AL VALOR AGREGADO SOBRE LAS ALICUOTAS QUE GRAVAN LAS VENTAS, LOCACIONES E IMPORTACIONES, ASI COMO LA LOCACION DE ESPACIOS PUBLICITARIOS EN DIARIOS, REVISTAS Y PUBLICACIONES PERIODISTICAS.",
+        "votingId": 135
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 13,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 176,
+    "negativeCount": 4,
+    "abstentionCount": 12,
+    "absentCount": 64
+  },
+  {
+    "id": 134,
+    "date": "2014-07-02 21:45:39",
+    "title": "Pañuelo Blanco de las Madres de Plaza de Mayo. Declaración como símbolo nacional argentino.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_12_R11.pdf",
+    "detailsUrl": "/votacion/134",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2606-D-2013",
+        "title": "DECLARAR SIMBOLO NACIONAL ARGENTINO AL PAÑUELO BLANCO DE LAS MADRES DE PLAZA DE MAYO.",
+        "votingId": 134
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 12,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 176,
+    "negativeCount": 7,
+    "abstentionCount": 4,
+    "absentCount": 69
+  },
+  {
+    "id": 133,
+    "date": "2014-07-02 21:40:35",
+    "title": "Día de la primera declaración independentista de toda dominación extranjera en nuestro territorio.  Declaración como tal al 29 de Junio de cada año y cuestiones conexas. Dictamen de Mayoría.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_11_R11.pdf",
+    "detailsUrl": "/votacion/133",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1923-D-2014",
+        "title": "DIA DE LA PRIMERA DECLARACION INDEPENDENTISTA DE TODA DOMINACION EXTRANJERA EN NUESTRO TERRITORIO: SE INSTITUYE Y ESTABLECE COMO FERIADO EXTRAORDINARIO EN TODO EL TERRITORIO NACIONAL EL DIA 29 DE JUNIO DE 2015.",
+        "votingId": 133
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 11,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 126,
+    "negativeCount": 48,
+    "abstentionCount": 12,
+    "absentCount": 70
+  },
+  {
+    "id": 132,
+    "date": "2014-07-02 21:38:57",
+    "title": "Día de la primera declaración independentista de toda dominación extranjera en nuestro territorio.  Declaración como tal al 29 de Junio de cada año y cuestiones conexas. Dictamen de Mayoría. La Diputada MENDOZA, Sandra Marcela expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_10_R11.pdf",
+    "detailsUrl": "/votacion/132",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1923-D-2014",
+        "title": "DIA DE LA PRIMERA DECLARACION INDEPENDENTISTA DE TODA DOMINACION EXTRANJERA EN NUESTRO TERRITORIO: SE INSTITUYE Y ESTABLECE COMO FERIADO EXTRAORDINARIO EN TODO EL TERRITORIO NACIONAL EL DIA 29 DE JUNIO DE 2015.",
+        "votingId": 132
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 10,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 175,
+    "negativeCount": 0,
+    "abstentionCount": 11,
+    "absentCount": 70
+  },
+  {
+    "id": 131,
+    "date": "2014-07-02 21:36:32",
+    "title": "Día de la primera declaración independentista de toda dominación extranjera en nuestro territorio.  Declaración como tal al 29 de Junio de cada año y cuestiones conexas. Dictamen de Mayoría.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_09_R11.pdf",
+    "detailsUrl": "/votacion/131",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1923-D-2014",
+        "title": "DIA DE LA PRIMERA DECLARACION INDEPENDENTISTA DE TODA DOMINACION EXTRANJERA EN NUESTRO TERRITORIO: SE INSTITUYE Y ESTABLECE COMO FERIADO EXTRAORDINARIO EN TODO EL TERRITORIO NACIONAL EL DIA 29 DE JUNIO DE 2015.",
+        "votingId": 131
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 9,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 157,
+    "negativeCount": 0,
+    "abstentionCount": 27,
+    "absentCount": 72
+  },
+  {
+    "id": 130,
+    "date": "2014-07-02 20:23:24",
+    "title": "Código Procesal Civil y Comercial de la Nación. Modificación del Art. 127 sobre préstamo del expediente.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_08_R11.pdf",
+    "detailsUrl": "/votacion/130",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "175-D-2013",
+        "title": "CODIGO PROCESAL CIVIL Y COMERCIAL DE LA NACION; MODIFICACION DEL ARTICULO 127 SOBRE PRESTAMO DEL EXPEDIENTE (REPRODUCCION DEL EXPEDIENTE 0010-D-11).",
+        "votingId": 130
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 8,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 153,
+    "negativeCount": 16,
+    "abstentionCount": 0,
+    "absentCount": 87
+  },
+  {
+    "id": 129,
+    "date": "2014-07-02 20:07:41",
+    "title": "Ley 24.051 de Residuos Peligrosos. Modificación sobre intereses en concepto de mora en el pago de tasas devengadas, estableciéndose el cobro a través de juicio ejecutivo.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_07_R11.pdf",
+    "detailsUrl": "/votacion/129",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5-D-2014",
+        "title": "LEY 24051, DE RESIDUOS PELIGROSOS: MODIFICACION DEL ARTICULO 16, SOBRE INTERESES EN CONCEPTO DE MORA EN EL PAGO DE TASAS DEVENGADAS, ESTABLECIENDOSE QUE EL COBRO SE REALIZARA A TRAVES DE JUICIO EJECUTIVO.",
+        "votingId": 129
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 7,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 178,
+    "negativeCount": 0,
+    "abstentionCount": 3,
+    "absentCount": 75
+  },
+  {
+    "id": 128,
+    "date": "2014-07-02 19:58:48",
+    "title": "Votación en General y Particular de Proyectos de Ley.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_06_R11.pdf",
+    "detailsUrl": "/votacion/128",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "86-S-2013",
+        "title": "INSTITUIR EL DIA 5 DE MAYO COMO \"DIA INTERNACIONAL DEL CELIACO\".",
+        "votingId": 128
+      },
+      {
+        "id": "107-S-2012",
+        "title": "CREACION DEL REGISTRO NACIONAL \"NO LLAME\".",
+        "votingId": 128
+      },
+      {
+        "id": "5769-D-2013",
+        "title": "PROCEDIMIENTO DE MEDIACION: EFECTOS SUSPENSIVOS.",
+        "votingId": 128
+      },
+      {
+        "id": "15-S-2012",
+        "title": "APROBACION DEL ACUERDO MARCO DE COOPERACION ENTRE LOS ESTADOS PARTES DEL MERCOSUR Y ESTADOS ASOCIADOS PARA LA CREACION DE EQUIPOS CONJUNTOS DE INVESTIGACION, CELEBRADO EN SAN JUAN, REPUBLICA ARGENTINA, EL 2 DE AGOSTO DE 2010.",
+        "votingId": 128
+      },
+      {
+        "id": "72-S-2013",
+        "title": "APROBACION DEL PROTOCOLO DE ADHESION DEL ESTADO PLURINACIONAL DE BOLIVIA AL MERCOSUR, CELEBRADO EN BRASILIA, REPUBLICA FEDERATIVA DEL BRASIL, EL 7 DE DICIEMBRE DE 2012.",
+        "votingId": 128
+      },
+      {
+        "id": "57-S-2011",
+        "title": "APROBACION DEL ACUERDO ENTRE EL GOBIERNO DE LA REPUBLICA ARGENTINA Y EL GOBIERNO DE QATAR SOBRE ASEGURAR EL MAS ALTO NIVEL DE SEGURIDAD OPERACIONAL Y DE SEGURIDAD EN EL TRANSPORTE AEREO INTERNACIONAL, SUSCRIPTO EN BUENOS AIRES EL 18 DE ENERO DE 2010.",
+        "votingId": 128
+      },
+      {
+        "id": "164-S-2011",
+        "title": "APROBACION DEL ACUERDO CON EL GOBIERNO DE LA REPUBLICA FEDERATIVA DEL BRASIL PARA LA CONSTRUCCION DE UN PUENTE INTERNACIONAL SOBRE EL RIO PEPIRI - GUAZU, ENTRE LAS CIUDADES DE SAN PEDRO, ARGENTINA, Y PARAISO, BRASIL, CELEBRADO EN BUENOS AIRES, EL 31 DE ENERO DE 2011.",
+        "votingId": 128
+      },
+      {
+        "id": "7-S-2012",
+        "title": "APROBACION DEL ACUERDO SOBRE TRANSPORTE AEREO CON EL GOBIERNO DE LA REPUBLICA DE TURQUIA EN MATERIA DE SERVICIOS AEREOS ENTRE SUS RESPECTIVOS TERRITORIOS, SUSCRIPTO EN ANKARA, REPUBLICA DE TURQUIA, EL 20 DE ENERO DE 2011.",
+        "votingId": 128
+      },
+      {
+        "id": "88-S-2013",
+        "title": "APROBACION DEL ACUERDO SOBRE SERVICIOS AEREOS CON EL GOBIERNO DE LA REPUBLICA DE INDONESIA, CELEBRADO EN LA CIUDAD DE YAKARTA, REPUBLICA DE INDONESIA, EL 17 DE ENERO DE 2013.",
+        "votingId": 128
+      },
+      {
+        "id": "2144-D-2014",
+        "title": "\"DIA NACIONAL DEL HUMORISTA\": SE INSTITUYE COMO TAL EL 26 DE NOVIEMBRE DE CADA AÑO EN HOMENAJE AL NATALICIO DE ROBERTO FONTANARROSA.",
+        "votingId": 128
+      },
+      {
+        "id": "80-S-2013",
+        "title": "INSTITUIR EL DIA MUNDIAL EN RECUERDO DE LAS VICTIMAS DE ACCIDENTES DE TRANSITO EL TERCER DOMINGO DE NOVIEMBRE (REPRODUCCION DEL EXPEDIENTE 2809-S-11).",
+        "votingId": 128
+      },
+      {
+        "id": "35-S-2013",
+        "title": "INSTITUIR EL 10 DE OCTUBRE DE CADA AÑO COMO DIA NACIONAL DE LA SALUD MENTAL.",
+        "votingId": 128
+      },
+      {
+        "id": "391-D-2014",
+        "title": "INSTITUIR EL 20 DE OCTUBRE DE CADA AÑO COMO DIA NACIONAL DE LA OSTEOPOROSIS  (REPRODUCCION DEL EXPEDIENTE 0405-D-12).",
+        "votingId": 128
+      },
+      {
+        "id": "185-S-2012",
+        "title": "APROBACION DE LA CONVENCION PARA REDUCIR LOS CASOS DE APATRIDIA, ADOPTADA EN NUEVA YORK, ESTADOS UNIDOS DE AMERICA, EL 30 DE AGOSTO DE 1961, CON LAS CORRECCIONES AL TEXTO EN ESPAÑOL APROBADAS MEDIANTE EL ACTA DE RECTIFICACION, HECHA EN NUEVA YORK EL 27 DE OCTUBRE DE 2011.",
+        "votingId": 128
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 6,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 189,
+    "negativeCount": 0,
+    "abstentionCount": 4,
+    "absentCount": 63
+  },
+  {
+    "id": 127,
+    "date": "2014-07-02 19:54:36",
+    "title": "Día del Abogado Laboralista, al 07 de Julio de cada año. Institución.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_05_R11.pdf",
+    "detailsUrl": "/votacion/127",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "2447-D-2014",
+        "title": "\"DIA DEL ABOGADO LABORISTA\". SE INTITUYE COMO TAL EL 7 DE JULIO DE CADA AÑO.",
+        "votingId": 127
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 5,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 195,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 61
+  },
+  {
+    "id": 126,
+    "date": "2014-07-02 19:15:56",
+    "title": "Capital Nacional de los Inmigrantes. Declaración como tal a la Ciudad de Oberá, Provincia de Misiones.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_04_R11.pdf",
+    "detailsUrl": "/votacion/126",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "333-D-2014",
+        "title": "CIUDAD DE OBERA, PROVINCIA DE MISIONES: SE LA DECLARA CAPITAL NACIONAL DE LOS INMIGRANTES.",
+        "votingId": 126
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 4,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 138,
+    "negativeCount": 2,
+    "abstentionCount": 50,
+    "absentCount": 66
+  },
+  {
+    "id": 125,
+    "date": "2014-07-02 18:52:02",
+    "title": "Indemnización para los damnificados por los acontecimientos ocurridos los dias 03 y 24 de Noviembre de 1995 en la Fábrica Militar Río Tercero de la Dirección General de Fabricaciones Militares. Los Diputados PEROTTI, Omar Angel; BULLRICH, Patricia; ARGUMEDO, Alcira Susana y LOTTO DE VECCHIETTI, Inés Beatriz expresan su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_03_R11.pdf",
+    "detailsUrl": "/votacion/125",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "3-D-2014",
+        "title": "INDEMNIZACION PARA LOS DAMNIFICADOS POR LOS ACONTECIMIENTOS OCURRIDOS EL 3 Y EL 24 DE NOVIEMBRE DE 1995, EN LA FABRICA MILITAR RIO TERCERO DE LA DIRECCION GENERAL DE FABRICACIONES MILITARES.",
+        "votingId": 125
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 3,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 180,
+    "negativeCount": 0,
+    "abstentionCount": 0,
+    "absentCount": 76
+  },
+  {
+    "id": 124,
+    "date": "2014-07-02 16:56:10",
+    "title": "Pedido de Preferencia solicitado por el Diputado PITROLA, Néstor Antonio.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_02_R11.pdf",
+    "detailsUrl": "/votacion/124",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "3266-D-2014",
+        "title": "DECLARACION DE LA EMERGENCIA LABORAL Y OCUPACIONAL EN TODO EL TERRITORIO NACIONAL.",
+        "votingId": 124
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 100,
+    "negativeCount": 125,
+    "abstentionCount": 0,
+    "absentCount": 31
+  },
+  {
+    "id": 123,
+    "date": "2014-07-02 16:51:07",
+    "title": "Pedido de Tratamiento sobre Tablas del Expediente 5110-D-14, solicitado por el Diputado NEGRI, Mario Raúl.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OT06_01_R11.pdf",
+    "detailsUrl": "/votacion/123",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "5110-D-2014",
+        "title": "EMPLAZAR A LA COMISION DE JUICIO POLITICO DE LA H. CAMARA PARA QUE SE REUNA EL DIA 8 DE JULIO DE 2014 A FIN DE TRATAR DIVERSOS EXPEDIENTES RELACIONADOS CON PEDIDO DE JUICIO POLITICO AL VICEPRESIDENTE DE LA NACION, LIC. AMADO BOUDOU.",
+        "votingId": 123
+      }
+    ],
+    "period": 132,
+    "meeting": 11,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 97,
+    "negativeCount": 129,
+    "abstentionCount": 0,
+    "absentCount": 30
+  },
+  {
+    "id": 137,
+    "date": "2014-05-22 02:16:38",
+    "title": "Modificación de la Ley 25.212 mediante la cual se ratifica el \"Pacto Federal del Trabajo\", respecto al régimen general de sanciones por infracciones laborales.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE04_02_R06.pdf",
+    "detailsUrl": "/votacion/137",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "16-S-2014",
+        "title": "MODIFICACION DE LA LEY 25212 MEDIANTE LA CUAL SE RATIFICA EL \"PACTO FEDERAL DEL TRABAJO\", RESPECTO AL \"REGIMEN GENERAL DE SANCIONES POR INFRACCIONES LABORALES\".",
+        "votingId": 137
+      }
+    ],
+    "period": 132,
+    "meeting": 6,
+    "record": 2,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 228,
+    "negativeCount": 1,
+    "abstentionCount": 1,
+    "absentCount": 26
+  },
+  {
+    "id": 136,
+    "date": "2014-05-22 01:33:36",
+    "title": "Promoción del Trabajo Registrado y Prevencón del Fraude Laboral.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE04_01_R06.pdf",
+    "detailsUrl": "/votacion/136",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "17-S-2014",
+        "title": "PROMOCION DEL TRABAJO REGISTRADO Y PREVENCION DEL FRAUDE LABORAL.",
+        "votingId": 136
+      }
+    ],
+    "period": 132,
+    "meeting": 6,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 227,
+    "negativeCount": 3,
+    "abstentionCount": 4,
+    "absentCount": 22
+  },
+  {
+    "id": 141,
+    "date": "2014-05-14 23:00:21",
+    "title": "Proyecto de Ley en revisión por el cual se denomina con el nombre de \"Presidente Juan Domingo Perón\" a la Central atómica Atucha I.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE03_04_R04.pdf",
+    "detailsUrl": "/votacion/141",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "15-S-2014",
+        "title": "DENOMINAR CON EL NOMBRE DE \"PRESIDENTE JUAN DOMINGO PERON\" A LA CENTRAL NUCLEAR ATUCHA I,  PARTIDO DE ZARATE.",
+        "votingId": 141
+      }
+    ],
+    "period": 132,
+    "meeting": 4,
+    "record": 4,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 151,
+    "negativeCount": 7,
+    "abstentionCount": 38,
+    "absentCount": 60
+  },
+  {
+    "id": 140,
+    "date": "2014-05-14 22:54:37",
+    "title": "Proyecto de Ley en revisión por el cual se denomina con el nombre de \"Presidente Dr. Néstor Carlos Kirchner\" a la Central atómica Atucha II.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE03_03_R04.pdf",
+    "detailsUrl": "/votacion/140",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "14-S-2014",
+        "title": "DENOMINAR CON EL NOMBRE DEL \"PRESIDENTE DR. NESTOR CARLOS KIRCHNER\" A LA CENTRAL ATUCHA II, PARTIDO DE ZARATE, PROVINCIA DE BUENOS AIRES.",
+        "votingId": 140
+      }
+    ],
+    "period": 132,
+    "meeting": 4,
+    "record": 3,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 129,
+    "negativeCount": 14,
+    "abstentionCount": 53,
+    "absentCount": 60
+  },
+  {
+    "id": 139,
+    "date": "2014-05-14 21:39:11",
+    "title": "Ratificación del Convenio celebrado entre el Estado Nacional y la Ciudad Autónoma de Buenos Aires el 22 de Enero de 2014, por el cual la mencionada Ciudad otorga al Poder Ejecutivo Nacional el derecho real de usufructo de diversos edificios ubicados en la misma.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE03_02_R04.pdf",
+    "detailsUrl": "/votacion/139",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "11-S-2014",
+        "title": "RATIFICACION DEL CONVENIO CELEBRADO ENTRE EL ESTADO NACIONAL Y LA CIUDAD AUTONOMA DE BUENOS AIRES EL 22 DE ENERO DE 2014, POR EL CUAL LA MENCIONADA CIUDAD OTORGA AL PEN EL DERECHO REAL DE USUFRUCTO DE DIVERSOS EDIFICIOS UBICADOS EN LA MISMA.",
+        "votingId": 139
+      }
+    ],
+    "period": 132,
+    "meeting": 4,
+    "record": 2,
+    "president": "ABDALA DE MATARAZZO, Norma Amanda",
+    "affirmativeCount": 142,
+    "negativeCount": 81,
+    "abstentionCount": 0,
+    "absentCount": 33
+  },
+  {
+    "id": 138,
+    "date": "2014-05-14 17:50:24",
+    "title": "Modificación de las leyes 23.966 y 26.028, sobre impuesto a los combustibles líquidos y gaseosos e impuesto al gasoil, estableciéndose que el pago del gravamen, cuando se trate de biodiesel combustibles, estará satisfecho con la alícuota que abona el componente gasoil. Dictamen de Mayoría. El Diputado PETRI, Luis expresa su voto por la AFIRMATIVA a viva voz.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE03_01_R04.pdf",
+    "detailsUrl": "/votacion/138",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "1-PE-2014",
+        "title": "MODIFICACION DE LAS LEYES 23966 Y 26028, SOBRE IMPUESTO A LOS COMBUSTIBLES LIQUIDOS Y GASEOSOS E IMPUESTO AL GASOIL, ESTABLECIENDOSE QUE EL PAGO DEL GRAVAMEN CUANDO SE TRATE DE BIODIESEL COMBUSTIBLES, ESTARA SATISFECHO CON LA ALICUOTA QUE ABONA EL COMPONENTE GASOIL.",
+        "votingId": 138
+      }
+    ],
+    "period": 132,
+    "meeting": 4,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 217,
+    "negativeCount": 4,
+    "abstentionCount": 8,
+    "absentCount": 27
+  },
+  {
+    "id": 142,
+    "date": "2014-04-24 07:06:39",
+    "title": "Proyecto de Ley sobre ratificación del Convenio de Solución Amigable y Avenimiento de Expropiación celebrado entre la República Argentina, representada por el Ministerio de Economía y Finanzas Públicas y Repsol S.A., Repsol Capital S.L. y Repsol Butano S.A. suscripto el 27 de Febrero de 2014.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2014/132OE02_01_R02.pdf",
+    "detailsUrl": "/votacion/142",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "3-S-2014",
+        "title": "RATIFICACION DEL CONVENIO DE SOLUCION AMIGABLE Y AVENIMIENTO DE EXPROPIACION CELEBRADO ENTRE LA REPUBLICA ARGENTINA, REPRESENTADA POR EL MINISTERIO DE ECONOMIA Y FINANZAS PUBLICAS Y REPSOL S.A., REPSOL CAPITAL S.L. Y REPSOL BUTANO S.A. SUSCRIPTO EL 27 DE FEBRERO DE 2014.",
+        "votingId": 142
+      }
+    ],
+    "period": 132,
+    "meeting": 2,
+    "record": 1,
+    "president": "DOMINGUEZ, Julián Andrés",
+    "affirmativeCount": 135,
+    "negativeCount": 59,
+    "abstentionCount": 42,
+    "absentCount": 20
+  }
+]

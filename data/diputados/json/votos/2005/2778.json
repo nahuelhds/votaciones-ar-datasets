@@ -1,0 +1,2542 @@
+[
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ABDALA, Josefina",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4313.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ACCASTELLO, Eduardo",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4484.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ACUÑA KUNZ, Juan Erwin",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4529.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "AGUAD, Oscar Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4491.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "AGUERO, Elda Susana",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4285.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ALARCON, María del Carmen",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2096.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ALCHOURON, Guillermo Eduardo",
+    "party": "Acción por la República",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2515.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ALONSO, Gumersindo Federico",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4315.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ÁLVAREZ RODRIGUEZ, María Cristina",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50892.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ALVAREZ, Juan José",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4316.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ARGÜELLO, Jorge",
+    "party": "Justicialista",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4317.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ARNOLD, Eduardo Ariel",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4318.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ARRIAGA, Julio Esteban",
+    "party": "Justicialista",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4518.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ARTOLA, Isabel Amanda",
+    "party": "Frente Popular Bonaerense",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4319.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ATANASOF, Alfredo Néstor",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1795.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "AUGSBURGER, Silvia",
+    "party": "Frente Prog. Civico y Social",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4531.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "AZCOITI, Pedro José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4461.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BAIGORRI, Guillermo Francisco",
+    "party": "Vida y Compromiso",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4320.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BALADRON, Manuel Justo",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3059.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BALESTRINI, Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4437.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BARAGIOLA, Vilma Rosana",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4545.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BARRIONUEVO, José Luis",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4476.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BAYONZO, Liliana Amelia",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4058.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BECCANI, Alberto Juan",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4321.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BEJARANO, Mario Fernando",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4322.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BERRAUTE, Ana",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4534.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BERTOL, Paula María",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4469.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BERTONE, Rosana Andrea",
+    "party": "Justicialista",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4080.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BIANCHI SILVESTRE, Marcela Alejandra",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4163.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BIANCO, Lía Fabiola",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4512.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BINNER, Hermes Juan",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50865.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BISUTTI, Delia Beatriz",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4464.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BONACORSI, Juan Carlos",
+    "party": "Unidad Federalista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4323.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BONASSO, Miguel Luis",
+    "party": "Convergencia",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4324.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BORSANI, Luis Gustavo",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50953.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BOSCH, Irene Miriam",
+    "party": "Convergencia",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4326.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BRILLO, José Ricardo",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4516.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BRUE, Daniel Agustín",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4539.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BULLRICH, Esteban  José",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4471.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "BURZACO, Eugenio",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4459.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CAMAÑO, Eduardo Oscar",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A31.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CAMAÑO, Graciela",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CAMBARERI, Fortunato Rafael",
+    "party": "Unión Cívica Radical",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A110.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CANELA, Susana",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50853.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CANTERO GUTIERREZ, Alberto",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4485.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CANTEROS, Gustavo Jesús Adolfo",
+    "party": "Frente Proyecto Corrientes",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4414.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CANTOS, José María",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4327.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CARLOTTO, Remo Gerardo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4438.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CARMONA, María Araceli",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4493.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CARRIÓ, Elisa María Avelina",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3815.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CASERIO, Carlos Alberto",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50822.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CASSESE, Marina",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4311.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CECCO, Carlos Jaime",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4407.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CESAR, Nora Noemí",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4439.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CHIACCHIO, Nora Alicia",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3170.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CHIRONI, Fernando Gustavo",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4329.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CIGOGNA, Luis Francisco Jorge",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4162.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CITTADINI, Stella",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4330.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "COLLANTES, Genaro Aurelio",
+    "party": "Frente Cívico Social",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4475.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "COMELLI, Alicia Marcela",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4331.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CONTI, Diana Beatriz",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4440.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CORDOBA, José Manuel",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4527.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CORDOBA, Stella Maris",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4095.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CORNEJO, Alfredo Victor",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4510.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "COSCIA, Jorge Edmundo",
+    "party": "Justicialista",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4467.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "COSTA, Roberto Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4332.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "CUEVAS, Hugo Oscar",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4519.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DAHER, Zulema Beatríz",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3467.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DAUD, Jorge Carlos",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4086.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DAZA, Héctor Rubén",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4333.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DE BERNARDI, Eduardo",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4400.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DE BRASI, Marta Susana",
+    "party": "Bloque de los Trabajadores",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4334.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DE LA BARRERA, Guillermo",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4335.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DE LA ROSA, Maria Graciela",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4336.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DE MARCHI, Omar Bruno",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4507.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DE NARVAEZ, Francisco",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4441.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DEL  RICCIO, Ana María del Carmen",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4502.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DELICH, Francisco José",
+    "party": "Partido Nuevo",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4488.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DELLEPIANE, Carlos Francisco",
+    "party": "La Argentina de los Valores",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4338.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DEPETRI, Edgardo Fernando",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4569.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DI LANDRO, Oscar Jorge",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4339.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DI POLLINA, Eduardo Alfredo",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4340.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "di TULLIO, Juliana",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4443.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DIAZ BANCALARI, José María",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A19.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DIAZ ROIG, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4500.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DIAZ, Susana Eladia",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4341.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DOGA, María Nélida",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4342.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "DOVENA, Miguel Dante",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4444.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ELIZONDO, Dante",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4099.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ESTEBAN, Silvia Graciela",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4343.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FABRIS, Luciano Rafael",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4480.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FADEL, Patricia Susana",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4344.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FELLNER, Liliana",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4345.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FERNANDEZ, Alfredo Cesar",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4347.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FERRA DE BARTOL, Margarita",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4524.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FERRI, Gustavo Enrique",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4419.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FERRIGNO, Santiago",
+    "party": "FREPASO",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4349.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FERRO, Francisco José",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4463.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FIGUEROA,  José Oscar",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3490.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FIOL, Paulina Esther",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4350.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "FRANCO, Hugo Alberto",
+    "party": "Frente Popular Bonaerense",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4351.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GALANTINI, Eduardo Leonel",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4494.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GALLO, Daniel Oscar",
+    "party": "Justicialista",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4411.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GARCIA de MORENO, Eva",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4482.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GARCIA MENDEZ, Emilio Arturo",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4465.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GARCÍA, María Teresa",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4447.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GARCIA, Susana Rosa",
+    "party": "A.R.I",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4352.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GARIN de TULA, Lucia",
+    "party": "Frente Cívico Social",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4353.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GARRIDO ARCEO, Jorge Antonio",
+    "party": "Frente Popular Bonaerense",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4385.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GENEM, Amanda Susana",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4547.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GIACOMINO, Daniel Oscar",
+    "party": "Partido Nuevo",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50712.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GINZBURG, Nora Raquel",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4472.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GIOJA, Juan Carlos",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4354.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GIORGETTI, Jorge Raúl",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4355.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GIUBERGIA, Miguel Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3682.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GIUDICI, Silvana Myriam",
+    "party": "Encuentro",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4356.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GODOY, Juan Carlos",
+    "party": "Nuevo Espacio Entrerriano",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4406.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GODOY, Ruperto Eduardo",
+    "party": "Justicialista",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4357.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GONZALEZ, Jorge Pedro",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4358.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GONZALEZ, María América",
+    "party": "A.R.I",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1549.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GORBACZ, Leonardo Ariel",
+    "party": "A.R.I",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4541.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GUTIERREZ, Francisco Virgilio",
+    "party": "Polo Social",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4105.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "GUTIERREZ, Graciela Beatriz",
+    "party": "Justicialista",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4528.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "HEREDIA, Arturo Miguel",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4486.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "HERNANDEZ, Cinthya Gabriela",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4359.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "HERRERA, Alberto",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3814.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "HERRERA, Griselda Noemí",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50732.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "IGLESIAS, Roberto Raul",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4360.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ILARREGUI, Luis Alfredo",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4445.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "INGRAM, Roddy Ernesto",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4401.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "IRRAZABAL, Juan Manuel",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4361.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ITURRIETA, Miguel Angel",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4513.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "JANO, Ricardo Javier",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4362.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "JEREZ, Esteban Eduardo",
+    "party": "Recrear -- Tucumán",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4363.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "JEREZ, Eusebia Antonia",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4364.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "KAKUBUR, Emilio",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4514.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "KRONEBERGER, Daniel Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "KUNKEL, Carlos Miguel",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4446.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LAMBERTO, Oscar Santiago",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1317.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LANDAU, Jorge Alberto",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A116.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LAURITTO, José Eduardo",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4496.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LEMME, María Alicia",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4408.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LEMOS, Silvia Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4511.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LEYBA de MARTI, Beatriz",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3546.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LIX KLETT, Roberto Ignacio",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3543.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LORENZO BOROCOTO, Eduardo",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4470.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LOVAGLIO SARAVIA, Antonio",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4416.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LOZANO, Claudio Raúl",
+    "party": "Frente Norte",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4365.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "LUSQUIÑOS, Luis Bernardo",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51016.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MACALUSE, Eduardo Gabriel",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A874.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MACCHI, Carlos Guillermo",
+    "party": "Partido Nuevo",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4413.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MACRI, Mauricio",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4473.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MAFFEI, Marta Olinda",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4366.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MANSUR, Nélida Mabel",
+    "party": "Unidad Federalista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4367.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARCO DEL PONT, Mercedes",
+    "party": "Justicialista",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4468.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARCONATO, Gustavo Angel",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4368.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARCONETTO, Aldo Juan",
+    "party": "Justicialista",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4483.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARINO, Adriana del Cármen",
+    "party": "Frente Producción y Trabajo",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4522.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARINO, Juliana Isabel",
+    "party": "Encuentro",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4369.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARTINEZ GARBINO, Emilio Raúl",
+    "party": "Nuevo Espacio Entrerriano",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4498.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARTINEZ, Julio César",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4370.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MARTINI, Hugo",
+    "party": "Recrear",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4371.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MASSEI, Oscar Ermelindo",
+    "party": "Justicialista",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4515.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MEDIZA, Heriberto Eloy",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4372.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MENDEZ de FERREYRA, Araceli Estela",
+    "party": "Convergencia",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4165.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MENEM, Eduardo Adrián",
+    "party": "TEST1",
+    "region": "La Rioja",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2186.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MERINO, Raul Guillermo",
+    "party": "Partido Nuevo Contra la Corrupción",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4373.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MOISÉS, María Carolina",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51105.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MONAYAR, Ana María Cármen",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4432.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MONGELO, José Ricardo",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50697.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MONTENEGRO, Olinda",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4375.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MONTI, Lucrecia Etelvina",
+    "party": "Peronista Federal",
+    "region": "C.A.B.A.",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4376.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MONTOYA, Jorge Luciano",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4377.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MORANDINI, Norma Elena",
+    "party": "Partido Nuevo",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4490.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MORENO, Carlos Julio",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4448.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MORINI, Pedro Juan",
+    "party": "Frente Prog. Civico y Social",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4548.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "MULLER, Mabel Hilda",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "NEGRI, Mario Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50713.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "NEMIROVSCI, Osvaldo Mario",
+    "party": "Justicialista",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4378.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "NIEVA, Alejandro Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3791.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "OCAÑA, Maria Graciela",
+    "party": "No Integra Bloque",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50688.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "OLIVA, Cristian Rodolfo",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4540.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "OLMOS, Graciela Hortencia",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4379.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "OSCOS, María Ilse",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4517.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "OSORIO, Marta Lucía",
+    "party": "Justicialista",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4067.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "OSUNA, Blanca Inés",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4038.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "OVIEDO, Alejandra Beatriz",
+    "party": "TEST1",
+    "region": "La Rioja",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PANZONI, Patricia Ester",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4380.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PASTORIZA, Eduardo Antonio",
+    "party": "Justicialista",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4477.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PEREZ, Alberto Cesar",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4381.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PEREZ, José Adrián",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50798.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PEREZ, Mirta",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4337.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PERIE, Hugo Rubén",
+    "party": "Justicialista",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4403.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PESO, Stella Marys",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4383.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PINEDO, Federico",
+    "party": "Compromiso para el Cambio",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4384.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "POGGI, Claudio Javier",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50965.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "PORTO, Héctor Norberto",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4450.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "QUIROZ, Elsa Siria",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A103.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RAIMUNDI, Carlos",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RECALDE, Héctor Pedro",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4451.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RICHTER, Ana",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4386.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RICO, María del Carmen Cecilia",
+    "party": "Frente Popular Bonaerense",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4137.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RIOS, María Fabiana",
+    "party": "A.R.I",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4412.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RITONDO, Cristian",
+    "party": "Justicialista",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4387.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RODRIGUEZ  SAA, Adolfo",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4409.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RODRIGUEZ, Marcela Virginia",
+    "party": "A.R.I",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4139.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RODRIGUEZ, Oscar Ernesto R.",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4388.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ROJKES de ALPEROVICH, Beatriz Liliana",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4543.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ROMERO, Rosario",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4405.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ROQUEL, Rodolfo",
+    "party": "Justicialista",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4389.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ROSSI, Agustín",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4536.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ROSSO, Graciela Zulema",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4452.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ROZAS, Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4481.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "RUCKAUF, Carlos Federico",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4390.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SALIM, Fernando Omar",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A33.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SALIM, Juan Arturo",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4544.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SALUM, Osvaldo Rubén",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4521.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SANTANDER, Mario Armando",
+    "party": "Justicialista",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4505.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SARGHINI, Jorge Emilio",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4453.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SARTORI, Diego Horacio",
+    "party": "Justicialista",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4392.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SCHIAVONI, Esther Aida",
+    "party": "Propuesta Republicana",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4474.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SESMA, Laura Judith",
+    "party": "Partido Socialista",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4492.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SLUGA, Juan Carlos",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4393.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SNOPEK, Carlos Daniel",
+    "party": "Justicialista",
+    "region": "Jujuy",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3218.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SOLANAS, Raúl Patricio",
+    "party": "Justicialista",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4497.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SOSA, Carlos Alberto",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4417.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SOTO, Gladys Beatriz",
+    "party": "Justicialista",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50698.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SPATOLA, Paola Rosana",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4460.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "STELLA, Anibal Jesus",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4431.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "STORANI, Federico Teobaldo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4394.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "STORERO, Hugo",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4027.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "SYLVESTRE BEGNIS, Juan Héctor",
+    "party": "Justicialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4537.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "TATE, Alicia Ester",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4395.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "THOMAS, Enrique Luis",
+    "party": "Justicialista",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4508.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "TINNIRELLO, Carlos Alberto",
+    "party": "Red de Encuentro Social",
+    "region": "C.A.B.A.",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4396.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "TOLEDO, Hugo David",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A2110.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "TOMAZ, Adriana Elisa",
+    "party": "Partido Unidad Federalista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "TONELLI, Pablo Gabriel",
+    "party": "Propuesta Republicana",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50707.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "TORRONTEGUI, María Angélica",
+    "party": "Frente del Movimiento Popular",
+    "region": "San Luis",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4144.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "TULIO, Rosa Ester",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3014.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "URTUBEY, Juan Manuel",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "VACA NARVAJA, Patricia",
+    "party": "Justicialista",
+    "region": "Córdoba",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4487.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "VANOSSI, Jorge",
+    "party": "Compromiso para el Cambio",
+    "region": "C.A.B.A.",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4397.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "VARGAS AIGNASSE, Gerónimo",
+    "party": "Justicialista",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4398.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "VARISCO, Sergio Fausto",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4499.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "VELARDE, Marta Sylvia",
+    "party": "Justicialista",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4538.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "VILLAVERDE, Jorge Antonio",
+    "party": "Peronista Federal",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4145.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "WEST, Mariano Federíco",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4455.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "WILDER, Ricardo",
+    "party": "Frente de Unidad Provincial",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4410.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ZANCADA, Pablo Ventura",
+    "party": "Frente Prog. Civico y Social",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4533.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ZIMMERMANN, Víctor",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4399.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2005-12-06 19:04:00",
+    "votingId": 2778,
+    "legislator": "ZOTTOS, Miguel Andrés Costas",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A51101.jpg",
+    "videoUrl": null
+  }
+]

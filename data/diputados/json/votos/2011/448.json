@@ -1,0 +1,2572 @@
+[
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ABDALA DE MATARAZZO, Norma Amanda",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4759.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "AGUAD, Oscar Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4491.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "AGUILAR, Lino Walter",
+    "party": "Frente Peronista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50748.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALBARRACIN, Jorge Luis",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50775.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALBRIEU, Oscar Edmundo Nicolas",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4743.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALFONSÍN, Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4775.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALONSO, Gumersindo Federico",
+    "party": "Frente Cívico - Córdoba",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4315.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALONSO, Laura",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4732.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALONSO, María Luz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50729.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALVAREZ, Elsa María",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4762.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ALVAREZ, Jorge Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4740.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "AMADEO, Eduardo Pablo",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4812.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ARAGON, Santiago",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50682.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ARENA, Celia Isabel",
+    "party": "No Integra Bloque",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4827.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ARGUMEDO, Alcira Susana",
+    "party": "Proyecto Sur",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4808.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ARREGUI, Andrés Roberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50676.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ASPIAZU, Lucio Bernardo",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4745.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ASSEFF, Alberto Emilio",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50693.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ATANASOF, Alfredo Néstor",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1795.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "AVOSCAN, Herman Horacio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50743.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BALCEDO, María Ester",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50684.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BARBIERI, Mario Leandro",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4813.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BARCHETTA, Omar Segundo",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50759.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BARRANDEGUY, Raúl Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4748.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BASTERRA, Luis Eugenio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50726.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BAZZE, Miguel Ángel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50687.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BEDANO, Nora Esther",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4649.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BENEDETTI, Atilio Francisco Salvador",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4774.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BERNAL, María Eugenia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4821.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BERTOL, Paula María",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4469.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BERTONE, Rosana Andrea",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4080.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BIANCHI, Ivana María",
+    "party": "Frente Peronista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4585.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BIANCHI, María del Carmen",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50703.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BIDEGAIN, Gloria Mercedes",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4621.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BIELLA CALVET, Bernardo José",
+    "party": "U.De.So. Salta",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50745.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BLANCO DE PERALTA, Blanca",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4750.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BRAWER, Mara",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50706.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BRILLO, José Ricardo",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4516.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BRIZUELA Y DORIA DE CARA, Olga Inés",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50733.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BROMBERG, Isaac Benjamín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50765.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BROWN, Carlos Ramón",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50686.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BRUE, Daniel Agustín",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4539.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BULLRICH, Patricia",
+    "party": "Unión por Todos",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4665.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "BURYAILE, Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "Formosa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4757.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CALCAGNO Y MAILLMANN, Eric",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50678.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CAMAÑO, Graciela",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CARDELLI, Jorge Justo",
+    "party": "Proyecto Sur",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4794.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CARLOTTO, Remo Gerardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4438.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CARMONA, Guillermo Ramón",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50734.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CARRANZA, Carlos Alberto",
+    "party": "Frente Peronista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4810.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CARRIÓ, Elisa María Avelina",
+    "party": "Diálogo y Trabajo",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3815.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CASAÑAS, Juan Francisco",
+    "party": "Unión Cívica Radical",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4747.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CASELLES, Graciela María",
+    "party": "Frente para la Victoria - Partido Bloqui",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4633.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CASTAÑON, Hugo",
+    "party": "Unión Cívica Radical",
+    "region": "Rio Negro",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4754.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CATALAN MAGNI, Julio César",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50762.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CEJAS, Jorge Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4593.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CHEMES, Jorge Omar",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4746.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CHIENO, María Elena",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4772.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CIAMPINI, José Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50740.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CICILIANI, Alicia Mabel",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4756.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CIGOGNA, Luis Francisco Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4162.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CLERI, Marcos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50754.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "COMELLI, Alicia Marcela",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4331.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "COMI, Carlos Marcelo",
+    "party": "Diálogo y Trabajo",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4780.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CONTI, Diana Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4440.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CORDOBA, Stella Maris",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4095.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CORTINA, Roy",
+    "party": "Partido Socialista",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4611.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "COSTA, Eduardo Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4755.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CREMER DE BUSTI, María Cristina",
+    "party": "Frente Peronista",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4600.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CUCCOVILLO, Ricardo Oscar",
+    "party": "Partido Socialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4688.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "CURRILEN, Oscar Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4819.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DATO, Alfredo Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4614.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DE FERRARI RUEDA, Patricia",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50714.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DE GENNARO, Victor Norberto",
+    "party": "Unidad Popular",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50691.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DE MARCHI, Omar Bruno",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4507.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DE NARVAEZ, Francisco",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4441.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DE PEDRO, Eduardo Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50675.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DE PRAT GAY, Alfonso",
+    "party": "Diálogo y Trabajo",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4800.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DEPETRI, Edgardo Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4569.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "di TULLIO, Juliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4443.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DIAZ BANCALARI, José María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A19.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DIAZ ROIG, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4500.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DOMINGUEZ, Julián Andrés",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50671.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DONDA PÉREZ, Victoria Analía",
+    "party": "Libres del Sur",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4657.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DONKIN, Carlos Guillermo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4839.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "DUCLOS, Omar Arnaldo",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50692.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ELICECHE, Carlos Tomas",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50700.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ELORRIAGA, Osvaldo Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50723.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ESPINDOLA, Gladys Susana",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4820.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FADUL, Liliana",
+    "party": "Partido Federal Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4741.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FAUSTINELLI, Hipólito",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4804.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FAVARIO, Carlos Alberto",
+    "party": "Demócrata Progresista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4744.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FELETTI, Roberto José",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50702.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FELIX, Omar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4785.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FERNANDEZ SAGASTI, Anabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50735.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FERNANDEZ, Rodolfo Alfredo",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4760.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FERRA DE BARTOL, Margarita",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4524.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FERRARI, Gustavo Alfredo",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4767.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FERREYRA, Araceli Susana Del Rosario",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50719.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FIAD, Mario Raymundo",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4737.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FIORE VIÑUALES, María Cristina del Valle",
+    "party": "Renovador de Salta",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50744.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FORCONI, Juan Carlos",
+    "party": "No Integra Bloque",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4758.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FORTE, Ulises Umberto",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4777.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FORTUNA, Francisco José",
+    "party": "Córdoba Federal",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4795.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "FRANCIONI, Fabián Marcelo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50710.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GALLARDO, Miriam Graciela del Valle",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4778.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GAMBARO, Natalia",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4768.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GARCIA LARRABURU, Silvina Marcela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50742.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GARCIA, Andrea Fabiana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50681.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GARCÍA, María Teresa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4447.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GARNERO, Estela Ramona",
+    "party": "Córdoba Federal",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4803.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GARRAMUÑO, Jorge Alberto",
+    "party": "Movimiento Popular Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50763.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GARRIDO, Manuel",
+    "party": "Unión Cívica Radical",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50709.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GDANSKY, Carlos Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50674.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GERMANO, Daniel",
+    "party": "Frente Peronista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4751.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GIACCONE, Claudia Alejandra",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50753.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GIACOMINO, Daniel Oscar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50712.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GIANNETTASIO, Graciela María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4694.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GIL LAVEDRA, Ricardo Rodolfo",
+    "party": "Unión Cívica Radical",
+    "region": "C.A.B.A.",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4787.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GIUBERGIA, Miguel Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3682.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GONZÁLEZ, Gladys Esther",
+    "party": "Partido Bloquista de San Juan",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4771.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GONZALEZ, Juan Dante",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4640.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GONZALEZ, Nancy Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4571.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GRANADOS, Dulce",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3458.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GROSSO, Leonardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50683.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GUCCIONE, José Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50738.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GUTIERREZ, Mónica Edith",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50711.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "GUZMAN, Olga Elizabeth",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4823.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "HARISPE, Gastón",
+    "party": "Nuevo Encuentro",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50672.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "HELLER, Carlos Salomón",
+    "party": "Nuevo Encuentro",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4763.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "HERRERA, Griselda Noemí",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50732.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "HERRERA, José Alberto",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4595.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "IANNI, Ana María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50751.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "IBARRA, Eduardo Mauricio",
+    "party": "Unión por San Juan",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4770.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ITURRASPE, Nora Graciela",
+    "party": "Unidad Popular",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4814.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "JUNIO, Juan Carlos Isaac",
+    "party": "Nuevo Encuentro",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50773.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "JURI, Mariana",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4734.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "KOSINER, Pablo Francisco Juan",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50741.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "KRONEBERGER, Daniel Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "KUNKEL, Carlos Miguel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4446.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LANDAU, Jorge Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A116.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LARROQUE, Andrés",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50704.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LEDESMA, Julio Rubén",
+    "party": "Corriente de Pensamiento Federal",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4706.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LEVERBERG, Stella Maris",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4655.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LINARES, María Virginia",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4644.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LLANOS, Ermindo Edgardo Marcelo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4822.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LOTTO, Inés Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50725.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "LOZANO, Claudio Raúl",
+    "party": "Unidad Popular",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4365.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MAJDALANI, Silvia Cristina",
+    "party": "Partido Bloquista de San Juan",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4792.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MALDONADO, Victor Hugo",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50699.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MARTINEZ, Ernesto Félix",
+    "party": "Frente Cívico - Córdoba",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4797.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MARTINEZ, Julio César",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4370.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MARTINEZ, Oscar Ariel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50755.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MARTÍNEZ, Soledad",
+    "party": "Partido Bloquista de San Juan",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4805.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MAZZARELLA, Susana del Valle",
+    "party": "Frente Cívico - Córdoba",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4796.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MENDOZA, Mayra Soledad",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50679.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MENDOZA, Sandra Marcela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4801.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "METAZA, Mario Alfredo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50750.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MICHETTI, Marta Gabriela",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4749.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MILMAN, Gerardo Fabián",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4769.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MIRKIN, Beatriz Graciela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50764.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MOLAS, Pedro Omar",
+    "party": "Del Bicentenario",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4833.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MONGELO, José Ricardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50697.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MORENO, Carlos Julio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4448.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MOUILLERON, Roberto Mario",
+    "party": "Coalición Cívica",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4782.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MOYANO, Juan Facundo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50677.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MULLER, Edgar Raúl",
+    "party": "Frente Peronista",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50717.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "MULLER, Mabel Hilda",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "NAVARRO, Graciela",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50705.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "NEBREDA, Carmen Rosa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4798.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "NEGRI, Mario Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50713.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "OBIGLIO, Julián Martín",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4582.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "OCAÑA, Maria Graciela",
+    "party": "Unidad para el Desarrollo Social y la Equidad",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50688.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "OLIVA, Cristian Rodolfo",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4540.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "OLMEDO, Alfredo Horacio",
+    "party": "Salta Somos Todos",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4825.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "OPORTO, Mario Néstor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50673.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ORSOLINI, Pablo Eduardo",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4742.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ORTIZ CORREA, Marcia Sara María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50696.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ORTIZ, Mariela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50728.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PAIS, Juan Mario",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4613.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PANSA, Sergio Horacio",
+    "party": "Frente Peronista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4735.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PARADA, Liliana Beatriz",
+    "party": "Unidad Popular",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4817.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PASTORIZA, Mirta Ameliana",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4618.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PERALTA, Fabián Francisco",
+    "party": "GEN",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4624.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PEREZ, Alberto José",
+    "party": "Frente Peronista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4766.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PERIE, Julia Argentina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4676.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PEROTTI, Omar Angel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50752.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PERRONI, Ana María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50669.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PIEMONTE, Héctor Horacio",
+    "party": "Diálogo y Trabajo",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4788.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PIETRAGALLA CORTI, Horacio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50685.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PILATTI VERGARA, María Inés",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4809.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PINEDO, Federico",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4384.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PLAINI, Francisco Omar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4764.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PORTELA, Agustín Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4635.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PRADINES, Roberto Arturo",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50736.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PUCHETA, Ramona",
+    "party": "Socialista del MIJD",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50694.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PUERTA, Federico Ramón",
+    "party": "Frente Peronista",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3784.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "PUIGGROS, Adriana Victoria",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4606.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RAIMUNDI, Carlos",
+    "party": "Nuevo Encuentro",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RASINO, Elida Elena",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50758.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RE, Hilma Leonor",
+    "party": "Diálogo y Trabajo",
+    "region": "Entre Ríos",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4807.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RECALDE, Héctor Pedro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4451.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "REDCZUK, Oscar Felipe",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50739.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "REGAZZOLI, María Cristina",
+    "party": "Partido Justicialista La Pampa",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4752.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RIESTRA, Antonio Sabino",
+    "party": "Unidad Popular",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50760.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RIOS, Liliana María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50722.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RIOS, Roberto Fabián",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50718.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RISKO, Silvia Lucrecia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4783.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RIVARA, Raúl Alberto",
+    "party": "Coalición Cívica",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4784.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RIVAROLA, Rubén Armando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50727.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RIVAS, Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3770.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ROBERTI, Alberto Oscar",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50689.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ROBLEDO, Roberto Ricardo",
+    "party": "Partido Justicialista La Pampa",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4753.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RODRIGUEZ, Marcela Virginia",
+    "party": "Democracia Igualitaria y Participativa",
+    "region": "Buenos Aires",
+    "vote": "ABSTENCION",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4139.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ROGEL, Fabián Dulio",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50724.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ROSSI, Agustín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4536.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RUCCI, Claudia Mónica",
+    "party": "Frente Peronista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4786.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "RUIZ, Aida Delia",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50761.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SABBATELLA, Martín",
+    "party": "Nuevo Encuentro",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4816.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SACCA, Luis Fernando",
+    "party": "Unión Cívica Radical",
+    "region": "Tucumán",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50767.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SALIM, Juan Arturo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4544.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SANTILLÁN, Walter Marcelo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50766.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SANTIN, Eduardo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50690.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SCHMIDT LIERMANN, Cornelia",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50708.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SCIUTTO, Rubén Darío",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4609.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SEGARRA, Adela Rosa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4690.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SIMONCINI, Silvia Rosa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50756.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SOLÁ, Felipe Carlos",
+    "party": "Coalición Cívica",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4697.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SOLANAS, Fernando Ezequiel",
+    "party": "Proyecto Sur",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4818.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SOLANAS, Julio Rodolfo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50721.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "SOTO, Gladys Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50698.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "STOLBIZER, Margarita Rosa",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1460.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "STORANI, María Luisa",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4789.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "TERADA, Alicia",
+    "party": "Diálogo y Trabajo",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "THOMAS, Enrique Luis",
+    "party": "Frente Peronista",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4508.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "TINEO, Javier Héctor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50731.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "TOMAS, Héctor Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4802.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "TONELLI, Pablo Gabriel",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50707.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "TRIACA, Alberto Jorge",
+    "party": "Partido Bloquista de San Juan",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4739.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "TUNESSI, Juan Pedro",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4776.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "UÑAC, José Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50746.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "VALINOTTO, Jorge Anselmo",
+    "party": "Frente Cívico - Córdoba",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50715.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "VAQUIE, Enrique Andrés",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "NEGATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50737.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "VEAUTE, Mariana Alejandra",
+    "party": "Del Bicentenario",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4761.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "VIDELA, Nora Esther",
+    "party": "Frente Peronista",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4765.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "VILARIÑO, José Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4647.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "VILLA, José Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50747.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "VILLATA, Graciela Susana",
+    "party": "Frente Cívico - Córdoba",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50716.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "WAYAR, Walter Raúl",
+    "party": "Frente Peronista Federal",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4826.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "xx BORRAR, Manuel Isauro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50695.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "YAGÛE, Linda Cristina",
+    "party": "Unión Cívica Radical",
+    "region": "Neuquén",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50772.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "YARADE, Rodolfo Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4806.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "YAZBEK, Rubén David",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50770.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "YOMA, Jorge Raul",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4793.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ZABALZA, Juan Carlos",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50757.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ZIEBART, Cristina Isabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50701.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2011-12-16 08:45:56",
+    "votingId": 448,
+    "legislator": "ZIEGLER, Alex Roberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4781.jpg",
+    "videoUrl": null
+  }
+]

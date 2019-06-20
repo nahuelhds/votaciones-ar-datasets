@@ -1,0 +1,935 @@
+[
+  {
+    "id": 3305,
+    "date": "2002-12-19 15:36:00",
+    "title": "Presupuesto 2003 --  Artículos 31 y 32",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120EE01_11_R38.pdf",
+    "detailsUrl": "/votacion/3305",
+    "videoUrl": null,
+    "records": [],
+    "period": 120,
+    "meeting": 38,
+    "record": 11,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 80,
+    "negativeCount": 80,
+    "abstentionCount": 7,
+    "absentCount": 89
+  },
+  {
+    "id": 3303,
+    "date": "2002-12-19 01:23:00",
+    "title": "Expediente Nro. 121-PE-02  --  Pedido de vuelta a comisión",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120EE01_08_R38.pdf",
+    "detailsUrl": "/votacion/3303",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "121-PE-2002",
+        "title": "MODIFICACIONES A LA LEY 23966, DE IMPUESTO SOBRE LOS COMBUSTIBLES LÍQUIDOS Y EL GAS NATURAL.",
+        "votingId": 3303
+      }
+    ],
+    "period": 120,
+    "meeting": 38,
+    "record": 8,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 107,
+    "negativeCount": 61,
+    "abstentionCount": 1,
+    "absentCount": 87
+  },
+  {
+    "id": 3226,
+    "date": "2002-11-29 00:29:00",
+    "title": "Exp. 273-S-01 - Reconsideración de la Votación",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_15_R36.pdf",
+    "detailsUrl": "/votacion/3226",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "273-S-2001",
+        "title": "CREACIÓN DEL PROGRAMA DE INGRESO PARA EL DESARROLLO HUMANO (REPRODUCCIÓN DEL EXPEDIENTE 1468-S-99).",
+        "votingId": 3226
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 15,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 97,
+    "negativeCount": 72,
+    "abstentionCount": 12,
+    "absentCount": 75
+  },
+  {
+    "id": 3225,
+    "date": "2002-11-29 00:18:00",
+    "title": "Exp. 273-S-01 Aceptación Sanción Original Honorable Senado",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_14_R36.pdf",
+    "detailsUrl": "/votacion/3225",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "273-S-2001",
+        "title": "CREACIÓN DEL PROGRAMA DE INGRESO PARA EL DESARROLLO HUMANO (REPRODUCCIÓN DEL EXPEDIENTE 1468-S-99).",
+        "votingId": 3225
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 14,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 95,
+    "negativeCount": 75,
+    "abstentionCount": 15,
+    "absentCount": 71
+  },
+  {
+    "id": 3224,
+    "date": "2002-11-29 00:07:00",
+    "title": "Exp. 7402-D-02 - Insistencia - Rechazo al Veto Poder Ejecutivo",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_13_R36.pdf",
+    "detailsUrl": "/votacion/3224",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7402-D-2002",
+        "title": "RECHAZAR EL VETO DEL PODER EJECUTIVO A LA LEY 25671, RELACIONADA CON EL FONDO ESPECIAL DE SALTO GRANDE.",
+        "votingId": 3224
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 13,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 185,
+    "negativeCount": 2,
+    "abstentionCount": 5,
+    "absentCount": 64
+  },
+  {
+    "id": 3223,
+    "date": "2002-11-28 23:54:00",
+    "title": "Exp.185-S-02 - Fecha 27-04-03  - Elecciones Presidenciales Art. 7",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_12_R36.pdf",
+    "detailsUrl": "/votacion/3223",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2002",
+        "title": "DEROGACION DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLITICOS).",
+        "votingId": 3223
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 12,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 133,
+    "negativeCount": 42,
+    "abstentionCount": 39,
+    "absentCount": 42
+  },
+  {
+    "id": 3222,
+    "date": "2002-11-28 23:52:00",
+    "title": "Exp.185-S-02  - Fecha 27-04-03 - Elecciones Presidenciales Art. 6",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_11_R36.pdf",
+    "detailsUrl": "/votacion/3222",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2002",
+        "title": "DEROGACION DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLITICOS).",
+        "votingId": 3222
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 11,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 151,
+    "negativeCount": 29,
+    "abstentionCount": 35,
+    "absentCount": 41
+  },
+  {
+    "id": 3221,
+    "date": "2002-11-28 23:52:00",
+    "title": "Exp.185-S-02  - Fecha 27-04-03  - Elecciones Presidenciales Art. 5",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_10_R36.pdf",
+    "detailsUrl": "/votacion/3221",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2002",
+        "title": "DEROGACION DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLITICOS).",
+        "votingId": 3221
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 10,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 134,
+    "negativeCount": 46,
+    "abstentionCount": 35,
+    "absentCount": 41
+  },
+  {
+    "id": 3220,
+    "date": "2002-11-28 23:51:00",
+    "title": "Exp.185-S-02 - Fecha 27-04-03  - Elecciones Presidenciales Art. 4",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_09_R36.pdf",
+    "detailsUrl": "/votacion/3220",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2002",
+        "title": "DEROGACION DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLITICOS).",
+        "votingId": 3220
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 9,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 134,
+    "negativeCount": 46,
+    "abstentionCount": 35,
+    "absentCount": 41
+  },
+  {
+    "id": 3219,
+    "date": "2002-11-28 23:50:00",
+    "title": "Exp.185-S-02  - Fecha 27-04-03 - Elecciones Presidenciales Art. 3",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_08_R36.pdf",
+    "detailsUrl": "/votacion/3219",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2002",
+        "title": "DEROGACION DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLITICOS).",
+        "votingId": 3219
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 8,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 135,
+    "negativeCount": 47,
+    "abstentionCount": 32,
+    "absentCount": 42
+  },
+  {
+    "id": 3218,
+    "date": "2002-11-28 23:49:00",
+    "title": "Exp.185-S-02 - Fecha 27-04-03  - Elecciones Presidenciales Art.2",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_07_R36.pdf",
+    "detailsUrl": "/votacion/3218",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2002",
+        "title": "DEROGACION DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLITICOS).",
+        "votingId": 3218
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 7,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 136,
+    "negativeCount": 46,
+    "abstentionCount": 30,
+    "absentCount": 44
+  },
+  {
+    "id": 3217,
+    "date": "2002-11-28 23:46:00",
+    "title": "Exp.185-S-02  - Fecha 27-04-03 - Elecciones Presidenciales Art. 1",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_06_R36.pdf",
+    "detailsUrl": "/votacion/3217",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2002",
+        "title": "DEROGACION DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLITICOS).",
+        "votingId": 3217
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 6,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 160,
+    "negativeCount": 18,
+    "abstentionCount": 36,
+    "absentCount": 42
+  },
+  {
+    "id": 3216,
+    "date": "2002-11-28 23:31:00",
+    "title": "Exp.185-S-02 - Fecha 27-04-03 de Elecciones Presidenciales. Votación en General  -----  La Dip. María Lelia Chaya manifiesta su voto",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT17_05_R36.pdf",
+    "detailsUrl": "/votacion/3216",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "185-S-2",
+        "title": "DEROGACIÓN DE LA LEY 25611 (INTERNAS ABIERTAS) Y RESTABLECIMIENTO DE LA VIGENCIA DE LAS NORMAS DE LA LEY 23298 (PARTIDOS POLÍTICOS).",
+        "votingId": 3216
+      }
+    ],
+    "period": 120,
+    "meeting": 36,
+    "record": 5,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 147,
+    "negativeCount": 42,
+    "abstentionCount": 25,
+    "absentCount": 42
+  },
+  {
+    "id": 3239,
+    "date": "2002-10-11 06:04:00",
+    "title": "Exp. 7835-D-00 Ord. Día 403 Dict. Mayoría Dr. Fayt C.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_09_R31.pdf",
+    "detailsUrl": "/votacion/3239",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3239
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 9,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 86,
+    "negativeCount": 136,
+    "abstentionCount": 15,
+    "absentCount": 19
+  },
+  {
+    "id": 3238,
+    "date": "2002-10-11 06:03:00",
+    "title": "Exp. 7835-D-00 Ord. Día 402 Dict. Mayoría Dr. Bossert G.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_08_R31.pdf",
+    "detailsUrl": "/votacion/3238",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3238
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 8,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 63,
+    "negativeCount": 169,
+    "abstentionCount": 5,
+    "absentCount": 19
+  },
+  {
+    "id": 3237,
+    "date": "2002-10-11 06:02:00",
+    "title": "Exp. 7835-D-00 Ord. Día 401 Dict. Mayoría Dr. Boggiano A.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_07_R31.pdf",
+    "detailsUrl": "/votacion/3237",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3237
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 7,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 131,
+    "negativeCount": 98,
+    "abstentionCount": 8,
+    "absentCount": 19
+  },
+  {
+    "id": 3236,
+    "date": "2002-10-11 06:02:00",
+    "title": "Exp. 7835-D-00 Ord. Día 400 Dict. Mayoría Dr. Vazquez A.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_06_R31.pdf",
+    "detailsUrl": "/votacion/3236",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3236
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 6,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 140,
+    "negativeCount": 94,
+    "abstentionCount": 3,
+    "absentCount": 19
+  },
+  {
+    "id": 3235,
+    "date": "2002-10-11 06:00:00",
+    "title": "Exp. 7835-D-00 Ord. Día 399 Dict. Mayoría Dr. Petracchi E.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_05_R31.pdf",
+    "detailsUrl": "/votacion/3235",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3235
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 5,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 74,
+    "negativeCount": 159,
+    "abstentionCount": 3,
+    "absentCount": 20
+  },
+  {
+    "id": 3234,
+    "date": "2002-10-11 05:59:00",
+    "title": "Exp. 7835-D-00 Ord. Día 397 Dict. Mayoría Dr.Moliné O'Connor",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_04_R31.pdf",
+    "detailsUrl": "/votacion/3234",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3234
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 4,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 139,
+    "negativeCount": 95,
+    "abstentionCount": 2,
+    "absentCount": 20
+  },
+  {
+    "id": 3233,
+    "date": "2002-10-11 05:58:00",
+    "title": "Exp. 7835-D-00 Ord. Día 398 Dict Mayoría Dr. Belluscio A.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_03_R31.pdf",
+    "detailsUrl": "/votacion/3233",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3233
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 3,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 122,
+    "negativeCount": 110,
+    "abstentionCount": 5,
+    "absentCount": 19
+  },
+  {
+    "id": 3232,
+    "date": "2002-10-11 05:57:00",
+    "title": "Exp. 7835-D-00 Ord. Día 396 Dict. Mayoría Dr. Lopez G.",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_02_R31.pdf",
+    "detailsUrl": "/votacion/3232",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLITICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACION.",
+        "votingId": 3232
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 2,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 132,
+    "negativeCount": 98,
+    "abstentionCount": 7,
+    "absentCount": 19
+  },
+  {
+    "id": 3231,
+    "date": "2002-10-11 05:56:00",
+    "title": "Exp. 7835-D-00   Ord. Dia 395 Dict. Mayoria Dr. Nazareno J. La Diputada María Lelia Chaya manifiesta su voto NEGATIVO",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT16_01_R31.pdf",
+    "detailsUrl": "/votacion/3231",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "7835-D-0",
+        "title": "PROMOVER JUICIO POLÍTICO A LOS MINISTROS DE LA CORTE SUPREMA DE JUSTICIA DE LA NACIÓN.",
+        "votingId": 3231
+      }
+    ],
+    "period": 120,
+    "meeting": 31,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 143,
+    "negativeCount": 90,
+    "abstentionCount": 2,
+    "absentCount": 21
+  },
+  {
+    "id": 3287,
+    "date": "2002-10-09 21:59:00",
+    "title": "Expediente Nº  6165 - D - 02    C.E.R. Votación en General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OE01_01_R29.pdf",
+    "detailsUrl": "/votacion/3287",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "6165-D-2",
+        "title": "REGIMEN POR EL CUAL SE APLICA A LAS OBLIGACIONES EXPRESADAS EN DOLARES ESTADOUNIDENSES U OTRA MONEDA EXTRANJERA PESIFICADOS EL COEFICIENTE DE ESTABILIZACION DE REFERENCIA (CER) QUE SE COMPONDRA DE UNA TASA DE VARIACION DIARIA SEGUN LA EVOLUCION MENSUAL DEL INDICE DE PRECIOS AL CONSUMIDOR (IPC).",
+        "votingId": 3287
+      }
+    ],
+    "period": 120,
+    "meeting": 29,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 169,
+    "negativeCount": 49,
+    "abstentionCount": 4,
+    "absentCount": 34
+  },
+  {
+    "id": 3248,
+    "date": "2002-08-21 22:19:00",
+    "title": "Exp 13-PE-02 Derog. Reg. Especiales - Art 7 Desp. de Mayoría",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT11_08_R19.pdf",
+    "detailsUrl": "/votacion/3248",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "13-PE-2",
+        "title": "DEROGACION DE LOS REGIMENES JUBILATORIOS DE PRIVILEGIO.",
+        "votingId": 3248
+      }
+    ],
+    "period": 120,
+    "meeting": 19,
+    "record": 8,
+    "president": "NATALE, Alberto Adolfo",
+    "affirmativeCount": 91,
+    "negativeCount": 93,
+    "abstentionCount": 1,
+    "absentCount": 71
+  },
+  {
+    "id": 3245,
+    "date": "2002-08-15 03:22:00",
+    "title": "Exp 13-PE-02  Derogación Regímenes Especiales -- Artículo  1",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT11_03_R18.pdf",
+    "detailsUrl": "/votacion/3245",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "13-PE-2",
+        "title": "DEROGACION DE LOS REGIMENES JUBILATORIOS DE PRIVILEGIO.",
+        "votingId": 3245
+      }
+    ],
+    "period": 120,
+    "meeting": 18,
+    "record": 3,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 161,
+    "negativeCount": 2,
+    "abstentionCount": 8,
+    "absentCount": 85
+  },
+  {
+    "id": 3243,
+    "date": "2002-08-08 16:48:00",
+    "title": "Exp 48-PE-01 Sobre propiedad participada del personal de YPF",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT11_01_R17.pdf",
+    "detailsUrl": "/votacion/3243",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "48-PE-1",
+        "title": "COMUNICACION DEL DECRETO 1477/01 POR EL CUAL SE OBSERVA Y SE DEVUELVE EL PROYECTO DE LEY REGISTRADO BAJO EL NUMERO 25471 DE PROPIEDAD PARTICIPADA DEL PERSONAL DE YPF.",
+        "votingId": 3243
+      }
+    ],
+    "period": 120,
+    "meeting": 17,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 173,
+    "negativeCount": 2,
+    "abstentionCount": 11,
+    "absentCount": 70
+  },
+  {
+    "id": 3249,
+    "date": "2002-07-31 20:52:00",
+    "title": "Insistencia Exp. 38-PE-01 - Proy. Ley 25464",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT10_01_R16.pdf",
+    "detailsUrl": "/votacion/3249",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "38-PE-1",
+        "title": "DECRETO 1194/2001 POR EL CUAL SE OBSERVA TOTALMENTE EL PROYECTO DE LEY 25464, DE COMPETENCIA ORIGINARIA DE LA CIUDAD AUTONOMA DE BUENOS AIRES Y DE LOS MUNICIPIOS PARA LA FIJACION DEL DERECHO DE OCUPACION POR EL USO DIFERENCIAL DEL ESPACIO AEREO Y TERRESTRE MUNICIPAL.",
+        "votingId": 3249
+      }
+    ],
+    "period": 120,
+    "meeting": 16,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 131,
+    "negativeCount": 7,
+    "abstentionCount": 6,
+    "absentCount": 112
+  },
+  {
+    "id": 3266,
+    "date": "2002-05-24 03:09:00",
+    "title": "Ley 20840 - Subversión Económica Modific. Despacho Minoría",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT05_02_R10.pdf",
+    "detailsUrl": "/votacion/3266",
+    "videoUrl": null,
+    "records": [],
+    "period": 120,
+    "meeting": 10,
+    "record": 2,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 102,
+    "negativeCount": 84,
+    "abstentionCount": 14,
+    "absentCount": 56
+  },
+  {
+    "id": 3265,
+    "date": "2002-05-24 03:05:00",
+    "title": "Ley 20.840 - Subversión Económica  Modificaciones - Vot Gral",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT05_01_R10.pdf",
+    "detailsUrl": "/votacion/3265",
+    "videoUrl": null,
+    "records": [],
+    "period": 120,
+    "meeting": 10,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 99,
+    "negativeCount": 102,
+    "abstentionCount": 4,
+    "absentCount": 51
+  },
+  {
+    "id": 3267,
+    "date": "2002-05-10 01:19:00",
+    "title": "Exp. 21-PE-02 Mod. Ley 25563 (Quiebras) Vot. Gral.",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT03_01_R08.pdf",
+    "detailsUrl": "/votacion/3267",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "21-PE-2",
+        "title": "MODIFICACION A LA LEY 25563, DE EMERGENCIA ECONOMICA, RESTABLECIENDO EFECTOS DE LA LEY 24522 DE CONCURSOS Y QUIEBRAS.",
+        "votingId": 3267
+      }
+    ],
+    "period": 120,
+    "meeting": 8,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 180,
+    "negativeCount": 47,
+    "abstentionCount": 8,
+    "absentCount": 21
+  },
+  {
+    "id": 3285,
+    "date": "2002-04-25 06:14:00",
+    "title": "Expediente Nº 23 - S - 02",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT02_15_R07.pdf",
+    "detailsUrl": "/votacion/3285",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "23-S-2",
+        "title": "DIRIGIRSE AL PODER EJECUTIVO NACIONAL PARA MANIFESTARLE LA ADECUACION A LO INFORMADO POR RESOLUCION REMITIDA POR LA AUDITORIA GENERAL DE LA NACION SOBRE AUDITORIA DE GESTION DE ADMINISTRACION DE PASIVOS - CANJE DE DEUDA PUBLICA 19 DE JUNIO DE 2001 (0023-OV-02) Y AMPLIACION DE LA MENCIONADA RESOLUCION (0061-OV-02).",
+        "votingId": 3285
+      }
+    ],
+    "period": 120,
+    "meeting": 7,
+    "record": 15,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 93,
+    "negativeCount": 57,
+    "abstentionCount": 33,
+    "absentCount": 73
+  },
+  {
+    "id": 3284,
+    "date": "2002-04-25 01:49:00",
+    "title": "Modificación del Artículo 80 del Código Penal",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT02_14_R07.pdf",
+    "detailsUrl": "/votacion/3284",
+    "videoUrl": null,
+    "records": [],
+    "period": 120,
+    "meeting": 7,
+    "record": 14,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 162,
+    "negativeCount": 52,
+    "abstentionCount": 2,
+    "absentCount": 40
+  },
+  {
+    "id": 3279,
+    "date": "2002-04-18 01:10:00",
+    "title": "Financiamiento de Partidos Políticos -- Cap. 4 Art. 32 al 38",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT02_09_R06.pdf",
+    "detailsUrl": "/votacion/3279",
+    "videoUrl": null,
+    "records": [],
+    "period": 120,
+    "meeting": 6,
+    "record": 9,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 134,
+    "negativeCount": 38,
+    "abstentionCount": 12,
+    "absentCount": 72
+  },
+  {
+    "id": 3274,
+    "date": "2002-04-17 20:25:00",
+    "title": "Apart. Reglamento Dip. G. CAMAÑO - Mod. Art. 80 Código Penal",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT02_04_R06.pdf",
+    "detailsUrl": "/votacion/3274",
+    "videoUrl": null,
+    "records": [],
+    "period": 120,
+    "meeting": 6,
+    "record": 4,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 135,
+    "negativeCount": 35,
+    "abstentionCount": 2,
+    "absentCount": 84
+  },
+  {
+    "id": 3273,
+    "date": "2002-04-11 06:54:00",
+    "title": "Expediente Nº 390-D-02 -- Exclusion de la Diputada ANCARANI",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT02_03_R04.pdf",
+    "detailsUrl": "/votacion/3273",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "390-D-2",
+        "title": "SOLICITAR A LA COMISION DE ASUNTOS CONSTITUCIONALES EL EXAMEN DE DECLARACIONES PUBLICAS DE LA SEÑORA DIPUTADA ANCARANI DE GODOY Y LAS IMPUTACIONES QUE SE REALIZARON EL 6 DE MARZO EN EL PROGRAMA PERIODISTICO 'PUNTO DOC'.",
+        "votingId": 3273
+      }
+    ],
+    "period": 120,
+    "meeting": 4,
+    "record": 3,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 167,
+    "negativeCount": 1,
+    "abstentionCount": 5,
+    "absentCount": 83
+  },
+  {
+    "id": 3298,
+    "date": "2002-03-14 03:18:00",
+    "title": "Expediente  Nº 100 PE/01 Art. 1 LEY DE IMPUESTO AL VALOR AGREGADO (LEY 23349, TEXTO ORDENADO 1997 Y MODIFICATORIAS): MODIFICACIONES",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT01_04_R01.pdf",
+    "detailsUrl": "/votacion/3298",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "100-PE-2001",
+        "title": "LEY DE IMPUESTO AL VALOR AGREGADO (LEY 23349, TEXTO ORDENADO 1997 Y MODIFICATORIAS): MODIFICACIONES. Artículo 1",
+        "votingId": 3298
+      }
+    ],
+    "period": 120,
+    "meeting": 1,
+    "record": 4,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 88,
+    "negativeCount": 53,
+    "abstentionCount": 11,
+    "absentCount": 104
+  },
+  {
+    "id": 3297,
+    "date": "2002-03-14 03:02:00",
+    "title": "Expediente  Nº 100 PE/01 - Votación en General LEY DE IMPUESTO AL VALOR AGREGADO (LEY 23349, TEXTO ORDENADO 1997 Y MODIFICATORIAS): MODIFICACIONES",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT01_03_R01.pdf",
+    "detailsUrl": "/votacion/3297",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "100-PE-2001",
+        "title": "LEY DE IMPUESTO AL VALOR AGREGADO (LEY 23349, TEXTO ORDENADO 1997 Y MODIFICATORIAS): MODIFICACIONES",
+        "votingId": 3297
+      }
+    ],
+    "period": 120,
+    "meeting": 1,
+    "record": 3,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 104,
+    "negativeCount": 34,
+    "abstentionCount": 11,
+    "absentCount": 107
+  },
+  {
+    "id": 3294,
+    "date": "2002-03-13 22:31:00",
+    "title": "Mocion de Orden Dip. Polino",
+    "type": "Votación Nominal",
+    "result": "NEGATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2002/120OT01_02_R01.pdf",
+    "detailsUrl": "/votacion/3294",
+    "videoUrl": null,
+    "records": [],
+    "period": 120,
+    "meeting": 1,
+    "record": 2,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 94,
+    "negativeCount": 102,
+    "abstentionCount": 5,
+    "absentCount": 55
+  },
+  {
+    "id": 3378,
+    "date": "2002-03-01 03:41:00",
+    "title": "Presupuesto General de Gastos y Cálculo de Recursos de la Administración Nacional para el ejercicio 2002 - Vot. en General",
+    "type": "Votación Nominal",
+    "result": "AFIRMATIVO",
+    "recordUrl": "https://votaciones.hcdn.gob.ar/proxy/pdf/2001/119OE04_01_R50.pdf",
+    "detailsUrl": "/votacion/3378",
+    "videoUrl": null,
+    "records": [
+      {
+        "id": "52-JGM-2001",
+        "title": "Presupuesto general de gastos y cálculo de recursos de la administración nacional para el ejercicio 2002.",
+        "votingId": 3378
+      }
+    ],
+    "period": 119,
+    "meeting": 50,
+    "record": 1,
+    "president": "CAMAÑO, Eduardo Oscar",
+    "affirmativeCount": 156,
+    "negativeCount": 60,
+    "abstentionCount": 6,
+    "absentCount": 34
+  }
+]

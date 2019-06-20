@@ -1,0 +1,2572 @@
+[
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ABDALA DE MATARAZZO, Norma Amanda",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "PRESIDENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4759.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ABRAHAM, Alejandro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50842.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "AGUAD, Oscar Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4491.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "AGUILAR, Lino Walter",
+    "party": "Compromiso Federal",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50748.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ALEGRE, Gilberto Oscar",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50782.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ALFONSÍN, Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4775.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ALONSO, Laura",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4732.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ALONSO, María Luz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50729.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ARENAS, Berta Hortensia",
+    "party": "Compromiso Federal",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50859.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ARGUMEDO, Alcira Susana",
+    "party": "Libertad, Valores y Cambios",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4808.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ARREGUI, Andrés Roberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50676.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ASSEFF, Alberto Emilio",
+    "party": "UNIR",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50693.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "AVOSCAN, Herman Horacio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50743.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BALCEDO, María Ester",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50684.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BALDASSI, Héctor Walter",
+    "party": "Unión PRO",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50820.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BARCHETTA, Omar Segundo",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50759.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BARDEGGIA, Luis María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50851.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BARLETTA, Mario Domingo",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50864.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BARRETO, Jorge Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50832.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BASTERRA, Luis Eugenio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50726.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BAZZE, Miguel Ángel",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50687.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BEDANO, Nora Esther",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4649.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BERGMAN, Sergio Alejandro",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50808.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BERNABEY, Ramón Ernesto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50883.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BIANCHI, Ivana María",
+    "party": "Compromiso Federal",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4585.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BIANCHI, María del Carmen",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50703.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BIDEGAIN, Gloria Mercedes",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4621.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BIELLA CALVET, Bernardo José",
+    "party": "U.De.So. Salta",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50745.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BINNER, Hermes Juan",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50865.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BOYADJIAN, Graciela Eunice",
+    "party": "Movimiento Popular Fueguino",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50873.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BRAWER, Mara",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50706.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BRIZUELA DEL MORAL, Eduardo Segundo",
+    "party": "Fte. Cívico y Social de Catamarca",
+    "region": "Catamarca",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50805.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BROMBERG, Isaac Benjamín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50765.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BROWN, Carlos Ramón",
+    "party": "Fe",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50686.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BULLRICH, Patricia",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4665.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BURGOS, María Gabriela",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50836.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "BURYAILE, Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4757.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CABANDIÉ, Juan",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50809.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CÁCERES, Eduardo Augusto",
+    "party": "Unión PRO",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50857.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CALCAGNO Y MAILLMANN, Eric",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50678.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CAMAÑO, Graciela",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3457.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CANELA, Susana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50853.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CANO, José Manuel",
+    "party": "Unión Cívica Radical",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50877.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CARLOTTO, Remo Gerardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4438.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CARMONA, Guillermo Ramón",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50734.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CARRILLO, María del Carmen",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50779.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CARRIÓ, Elisa María Avelina",
+    "party": "Coalición Cívica - ARI - UNEN",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3815.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CARRIZO, Ana Carla",
+    "party": "SUMA + UNEN",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50810.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CARRIZO, Nilda Mabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50879.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CARRIZO, Soledad",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50821.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CASAÑAS, Juan Francisco",
+    "party": "Unión Cívica Radical",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4747.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CASELLES, Graciela María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4633.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CASERIO, Carlos Alberto",
+    "party": "Unión por Córdoba",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50822.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CASTRO, Sandra Daniela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50858.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CEJAS, Jorge Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4593.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CIAMPINI, José Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50740.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CICILIANI, Alicia Mabel",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4756.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CLERI, Marcos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50754.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "COBOS, Julio César Cleto",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50843.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "COMELLI, Alicia Marcela",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4331.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CONTI, Diana Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4440.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CONTRERA, Mónica Graciela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50780.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CORTINA, Roy",
+    "party": "Partido Socialista",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4611.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "COSTA, Eduardo Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4755.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CREMER DE BUSTI, María Cristina",
+    "party": "Unión por Entre Ríos",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4600.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "CUCCOVILLO, Ricardo Oscar",
+    "party": "Partido Socialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4688.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "D'AGOSTINO, Jorge Marcelo",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50835.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "D'ALESSANDRO, Marcelo Silvio",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50783.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DAER, Héctor Ricardo",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50784.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DAS NEVES, Mario",
+    "party": "Trabajo y Dignidad",
+    "region": "Chubut",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50818.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DATO, Alfredo Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4614.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DE FERRARI RUEDA, Patricia",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50714.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DE GENNARO, Victor Norberto",
+    "party": "Unidad Popular",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50691.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DE MENDIGUREN, José Ignacio",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50785.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DE NARVAEZ, Francisco",
+    "party": "Unión Celeste y Blanco",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4441.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DE PEDRO, Eduardo Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50675.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DEL CAÑO, Nicolás",
+    "party": "PTS - Frente de Izquierda",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50844.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DEPETRI, Edgardo Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4569.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "di TULLIO, Juliana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4443.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DIAZ BANCALARI, José María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A19.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DIAZ ROIG, Juan Carlos",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4500.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DOMINGUEZ, Julián Andrés",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50671.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DONDA PÉREZ, Victoria Analía",
+    "party": "Libres del Sur",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4657.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DONKIN, Carlos Guillermo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4839.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DUCLOS, Omar Arnaldo",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50692.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "DURAND CORNEJO, Guillermo Mario",
+    "party": "Conservador Popular",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50854.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "EHCOSOR, María Azucena",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50786.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ELORRIAGA, Osvaldo Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50723.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ESPER, Laura Reneé",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50787.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "FABIANI, Eduardo Alberto",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50788.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "FELETTI, Roberto José",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50702.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "FERNÁNDEZ MENDÍA, Gustavo Rodolfo",
+    "party": "Partido Justicialista La Pampa",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50839.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "FERNANDEZ SAGASTI, Anabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50735.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "FERREYRA, Araceli Susana Del Rosario",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50719.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "FIAD, Mario Raymundo",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4737.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "FRANCIONI, Fabián Marcelo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50710.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GAGLIARDI, Josué",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50790.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GAILLARD, Ana Carolina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50833.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GALLARDO, Miriam Graciela del Valle",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4778.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GARCIA, Andrea Fabiana",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50681.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GARCÍA, María Teresa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4447.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GARRIDO, Manuel",
+    "party": "Unión Cívica Radical",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50709.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GDANSKY, Carlos Enrique",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50674.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GERVASONI, Lautaro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50834.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GIACCONE, Claudia Alejandra",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50753.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GIACOMINO, Daniel Oscar",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50712.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GIANNETTASIO, Graciela María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4694.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GILL, Martín Rodrigo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50823.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GIMÉNEZ, Patricia Viviana",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50845.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GIUBERGIA, Miguel Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3682.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GIUSTOZZI, Rubén Darío",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50791.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GOMEZ BULL, Mauricio Ricardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50862.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GONZÁLEZ, Gladys Esther",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4771.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GONZÁLEZ, Josefina Victoria",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50866.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GONZALEZ, Juan Dante",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4640.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GONZALEZ, Verónica Evangelina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50874.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GRANADOS, Dulce",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3458.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GRIBAUDO, Christian Alejandro",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4692.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GROSSO, Leonardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50683.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GUCCIONE, José Daniel",
+    "party": "BG Juan B. Bustos",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50738.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GUTIERREZ, Héctor María",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50793.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GUTIERREZ, Mónica Edith",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50711.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "GUZMÁN, Sandro Adrián",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50794.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "HARISPE, Gastón",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50672.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "HELLER, Carlos Salomón",
+    "party": "Juntos por Argentina",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4763.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "HERRERA, Griselda Noemí",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50732.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "HERRERA, José Alberto",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4595.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "IANNI, Ana María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50751.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "INSAURRALDE, Martín",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50795.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ISA, Evita Nélida",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50855.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "JAVKIN, Pablo Lautaro",
+    "party": "Coalición Cívica - ARI - UNEN",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50867.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "JUÁREZ, Manuel Humberto",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50872.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "JUÁREZ, Myrian del Valle",
+    "party": "Fte. Cívico y Social de Catamarca",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50806.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "JUNIO, Juan Carlos Isaac",
+    "party": "Juntos por Argentina",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50773.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "KOSINER, Pablo Francisco Juan",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50741.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "KRONEBERGER, Daniel Ricardo",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50730.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "KUNKEL, Carlos Miguel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4446.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LAGORIA, Elia Nelly",
+    "party": "Trabajo y Dignidad",
+    "region": "Chubut",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50819.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LANDAU, Jorge Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A116.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LARROQUE, Andrés",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50704.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LEVERBERG, Stella Maris",
+    "party": "BG Juan B. Bustos",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4655.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LINARES, María Virginia",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4644.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LÓPEZ, Pablo Sebastián",
+    "party": "Fte. de Izquierda y de los Trabajadores",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50856.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LOTTO, Inés Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Formosa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50725.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LOUSTEAU, Martín",
+    "party": "SUMA + UNEN",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50811.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "LOZANO, Claudio Raúl",
+    "party": "Unidad Popular",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4365.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MAC ALLISTER, Carlos Javier",
+    "party": "Unión PRO",
+    "region": "La Pampa",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50838.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MADERA, Teresita",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50841.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MAGARIO, Verónica María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50796.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MAJDALANI, Silvia Cristina",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4792.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MALDONADO, Victor Hugo",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50699.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MARCOPULOS, Juan Fernando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50828.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MARTÍNEZ CAMPOS, Gustavo José",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50815.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MARTINEZ, Julio César",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4370.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MARTÍNEZ, Oscar Anselmo",
+    "party": "Movimiento Solidario Popular",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50875.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MARTINEZ, Oscar Ariel",
+    "party": "Frente Renovador",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50755.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MARTÍNEZ, Soledad",
+    "party": "Unión PRO",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4805.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MASSA, Sergio Tomás",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50797.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MAZURE, Liliana Amalia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50812.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MENDOZA, Mayra Soledad",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50679.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MENDOZA, Sandra Marcela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4801.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MESTRE, Diego Matías",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50824.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "METAZA, Mario Alfredo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50750.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MONGELO, José Ricardo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50697.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MORENO, Carlos Julio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4448.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MOYANO, Juan Facundo",
+    "party": "Cultura, Educación y Trabajo",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50677.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "MULLER, Edgar Raúl",
+    "party": "Compromiso Federal",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50717.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "NAVARRO, Graciela",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50705.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "NEGRI, Mario Raúl",
+    "party": "Unión Cívica Radical",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50713.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "OLIVA, Cristian Rodolfo",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4540.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "OLIVARES, Héctor Enrique",
+    "party": "Unión Cívica Radical",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50882.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "OPORTO, Mario Néstor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50673.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ORTIZ CORREA, Marcia Sara María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50696.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ORTIZ, Mariela",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50728.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PAIS, Juan Mario",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4613.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PARRILLI, Nanci María Agustina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50848.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PASTORI, Luis Mario",
+    "party": "Unión Cívica Radical",
+    "region": "Misiones",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50847.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PASTORIZA, Mirta Ameliana",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4618.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PEDRINI, Juan Manuel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50816.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PERALTA, Fabián Francisco",
+    "party": "GEN",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4624.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PEREZ, José Adrián",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50798.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PÉREZ, Martín Alejandro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tierra del Fuego",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50876.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PERIE, Julia Argentina",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4676.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PEROTTI, Omar Angel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50752.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PERRONI, Ana María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50669.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PETRI, Luis Alfonso",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50846.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PIETRAGALLA CORTI, Horacio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50685.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PINEDO, Federico",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4384.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PITROLA, Néstor Antonio",
+    "party": "Fte. de Izquierda y de los Trabajadores",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50799.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PLAINI, Francisco Omar",
+    "party": "Cultura, Educación y Trabajo",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4764.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PORTELA, Agustín Alberto",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4635.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PRADINES, Roberto Arturo",
+    "party": "Demócrata de Mendoza",
+    "region": "Mendoza",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50736.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PUCHETA, Ramona",
+    "party": "Frente por la Inclusión Social",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50694.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "PUIGGROS, Adriana Victoria",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4606.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RAIMUNDI, Carlos",
+    "party": "Juntos por Argentina",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50680.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RASINO, Elida Elena",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50758.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RECALDE, Héctor Pedro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4451.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "REDCZUK, Oscar Felipe",
+    "party": "BG Juan B. Bustos",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50739.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RICCARDO, José Luis",
+    "party": "Unión Cívica Radical",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50860.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RIESTRA, Antonio Sabino",
+    "party": "Unidad Popular",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50760.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RIOS, Liliana María",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50722.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RISKO, Silvia Lucrecia",
+    "party": "BG Juan B. Bustos",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4783.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RIVAROLA, Rubén Armando",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50727.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RIVAS, Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A3770.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ROBERTI, Alberto Oscar",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50689.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ROGEL, Fabián Dulio",
+    "party": "Unión Cívica Radical",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50724.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ROMERO, Oscar Alberto",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50800.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ROSSI, Blanca Araceli",
+    "party": "Unión por Córdoba",
+    "region": "Córdoba",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50825.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RUBÍN, Carlos Gustavo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50829.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "RUIZ, Aida Delia",
+    "party": "Frente Cívico por Santiago",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50761.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SACCA, Luis Fernando",
+    "party": "Unión Cívica Radical",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50767.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SALINO, Fernando Aldo",
+    "party": "Compromiso Federal",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50861.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SAN MARTÍN, Adrián",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50849.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SÁNCHEZ, Fernando",
+    "party": "Coalición Cívica - ARI - UNEN",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50813.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SANTILLÁN, Walter Marcelo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Tucumán",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50766.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SANTIN, Eduardo",
+    "party": "Unión Cívica Radical",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50690.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SCAGLIA, Gisela",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50869.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SCHIARETTI, Juan",
+    "party": "Unión por Córdoba",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50826.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SCHMIDT LIERMANN, Cornelia",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50708.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SCHWINDT, María Liliana",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50801.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SCIUTTO, Rubén Darío",
+    "party": "Peronismo mas al Sur",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4609.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SEGARRA, Adela Rosa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4690.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SEMHAN, María de las Mercedes",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50830.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SEMINARA, Eduardo Jorge",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50881.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SIMONCINI, Silvia Rosa",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50756.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SOLÁ, Felipe Carlos",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4697.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SOLANAS, Julio Rodolfo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Entre Ríos",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50721.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SORIA, María Emilia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Rio Negro",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50852.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SOTO, Gladys Beatriz",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chaco",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50698.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "SPINOZZI, Ricardo Adrián",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50870.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "STOLBIZER, Margarita Rosa",
+    "party": "GEN",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A1460.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "STURZENEGGER, Federico Adolfo",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50814.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TEJEDOR, Miguel Angel",
+    "party": "Unión Cívica Radical",
+    "region": "Chaco",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50817.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TENTOR, Héctor Olindo",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Jujuy",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50837.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TINEO, Javier Héctor",
+    "party": "Frente para la Victoria - PJ",
+    "region": "La Rioja",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50731.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TOLEDO, Susana María",
+    "party": "Unión Cívica Radical",
+    "region": "Santa Cruz",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50863.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TOMAS, Héctor Daniel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4802.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TOMASSI, Néstor Nicolás",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50807.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TONELLI, Pablo Gabriel",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50707.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TORRES DEL SEL, Miguel Ignacio",
+    "party": "Unión PRO",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50871.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TORROBA, Francisco Javier",
+    "party": "Unión Cívica Radical",
+    "region": "La Pampa",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50840.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TRIACA, Alberto Jorge",
+    "party": "Unión PRO",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4739.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TROIANO, Gabriela Alejandra",
+    "party": "Partido Socialista",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50802.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "TUNDIS, Mirta",
+    "party": "Frente Renovador",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50803.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "UÑAC, José Rubén",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50746.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "VALDÉS, Gustavo Adolfo",
+    "party": "Unión Cívica Radical",
+    "region": "Corrientes",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50831.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "VALINOTTO, Jorge Anselmo",
+    "party": "Frente Cívico - Córdoba",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50715.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "VAQUIE, Enrique Andrés",
+    "party": "Unión Cívica Radical",
+    "region": "Mendoza",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50737.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "VILARIÑO, José Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Salta",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4647.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "VILLA, José Antonio",
+    "party": "Frente para la Victoria - PJ",
+    "region": "San Juan",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50747.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "VILLAR MOLINA, María Inés",
+    "party": "Movimiento Popular Neuquino",
+    "region": "Neuquén",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50850.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "VILLATA, Graciela Susana",
+    "party": "Frente Cívico - Córdoba",
+    "region": "Córdoba",
+    "vote": "AUSENTE",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50716.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "xx BORRAR, Manuel Isauro",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Catamarca",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50695.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ZABALZA, Juan Carlos",
+    "party": "Partido Socialista",
+    "region": "Santa Fe",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50757.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ZAMARREÑO, María Eugenia",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Buenos Aires",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50778.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ZIEBART, Cristina Isabel",
+    "party": "Frente para la Victoria - PJ",
+    "region": "Chubut",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A50701.jpg",
+    "videoUrl": null
+  },
+  {
+    "date": "2014-08-28 00:07:11",
+    "votingId": 116,
+    "legislator": "ZIEGLER, Alex Roberto",
+    "party": "BG Juan B. Bustos",
+    "region": "Misiones",
+    "vote": "AFIRMATIVO",
+    "photoUrl": "https://votaciones.hcdn.gob.ar/public/diputados/images/A4781.jpg",
+    "videoUrl": null
+  }
+]
