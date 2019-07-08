@@ -255,7 +255,7 @@
 "2001-05-03 04:53:00",3356,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","ABSTENCION","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-05-03 04:53:00",3356,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-05-03 04:53:00",3356,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-05-03 04:53:00",3356,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","ABSTENCION","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-05-03 04:53:00",3356,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","ABSTENCION","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-05-03 05:19:00",3357,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-05-03 05:19:00",3357,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-05-03 05:19:00",3357,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -512,7 +512,7 @@
 "2001-05-03 05:19:00",3357,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-05-03 05:19:00",3357,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-05-03 05:19:00",3357,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-05-03 05:19:00",3357,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-05-03 05:19:00",3357,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-05-23 20:23:00",3358,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-05-23 20:23:00",3358,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-05-23 20:23:00",3358,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -769,7 +769,7 @@
 "2001-05-23 20:23:00",3358,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-05-23 20:23:00",3358,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-05-23 20:23:00",3358,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-05-23 20:23:00",3358,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-05-23 20:23:00",3358,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-05-23 20:27:00",3359,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-05-23 20:27:00",3359,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-05-23 20:27:00",3359,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -1026,7 +1026,7 @@
 "2001-05-23 20:27:00",3359,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-05-23 20:27:00",3359,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-05-23 20:27:00",3359,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-05-23 20:27:00",3359,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-05-23 20:27:00",3359,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-07-05 00:23:00",3360,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-07-05 00:23:00",3360,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-07-05 00:23:00",3360,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -1283,7 +1283,7 @@
 "2001-07-05 00:23:00",3360,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-07-05 00:23:00",3360,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-07-05 00:23:00",3360,"ZUCCARDI, Cristina","FREPASO","Mendoza","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-07-05 00:23:00",3360,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-07-05 00:23:00",3360,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-07-21 06:04:00",3361,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-07-21 06:04:00",3361,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-07-21 06:04:00",3361,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -1540,7 +1540,7 @@
 "2001-07-21 06:04:00",3361,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-07-21 06:04:00",3361,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-07-21 06:04:00",3361,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-07-21 06:04:00",3361,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-07-21 06:04:00",3361,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-07-21 07:16:00",3362,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-07-21 07:16:00",3362,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-07-21 07:16:00",3362,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -1797,7 +1797,7 @@
 "2001-07-21 07:16:00",3362,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-07-21 07:16:00",3362,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-07-21 07:16:00",3362,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-07-21 07:16:00",3362,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-07-21 07:16:00",3362,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-07-21 07:17:00",3363,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-07-21 07:17:00",3363,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","ABSTENCION","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-07-21 07:17:00",3363,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -2054,7 +2054,7 @@
 "2001-07-21 07:17:00",3363,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-07-21 07:17:00",3363,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-07-21 07:17:00",3363,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-07-21 07:17:00",3363,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-07-21 07:17:00",3363,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-07-21 07:19:00",3364,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-07-21 07:19:00",3364,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-07-21 07:19:00",3364,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -2311,7 +2311,7 @@
 "2001-07-21 07:19:00",3364,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-07-21 07:19:00",3364,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-07-21 07:19:00",3364,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-07-21 07:19:00",3364,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-07-21 07:19:00",3364,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-07-21 07:23:00",3365,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-07-21 07:23:00",3365,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-07-21 07:23:00",3365,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -2568,7 +2568,7 @@
 "2001-07-21 07:23:00",3365,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-07-21 07:23:00",3365,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-07-21 07:23:00",3365,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-07-21 07:23:00",3365,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-07-21 07:23:00",3365,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-07-21 07:47:00",3366,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-07-21 07:47:00",3366,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-07-21 07:47:00",3366,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -2825,7 +2825,7 @@
 "2001-07-21 07:47:00",3366,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-07-21 07:47:00",3366,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-07-21 07:47:00",3366,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-07-21 07:47:00",3366,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-07-21 07:47:00",3366,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-08-22 22:12:00",3367,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-08-22 22:12:00",3367,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-08-22 22:12:00",3367,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -3082,7 +3082,7 @@
 "2001-08-22 22:12:00",3367,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-08-22 22:12:00",3367,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-08-22 22:12:00",3367,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-08-22 22:12:00",3367,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-08-22 22:12:00",3367,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-09-12 19:21:00",3368,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-09-12 19:21:00",3368,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-09-12 19:21:00",3368,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -3339,7 +3339,7 @@
 "2001-09-12 19:21:00",3368,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-09-12 19:21:00",3368,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-09-12 19:21:00",3368,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-09-12 19:21:00",3368,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-09-12 19:21:00",3368,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-10-24 21:42:00",3369,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-10-24 21:42:00",3369,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-10-24 21:42:00",3369,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -3596,7 +3596,7 @@
 "2001-10-24 21:42:00",3369,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-10-24 21:42:00",3369,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-10-24 21:42:00",3369,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-10-24 21:42:00",3369,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-10-24 21:42:00",3369,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-10-24 22:11:00",3370,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-10-24 22:11:00",3370,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-10-24 22:11:00",3370,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -3853,7 +3853,7 @@
 "2001-10-24 22:11:00",3370,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-10-24 22:11:00",3370,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-10-24 22:11:00",3370,"ZUCCARDI, Cristina","FREPASO","Mendoza","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-10-24 22:11:00",3370,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-10-24 22:11:00",3370,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-11-07 20:07:00",3371,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-11-07 20:07:00",3371,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-11-07 20:07:00",3371,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -4110,7 +4110,7 @@
 "2001-11-07 20:07:00",3371,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-11-07 20:07:00",3371,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-11-07 20:07:00",3371,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-11-07 20:07:00",3371,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-11-07 20:07:00",3371,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-11-07 20:40:00",3372,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-11-07 20:40:00",3372,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","ABSTENCION","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-11-07 20:40:00",3372,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -4367,7 +4367,7 @@
 "2001-11-07 20:40:00",3372,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-11-07 20:40:00",3372,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-11-07 20:40:00",3372,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-11-07 20:40:00",3372,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-11-07 20:40:00",3372,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-11-07 23:18:00",3373,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-11-07 23:18:00",3373,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-11-07 23:18:00",3373,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -4624,7 +4624,7 @@
 "2001-11-07 23:18:00",3373,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-11-07 23:18:00",3373,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-11-07 23:18:00",3373,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-11-07 23:18:00",3373,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-11-07 23:18:00",3373,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-11-28 03:58:00",3374,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-11-28 03:58:00",3374,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-11-28 03:58:00",3374,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -4881,7 +4881,7 @@
 "2001-11-28 03:58:00",3374,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-11-28 03:58:00",3374,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-11-28 03:58:00",3374,"ZUCCARDI, Cristina","FREPASO","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-11-28 03:58:00",3374,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-11-28 03:58:00",3374,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-11-28 20:50:00",3375,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-11-28 20:50:00",3375,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-11-28 20:50:00",3375,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -5138,7 +5138,7 @@
 "2001-11-28 20:50:00",3375,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-11-28 20:50:00",3375,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","ABSTENCION","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-11-28 20:50:00",3375,"ZUCCARDI, Cristina","FREPASO","Mendoza","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-11-28 20:50:00",3375,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-11-28 20:50:00",3375,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-11-28 20:52:00",3376,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-11-28 20:52:00",3376,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","ABSTENCION","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-11-28 20:52:00",3376,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
@@ -5395,7 +5395,7 @@
 "2001-11-28 20:52:00",3376,"ZACARIAS, Juan Domingo","A.R.I","Entre Ríos","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A67.jpg",
 "2001-11-28 20:52:00",3376,"ZAPATA MERCADER, Jorge","Demócrata de Mendoza","Mendoza","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A1973.jpg",
 "2001-11-28 20:52:00",3376,"ZUCCARDI, Cristina","FREPASO","Mendoza","NEGATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A3629.jpg",
-"2001-11-28 20:52:00",3376,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg","date","votingId","legislator","party","region","vote","photoUrl","videoUrl"
+"2001-11-28 20:52:00",3376,"ZUÑIGA, Ovidio Octavio","Justicialista","Rio Negro","AFIRMATIVO","https://votaciones.hcdn.gob.ar/public/diputados/images/A78.jpg",
 "2001-11-29 01:09:00",3377,"ABASTO, Angel Leonidas","Justicialista","Buenos Aires","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A2965.jpg",
 "2001-11-29 01:09:00",3377,"ABELLA, Miguel Angel","Unión Cívica Radical","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3252.jpg",
 "2001-11-29 01:09:00",3377,"ALARCIA, Martha Carmen","Justicialista","Córdoba","AUSENTE","https://votaciones.hcdn.gob.ar/public/diputados/images/A3451.jpg",
