@@ -1361,7 +1361,13 @@
   },
   {
     "date": "2000-04-06 17:10:00",
-    "votingId": 3384
+    "votingId": 3384,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2000-04-06 17:10:00",

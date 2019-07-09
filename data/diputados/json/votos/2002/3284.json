@@ -1341,11 +1341,23 @@
   },
   {
     "date": "2002-04-25 01:49:00",
-    "votingId": 3284
+    "votingId": 3284,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2002-04-25 01:49:00",
-    "votingId": 3284
+    "votingId": 3284,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "-",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2002-04-25 01:49:00",

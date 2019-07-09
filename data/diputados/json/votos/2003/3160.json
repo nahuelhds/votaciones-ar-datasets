@@ -1351,7 +1351,13 @@
   },
   {
     "date": "2003-12-04 17:47:00",
-    "votingId": 3160
+    "votingId": 3160,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "-",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2003-12-04 17:47:00",
