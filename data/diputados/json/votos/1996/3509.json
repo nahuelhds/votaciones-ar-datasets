@@ -1351,11 +1351,23 @@
   },
   {
     "date": "1996-03-13 23:38:00",
-    "votingId": 3509
+    "votingId": 3509,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Justicialista",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1996-03-13 23:38:00",
-    "votingId": 3509
+    "votingId": 3509,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1996-03-13 23:38:00",

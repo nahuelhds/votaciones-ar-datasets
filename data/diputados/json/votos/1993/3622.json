@@ -1441,7 +1441,13 @@
   },
   {
     "date": "1993-06-23 21:26:00",
-    "votingId": 3622
+    "votingId": 3622,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santa Fe",
+    "vote": "NEGATIVO",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1993-06-23 21:26:00",

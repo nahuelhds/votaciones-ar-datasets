@@ -1341,11 +1341,23 @@
   },
   {
     "date": "1999-12-16 01:10:00",
-    "votingId": 3449
+    "votingId": 3449,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1999-12-16 01:10:00",
-    "votingId": 3449
+    "votingId": 3449,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1999-12-16 01:10:00",
