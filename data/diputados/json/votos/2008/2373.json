@@ -1441,7 +1441,13 @@
   },
   {
     "date": "2008-02-28 20:10:32",
-    "votingId": 2373
+    "votingId": 2373,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2008-02-28 20:10:32",

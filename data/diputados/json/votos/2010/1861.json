@@ -1431,11 +1431,23 @@
   },
   {
     "date": "2010-10-13 18:57:30",
-    "votingId": 1861
+    "votingId": 1861,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2010-10-13 18:57:30",
-    "votingId": 1861
+    "votingId": 1861,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2010-10-13 18:57:30",
