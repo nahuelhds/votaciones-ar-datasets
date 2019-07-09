@@ -1451,11 +1451,23 @@
   },
   {
     "date": "2007-05-09 21:20:05",
-    "votingId": 2326
+    "votingId": 2326,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2007-05-09 21:20:05",
-    "votingId": 2326
+    "votingId": 2326,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2007-05-09 21:20:05",

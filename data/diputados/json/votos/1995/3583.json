@@ -1341,11 +1341,23 @@
   },
   {
     "date": "1995-12-27 23:50:00",
-    "votingId": 3583
+    "votingId": 3583,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Justicialista",
+    "region": "Tierra del Fuego",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1995-12-27 23:50:00",
-    "votingId": 3583
+    "votingId": 3583,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1995-12-27 23:50:00",

@@ -1461,7 +1461,13 @@
   },
   {
     "date": "2007-04-12 00:42:25",
-    "votingId": 2349
+    "votingId": 2349,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2007-04-12 00:42:25",

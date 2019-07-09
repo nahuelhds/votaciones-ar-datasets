@@ -1451,7 +1451,13 @@
   },
   {
     "date": "2007-11-28 21:44:06",
-    "votingId": 2236
+    "votingId": 2236,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2007-11-28 21:44:06",

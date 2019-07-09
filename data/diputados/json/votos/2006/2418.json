@@ -1471,7 +1471,13 @@
   },
   {
     "date": "2006-11-29 22:36:00",
-    "votingId": 2418
+    "votingId": 2418,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2006-11-29 22:36:00",

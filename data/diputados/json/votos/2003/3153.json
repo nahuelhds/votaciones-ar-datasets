@@ -1411,11 +1411,23 @@
   },
   {
     "date": "2003-12-18 01:47:00",
-    "votingId": 3153
+    "votingId": 3153,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2003-12-18 01:47:00",
-    "votingId": 3153
+    "votingId": 3153,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2003-12-18 01:47:00",

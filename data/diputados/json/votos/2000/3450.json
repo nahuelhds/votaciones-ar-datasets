@@ -1341,11 +1341,23 @@
   },
   {
     "date": "2000-02-24 23:33:00",
-    "votingId": 3450
+    "votingId": 3450,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santiago del Estero",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2000-02-24 23:33:00",
-    "votingId": 3450
+    "votingId": 3450,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2000-02-24 23:33:00",

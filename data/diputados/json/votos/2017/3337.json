@@ -1341,7 +1341,13 @@
   },
   {
     "date": "2017-06-29 00:03:50",
-    "votingId": 3337
+    "votingId": 3337,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "San Luis",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=iVjvyASmq-4"
   },
   {
     "date": "2017-06-29 00:03:50",

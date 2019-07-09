@@ -1461,7 +1461,13 @@
   },
   {
     "date": "2006-10-04 22:38:00",
-    "votingId": 2537
+    "votingId": 2537,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Chubut",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2006-10-04 22:38:00",

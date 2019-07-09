@@ -1361,7 +1361,13 @@
   },
   {
     "date": "1996-06-05 22:48:00",
-    "votingId": 3513
+    "votingId": 3513,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1996-06-05 22:48:00",

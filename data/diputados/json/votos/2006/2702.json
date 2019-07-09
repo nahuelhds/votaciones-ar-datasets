@@ -1451,11 +1451,23 @@
   },
   {
     "date": "2006-03-22 23:33:56",
-    "votingId": 2702
+    "votingId": 2702,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santa Cruz",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2006-03-22 23:33:56",
-    "votingId": 2702
+    "votingId": 2702,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2006-03-22 23:33:56",
