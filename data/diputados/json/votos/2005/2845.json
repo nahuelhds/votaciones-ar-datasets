@@ -1441,11 +1441,23 @@
   },
   {
     "date": "2005-12-15 23:44:00",
-    "votingId": 2845
+    "votingId": 2845,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2005-12-15 23:44:00",
-    "votingId": 2845
+    "votingId": 2845,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2005-12-15 23:44:00",

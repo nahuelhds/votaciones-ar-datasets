@@ -1411,23 +1411,53 @@
   },
   {
     "date": "2005-12-06 17:11:00",
-    "votingId": 2776
+    "votingId": 2776,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Corrientes",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2005-12-06 17:11:00",
-    "votingId": 2776
+    "votingId": 2776,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "C.A.B.A.",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2005-12-06 17:11:00",
-    "votingId": 2776
+    "votingId": 2776,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Santa Fe",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2005-12-06 17:11:00",
-    "votingId": 2776
+    "votingId": 2776,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2005-12-06 17:11:00",
-    "votingId": 2776
+    "votingId": 2776,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2005-12-06 17:11:00",

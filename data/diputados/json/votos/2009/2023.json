@@ -1441,7 +1441,13 @@
   },
   {
     "date": "2009-03-11 18:01:15",
-    "votingId": 2023
+    "votingId": 2023,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2009-03-11 18:01:15",

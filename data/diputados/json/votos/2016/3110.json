@@ -1331,7 +1331,13 @@
   },
   {
     "date": "2016-11-17 01:50:06",
-    "votingId": 3110
+    "votingId": 3110,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": "https://www.youtube.com/watch?v=gyvdr0c-D_Y"
   },
   {
     "date": "2016-11-17 01:50:06",

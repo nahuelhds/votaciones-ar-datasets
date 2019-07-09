@@ -1451,7 +1451,13 @@
   },
   {
     "date": "2007-06-27 20:56:20",
-    "votingId": 2302
+    "votingId": 2302,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2007-06-27 20:56:20",

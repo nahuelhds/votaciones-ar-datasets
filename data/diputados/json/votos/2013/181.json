@@ -1431,7 +1431,13 @@
   },
   {
     "date": "2013-11-28 02:34:44",
-    "votingId": 181
+    "votingId": 181,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "San Juan",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2013-11-28 02:34:44",

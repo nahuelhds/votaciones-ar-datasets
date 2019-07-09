@@ -1361,7 +1361,13 @@
   },
   {
     "date": "1996-04-24 21:17:00",
-    "votingId": 3510
+    "votingId": 3510,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Justicialista",
+    "region": "Salta",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1996-04-24 21:17:00",

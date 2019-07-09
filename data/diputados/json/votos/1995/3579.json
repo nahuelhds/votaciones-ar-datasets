@@ -1291,15 +1291,33 @@
   },
   {
     "date": "1995-11-01 21:02:00",
-    "votingId": 3579
+    "votingId": 3579,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1995-11-01 21:02:00",
-    "votingId": 3579
+    "votingId": 3579,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Fuerza Republicana",
+    "region": "Tucumán",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1995-11-01 21:02:00",
-    "votingId": 3579
+    "votingId": 3579,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "Justicialista",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "1995-11-01 21:02:00",

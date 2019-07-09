@@ -1441,11 +1441,23 @@
   },
   {
     "date": "2007-12-19 23:49:03",
-    "votingId": 2394
+    "votingId": 2394,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2007-12-19 23:49:03",
-    "votingId": 2394
+    "votingId": 2394,
+    "legislator": "LEGISLADOR, A DESIGNAR",
+    "party": "",
+    "region": "Buenos Aires",
+    "vote": "AUSENTE",
+    "photoUrl": null,
+    "videoUrl": null
   },
   {
     "date": "2007-12-19 23:49:03",
